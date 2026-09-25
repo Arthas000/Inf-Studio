@@ -1,0 +1,632 @@
+{
+  "scope": "Independent Python reference math and finite source/asset checks. No C# / Unity compilation or playback.",
+  "checks": 121,
+  "categories": {
+    "math": 32,
+    "audio reference": 10,
+    "geometry reference": 2,
+    "source connection": 34,
+    "frozen file": 28,
+    "user asset": 4,
+    "asset inventory": 4,
+    "fixtures": 7
+  },
+  "fixture_note_records": {
+    "07_Audio_Dense_Disconnected.spc": 331,
+    "07_Batch_Properties.spc": 10,
+    "07_Connected_Sky_Heads.spc": 5,
+    "07_Copy_OneMs_Alignment.spc": 2,
+    "07_Grid_Arbitrary_Subdivision.spc": 2,
+    "07_Hit_Feedback.spc": 7,
+    "07_Selection_Copy_Range.spc": 6
+  },
+  "results": [
+    {
+      "category": "math",
+      "check": "timing-local endpoints N=1",
+      "result": "pass"
+    },
+    {
+      "category": "math",
+      "check": "monotone rational grid N=1",
+      "result": "pass"
+    },
+    {
+      "category": "math",
+      "check": "timing-local endpoints N=4",
+      "result": "pass"
+    },
+    {
+      "category": "math",
+      "check": "monotone rational grid N=4",
+      "result": "pass"
+    },
+    {
+      "category": "math",
+      "check": "timing-local endpoints N=6",
+      "result": "pass"
+    },
+    {
+      "category": "math",
+      "check": "monotone rational grid N=6",
+      "result": "pass"
+    },
+    {
+      "category": "math",
+      "check": "timing-local endpoints N=7",
+      "result": "pass"
+    },
+    {
+      "category": "math",
+      "check": "monotone rational grid N=7",
+      "result": "pass"
+    },
+    {
+      "category": "math",
+      "check": "timing-local endpoints N=8",
+      "result": "pass"
+    },
+    {
+      "category": "math",
+      "check": "monotone rational grid N=8",
+      "result": "pass"
+    },
+    {
+      "category": "math",
+      "check": "timing-local endpoints N=11",
+      "result": "pass"
+    },
+    {
+      "category": "math",
+      "check": "monotone rational grid N=11",
+      "result": "pass"
+    },
+    {
+      "category": "math",
+      "check": "timing-local endpoints N=12",
+      "result": "pass"
+    },
+    {
+      "category": "math",
+      "check": "monotone rational grid N=12",
+      "result": "pass"
+    },
+    {
+      "category": "math",
+      "check": "timing-local endpoints N=96",
+      "result": "pass"
+    },
+    {
+      "category": "math",
+      "check": "monotone rational grid N=96",
+      "result": "pass"
+    },
+    {
+      "category": "math",
+      "check": "timing-local endpoints N=1024",
+      "result": "pass"
+    },
+    {
+      "category": "math",
+      "check": "monotone rational grid N=1024",
+      "result": "pass"
+    },
+    {
+      "category": "math",
+      "check": "130 BPM 1/4 no accumulated rounding",
+      "result": "pass"
+    },
+    {
+      "category": "math",
+      "check": "millionth grid from absolute index",
+      "result": "pass"
+    },
+    {
+      "category": "math",
+      "check": "N12 retains quarter and half categories",
+      "result": "pass"
+    },
+    {
+      "category": "math",
+      "check": "future bar reset (0, 120, 4)",
+      "result": "pass"
+    },
+    {
+      "category": "math",
+      "check": "future bar reset (1123, 150, 3)",
+      "result": "pass"
+    },
+    {
+      "category": "math",
+      "check": "future bar reset (9123, 172, 4)",
+      "result": "pass"
+    },
+    {
+      "category": "math",
+      "check": "inclusive range uses long-note ends",
+      "result": "pass"
+    },
+    {
+      "category": "math",
+      "check": "floating relative copy and unchanged source",
+      "result": "pass"
+    },
+    {
+      "category": "math",
+      "check": "explicit align fixes one-ms offset",
+      "result": "pass"
+    },
+    {
+      "category": "math",
+      "check": "alignment collapsing a long note must reject",
+      "result": "pass"
+    },
+    {
+      "category": "math",
+      "check": "wide note edit fit 1",
+      "result": "pass"
+    },
+    {
+      "category": "math",
+      "check": "wide note edit fit 2",
+      "result": "pass"
+    },
+    {
+      "category": "math",
+      "check": "wide note edit fit 3",
+      "result": "pass"
+    },
+    {
+      "category": "math",
+      "check": "wide note edit fit 4",
+      "result": "pass"
+    },
+    {
+      "category": "audio reference",
+      "check": "voice reservation 1",
+      "result": "pass"
+    },
+    {
+      "category": "audio reference",
+      "check": "voice reservation 2",
+      "result": "pass"
+    },
+    {
+      "category": "audio reference",
+      "check": "voice reservation 4",
+      "result": "pass"
+    },
+    {
+      "category": "audio reference",
+      "check": "voice reservation 7",
+      "result": "pass"
+    },
+    {
+      "category": "audio reference",
+      "check": "voice reservation 8",
+      "result": "pass"
+    },
+    {
+      "category": "audio reference",
+      "check": "voice reservation 16",
+      "result": "pass"
+    },
+    {
+      "category": "audio reference",
+      "check": "voice reservation 32",
+      "result": "pass"
+    },
+    {
+      "category": "audio reference",
+      "check": "voice reservation 64",
+      "result": "pass"
+    },
+    {
+      "category": "audio reference",
+      "check": "voice reservation 128",
+      "result": "pass"
+    },
+    {
+      "category": "audio reference",
+      "check": "music > hold > shot priority",
+      "result": "pass"
+    },
+    {
+      "category": "geometry reference",
+      "check": "connected first-only heads; disjoint region still heads",
+      "result": "pass"
+    },
+    {
+      "category": "geometry reference",
+      "check": "needle same-Y plane ends upper quarter",
+      "result": "pass"
+    },
+    {
+      "category": "source connection",
+      "check": "autoplay gates FX sound",
+      "result": "pass"
+    },
+    {
+      "category": "source connection",
+      "check": "play mode hides editor control tree",
+      "result": "pass"
+    },
+    {
+      "category": "source connection",
+      "check": "choice buttons use queued RAM edits",
+      "result": "pass"
+    },
+    {
+      "category": "source connection",
+      "check": "panel uses common atomic batch core",
+      "result": "pass"
+    },
+    {
+      "category": "source connection",
+      "check": "numeric input debounces incomplete typing",
+      "result": "pass"
+    },
+    {
+      "category": "source connection",
+      "check": "stale source validation",
+      "result": "pass"
+    },
+    {
+      "category": "source connection",
+      "check": "fast option click retains pending numeric",
+      "result": "pass"
+    },
+    {
+      "category": "source connection",
+      "check": "no ordinary per-note Apply button handler",
+      "result": "pass"
+    },
+    {
+      "category": "source connection",
+      "check": "Ctrl refines selection",
+      "result": "pass"
+    },
+    {
+      "category": "source connection",
+      "check": "drag modifier/play/preview gating",
+      "result": "pass"
+    },
+    {
+      "category": "source connection",
+      "check": "RMB first cancels draft",
+      "result": "pass"
+    },
+    {
+      "category": "source connection",
+      "check": "align only visible with beat grid",
+      "result": "pass"
+    },
+    {
+      "category": "source connection",
+      "check": "preview retains original selection",
+      "result": "pass"
+    },
+    {
+      "category": "source connection",
+      "check": "cut is hide-only before drop",
+      "result": "pass"
+    },
+    {
+      "category": "source connection",
+      "check": "preview commits at one placement action",
+      "result": "pass"
+    },
+    {
+      "category": "source connection",
+      "check": "range/paste use shared projected grid target",
+      "result": "pass"
+    },
+    {
+      "category": "source connection",
+      "check": "progress scrubbing preserves drafts",
+      "result": "pass"
+    },
+    {
+      "category": "source connection",
+      "check": "one-second second-click exit",
+      "result": "pass"
+    },
+    {
+      "category": "source connection",
+      "check": "reference BPM only view normalization",
+      "result": "pass"
+    },
+    {
+      "category": "source connection",
+      "check": "positive UI delay starts music later",
+      "result": "pass"
+    },
+    {
+      "category": "source connection",
+      "check": "inactive tabs drawn first",
+      "result": "pass"
+    },
+    {
+      "category": "source connection",
+      "check": "selected tab drawn front",
+      "result": "pass"
+    },
+    {
+      "category": "source connection",
+      "check": "visible range button connected",
+      "result": "pass"
+    },
+    {
+      "category": "source connection",
+      "check": "runtime default sky attacks first connected head",
+      "result": "pass"
+    },
+    {
+      "category": "source connection",
+      "check": "global Save includes valid typed note draft",
+      "result": "pass"
+    },
+    {
+      "category": "source connection",
+      "check": "selection core has no file writes",
+      "result": "pass"
+    },
+    {
+      "category": "source connection",
+      "check": "C# regressions linked into actual runner",
+      "result": "pass"
+    },
+    {
+      "category": "source connection",
+      "check": "production audio priorities and budgets wired",
+      "result": "pass"
+    },
+    {
+      "category": "source connection",
+      "check": "FX does not reset device or reuse future scheduled slots via isPlaying",
+      "result": "pass"
+    },
+    {
+      "category": "source connection",
+      "check": "same connected start model drives brackets",
+      "result": "pass"
+    },
+    {
+      "category": "source connection",
+      "check": "needle limit wired to viewport",
+      "result": "pass"
+    },
+    {
+      "category": "source connection",
+      "check": "bounded play-only procedural feedback",
+      "result": "pass"
+    },
+    {
+      "category": "source connection",
+      "check": "VFX disabled while editing/seeking paused",
+      "result": "pass"
+    },
+    {
+      "category": "frozen file",
+      "check": "Assets/InFalsusStudio/Resources/InFalsusStudio/CalibratedProfile.asset",
+      "result": "pass"
+    },
+    {
+      "category": "frozen file",
+      "check": "Assets/InFalsusStudio/Resources/InFalsusStudio/KeySounds/Flick.ogg",
+      "result": "pass"
+    },
+    {
+      "category": "frozen file",
+      "check": "Assets/InFalsusStudio/Resources/InFalsusStudio/KeySounds/Flick.ogg.meta",
+      "result": "pass"
+    },
+    {
+      "category": "frozen file",
+      "check": "Assets/InFalsusStudio/Resources/InFalsusStudio/KeySounds/FloorHit.ogg",
+      "result": "pass"
+    },
+    {
+      "category": "frozen file",
+      "check": "Assets/InFalsusStudio/Resources/InFalsusStudio/KeySounds/FloorHit.ogg.meta",
+      "result": "pass"
+    },
+    {
+      "category": "frozen file",
+      "check": "Assets/InFalsusStudio/Resources/InFalsusStudio/KeySounds/FloorHold.ogg",
+      "result": "pass"
+    },
+    {
+      "category": "frozen file",
+      "check": "Assets/InFalsusStudio/Resources/InFalsusStudio/KeySounds/FloorHold.ogg.meta",
+      "result": "pass"
+    },
+    {
+      "category": "frozen file",
+      "check": "Assets/InFalsusStudio/Resources/InFalsusStudio/KeySounds/SideHit.ogg",
+      "result": "pass"
+    },
+    {
+      "category": "frozen file",
+      "check": "Assets/InFalsusStudio/Resources/InFalsusStudio/KeySounds/SideHit.ogg.meta",
+      "result": "pass"
+    },
+    {
+      "category": "frozen file",
+      "check": "Assets/InFalsusStudio/Resources/InFalsusStudio/KeySounds/SkyHit.ogg",
+      "result": "pass"
+    },
+    {
+      "category": "frozen file",
+      "check": "Assets/InFalsusStudio/Resources/InFalsusStudio/KeySounds/SkyHit.ogg.meta",
+      "result": "pass"
+    },
+    {
+      "category": "frozen file",
+      "check": "Assets/InFalsusStudio/Resources/InFalsusStudio/KeySounds/SkyHold.ogg",
+      "result": "pass"
+    },
+    {
+      "category": "frozen file",
+      "check": "Assets/InFalsusStudio/Resources/InFalsusStudio/KeySounds/SkyHold.ogg.meta",
+      "result": "pass"
+    },
+    {
+      "category": "frozen file",
+      "check": "Assets/InFalsusStudio/Resources/InFalsusStudio/VertexGlow.shader",
+      "result": "pass"
+    },
+    {
+      "category": "frozen file",
+      "check": "Assets/InFalsusStudio/Resources/InFalsusStudio/VertexOpaque.shader",
+      "result": "pass"
+    },
+    {
+      "category": "frozen file",
+      "check": "Assets/InFalsusStudio/Resources/InFalsusStudio/VertexTransparent.shader",
+      "result": "pass"
+    },
+    {
+      "category": "frozen file",
+      "check": "Assets/InFalsusStudio/Runtime/Core/AutoplayCursor.cs",
+      "result": "pass"
+    },
+    {
+      "category": "frozen file",
+      "check": "Assets/InFalsusStudio/Runtime/Core/CameraCalibration.cs",
+      "result": "pass"
+    },
+    {
+      "category": "frozen file",
+      "check": "Assets/InFalsusStudio/Runtime/Core/ManualSongSession.cs",
+      "result": "pass"
+    },
+    {
+      "category": "frozen file",
+      "check": "Assets/InFalsusStudio/Runtime/Core/PreviewScore.cs",
+      "result": "pass"
+    },
+    {
+      "category": "frozen file",
+      "check": "Assets/InFalsusStudio/Runtime/Core/ProvisionalComboTimeline.cs",
+      "result": "pass"
+    },
+    {
+      "category": "frozen file",
+      "check": "Assets/InFalsusStudio/Runtime/Core/SongMetadataEdit.cs",
+      "result": "pass"
+    },
+    {
+      "category": "frozen file",
+      "check": "Assets/InFalsusStudio/Runtime/Core/TickCountResearch.cs",
+      "result": "pass"
+    },
+    {
+      "category": "frozen file",
+      "check": "Assets/InFalsusStudio/Runtime/Rendering/FlickGeometry.cs",
+      "result": "pass"
+    },
+    {
+      "category": "frozen file",
+      "check": "Assets/InFalsusStudio/Runtime/Rendering/StageRenderer.cs",
+      "result": "pass"
+    },
+    {
+      "category": "frozen file",
+      "check": "Assets/InFalsusStudio/Runtime/Rendering/StageSpace.cs",
+      "result": "pass"
+    },
+    {
+      "category": "frozen file",
+      "check": "Assets/InFalsusStudio/Runtime/StudioProfile.cs",
+      "result": "pass"
+    },
+    {
+      "category": "frozen file",
+      "check": "Assets/InFalsusStudio/Scenes/InFalsusStudio_Demo.unity",
+      "result": "pass"
+    },
+    {
+      "category": "user asset",
+      "check": "274_songdiff-frame-easy.png",
+      "result": "pass"
+    },
+    {
+      "category": "user asset",
+      "check": "266_songdiff-frame-medium.png",
+      "result": "pass"
+    },
+    {
+      "category": "user asset",
+      "check": "279_songdiff-frame-hard.png",
+      "result": "pass"
+    },
+    {
+      "category": "user asset",
+      "check": "277_songdiff-frame-xtreme.png",
+      "result": "pass"
+    },
+    {
+      "category": "asset inventory",
+      "check": "every asset and folder has meta",
+      "result": "pass"
+    },
+    {
+      "category": "asset inventory",
+      "check": "no GUID collision",
+      "result": "pass"
+    },
+    {
+      "category": "asset inventory",
+      "check": "no font binaries shipped",
+      "result": "pass"
+    },
+    {
+      "category": "asset inventory",
+      "check": "does not overwrite project settings or packages",
+      "result": "pass"
+    },
+    {
+      "category": "fixtures",
+      "check": "synthetic fixture 07_Audio_Dense_Disconnected.spc",
+      "result": "pass"
+    },
+    {
+      "category": "fixtures",
+      "check": "synthetic fixture 07_Batch_Properties.spc",
+      "result": "pass"
+    },
+    {
+      "category": "fixtures",
+      "check": "synthetic fixture 07_Connected_Sky_Heads.spc",
+      "result": "pass"
+    },
+    {
+      "category": "fixtures",
+      "check": "synthetic fixture 07_Copy_OneMs_Alignment.spc",
+      "result": "pass"
+    },
+    {
+      "category": "fixtures",
+      "check": "synthetic fixture 07_Grid_Arbitrary_Subdivision.spc",
+      "result": "pass"
+    },
+    {
+      "category": "fixtures",
+      "check": "synthetic fixture 07_Hit_Feedback.spc",
+      "result": "pass"
+    },
+    {
+      "category": "fixtures",
+      "check": "synthetic fixture 07_Selection_Copy_Range.spc",
+      "result": "pass"
+    },
+    {
+      "category": "source connection",
+      "check": "no duplicate Bootstrap method names",
+      "result": "pass"
+    }
+  ],
+  "unity_execution": "not_run",
+  "csharp_compilation": "not_run"
+}

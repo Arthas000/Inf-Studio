@@ -1,0 +1,32 @@
+[
+  {
+    "provided_filename": "315_persistent-ui-topleft-freeplay.png",
+    "installed_path": "Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/ScoreFrame.png",
+    "sha256": "f9669160013e75f19e471e670aad52d5769e38d78f7d5acc35b6c37dc979eb9d",
+    "transform": "none; original pixels/alpha retained"
+  },
+  {
+    "provided_filename": "457_difficulty-min.png",
+    "installed_path": "Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/Difficulty0.png",
+    "sha256": "b18199b91211481c49f11f2c1e2ba49c0379e2041cdce51c244a87f32d8d15ef",
+    "transform": "none; original pixels/alpha retained"
+  },
+  {
+    "provided_filename": "471_difficulty-evo.png",
+    "installed_path": "Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/Difficulty1.png",
+    "sha256": "f4b7388dabe0f6285aac340eddbd285e8fd596038e53f67b0eb617b93ab60941",
+    "transform": "none; original pixels/alpha retained"
+  },
+  {
+    "provided_filename": "423_difficulty-ult.png",
+    "installed_path": "Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/Difficulty2.png",
+    "sha256": "3fc01dee36acc93ab7c0e17c8e9b17b84fd90024f02ba5da795d87a7847f4b84",
+    "transform": "none; original pixels/alpha retained"
+  },
+  {
+    "provided_filename": "297_difficulty-fbd.png",
+    "installed_path": "Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/Difficulty3.png",
+    "sha256": "a398aa18c15757c4289be16d7d5605e54ec5c07a4d5abdeba161422991e9b303",
+    "transform": "none; original pixels/alpha retained"
+  }
+]

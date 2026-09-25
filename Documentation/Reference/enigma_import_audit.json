@@ -1,0 +1,184 @@
+{
+  "scope": "Archive extraction + independent Python audit, not Unity/C# execution or official scoring evidence",
+  "title": "Enigma",
+  "artist": "sanmal",
+  "mainAudio": {
+    "codec": "vorbis",
+    "channels": 2,
+    "sample_rate": 48000,
+    "duration_seconds": 163.2594375,
+    "pages": 167,
+    "path": "Songs/014_enigma/enigma.ogg",
+    "source": {
+      "FullLookupPath": "enigma.wav",
+      "Guid": "a54839faa239fa7429d638649e270e66",
+      "FileLength": 4743214
+    },
+    "sha256": "81bf545f64d0b67530247d5351e4b6b14264c18cf2662f415f229e6acdb2cc01"
+  },
+  "supplementaryAudio": [
+    {
+      "codec": "vorbis",
+      "channels": 2,
+      "sample_rate": 48000,
+      "duration_seconds": 41.0,
+      "pages": 46,
+      "path": "Songs/014_enigma/enigma_bga.ogg",
+      "source": {
+        "FullLookupPath": "enigma_bga.wav",
+        "Guid": "0a8d7d3cc80344e48a19a98def768c04",
+        "FileLength": 1328986
+      },
+      "sha256": "48b0b5eef548e3333270e6b55153e77bd161b41e05f7741b2e89fab18c11b20f"
+    }
+  ],
+  "difficultyStats": [
+    {
+      "index": 0,
+      "sourceMask": 1,
+      "difficulty": "Minimal",
+      "rating": "4",
+      "bpm": 172.0,
+      "beatsPerBar": 4.0,
+      "objects": 315,
+      "byType": {
+        "skyarea": 88,
+        "flick": 74,
+        "tap": 108,
+        "hold": 45
+      },
+      "events": 2,
+      "opaqueEvents": 2,
+      "lastEndMs": 157674,
+      "skyFlags": {
+        "72": 21,
+        "144": 28,
+        "36": 31,
+        "48": 3,
+        "132": 3,
+        "40": 1,
+        "68": 1
+      },
+      "sourceJSON": "Charts/Minimal_enigma0.json",
+      "sourceSHA256": "386658158302f6a65cf37f9ed9825989ab588af9b12d071addbde32b510503fb",
+      "binarySHA256": "0d2820e3b87956e333f7836fb7d31267da3a51cc4141a2bd12a7cc073d101f0b",
+      "referenceSPC": "Validation/Enigma_Import_Reference/0_Minimal.spc"
+    },
+    {
+      "index": 1,
+      "sourceMask": 2,
+      "difficulty": "Evolved",
+      "rating": "7",
+      "bpm": 172.0,
+      "beatsPerBar": 4.0,
+      "objects": 540,
+      "byType": {
+        "skyarea": 143,
+        "flick": 121,
+        "hold": 29,
+        "tap": 247
+      },
+      "events": 28,
+      "opaqueEvents": 25,
+      "lastEndMs": 157674,
+      "skyFlags": {
+        "72": 54,
+        "36": 40,
+        "144": 32,
+        "40": 3,
+        "136": 9,
+        "68": 5
+      },
+      "sourceJSON": "Charts/Evolved_enigma1.json",
+      "sourceSHA256": "d71ede2a3df62e9c8b0b72d973d4de48245848a31ac22de5cefd0b0eab0ea6ea",
+      "binarySHA256": "dde0f5b04a381494c9c9afc5fdbfd08802e6d78ca56f69b573b8c47e7ed748fe",
+      "referenceSPC": "Validation/Enigma_Import_Reference/1_Evolved.spc"
+    },
+    {
+      "index": 2,
+      "sourceMask": 4,
+      "difficulty": "Ultimate",
+      "rating": "11",
+      "bpm": 172.0,
+      "beatsPerBar": 4.0,
+      "objects": 1243,
+      "byType": {
+        "skyarea": 361,
+        "hold": 78,
+        "flick": 374,
+        "tap": 430
+      },
+      "events": 12,
+      "opaqueEvents": 0,
+      "lastEndMs": 157718,
+      "skyFlags": {
+        "72": 89,
+        "36": 192,
+        "144": 32,
+        "40": 11,
+        "136": 15,
+        "48": 9,
+        "132": 5,
+        "68": 2,
+        "80": 6
+      },
+      "sourceJSON": "Charts/Ultimate_enigma2.json",
+      "sourceSHA256": "514a87bd30cc1d5a15c677b28b5fc190038377fe83fcf3b35f67daaa2b8c6b95",
+      "binarySHA256": "e31fd68c80565fb5be89e68da1b2ddc7de985a3b69021a9705123516b4493b2e",
+      "referenceSPC": "Validation/Enigma_Import_Reference/2_Ultimate.spc"
+    },
+    {
+      "index": 3,
+      "sourceMask": 8,
+      "difficulty": "Forbidden",
+      "rating": "13",
+      "bpm": 172.0,
+      "beatsPerBar": 4.0,
+      "objects": 1492,
+      "byType": {
+        "skyarea": 477,
+        "tap": 583,
+        "hold": 107,
+        "flick": 325
+      },
+      "events": 24,
+      "opaqueEvents": 0,
+      "lastEndMs": 157674,
+      "skyFlags": {
+        "36": 259,
+        "72": 61,
+        "144": 43,
+        "48": 4,
+        "132": 4,
+        "40": 51,
+        "68": 48,
+        "80": 5,
+        "136": 2
+      },
+      "sourceJSON": "Charts/Forbidden_enigma3.json",
+      "sourceSHA256": "d017f6041bcec5c49cd2009b3cb9c873f6c52774bf40328d06fa5ffc20020798",
+      "binarySHA256": "35a4cf2e432cbe9d02d9c161fc8294c4b56f82f014726c7fdb05faba8845ecb8",
+      "referenceSPC": "Validation/Enigma_Import_Reference/3_Forbidden.spc"
+    }
+  ],
+  "originalSHA256": {
+    "jacket_small.png": "63445b1bb11244c1320aa8428b755ef174b25589a92c044852e78245cf3c9ecf",
+    "song.json": "9322b5d3cbc9a7de032b725cc51ed1f52598ac0c77cab820b1786828343b6d7b",
+    "jacket_large.png": "6ff24209256fd780dbb654b31673061b7e9252067d7835973468035738a2b793",
+    "enigma.ogg": "81bf545f64d0b67530247d5351e4b6b14264c18cf2662f415f229e6acdb2cc01",
+    "enigma_bga.ogg": "48b0b5eef548e3333270e6b55153e77bd161b41e05f7741b2e89fab18c11b20f",
+    "Charts/Evolved_enigma1.spc": "dde0f5b04a381494c9c9afc5fdbfd08802e6d78ca56f69b573b8c47e7ed748fe",
+    "Charts/Forbidden_enigma3.json": "d017f6041bcec5c49cd2009b3cb9c873f6c52774bf40328d06fa5ffc20020798",
+    "Charts/Minimal_enigma0.json": "386658158302f6a65cf37f9ed9825989ab588af9b12d071addbde32b510503fb",
+    "Charts/Minimal_enigma0.spc": "0d2820e3b87956e333f7836fb7d31267da3a51cc4141a2bd12a7cc073d101f0b",
+    "Charts/Forbidden_enigma3.spc": "35a4cf2e432cbe9d02d9c161fc8294c4b56f82f014726c7fdb05faba8845ecb8",
+    "Charts/Ultimate_enigma2.spc": "e31fd68c80565fb5be89e68da1b2ddc7de985a3b69021a9705123516b4493b2e",
+    "Charts/Evolved_enigma1.json": "d71ede2a3df62e9c8b0b72d973d4de48245848a31ac22de5cefd0b0eab0ea6ea",
+    "Charts/Ultimate_enigma2.json": "514a87bd30cc1d5a15c677b28b5fc190038377fe83fcf3b35f67daaa2b8c6b95"
+  },
+  "unverified": [
+    "Sky one-hot field to easing-name mapping is an import profile, not game-verified",
+    "side visibility events remain opaque",
+    "No Hold/Sky judgement ticks, combo or intermediate score inferred"
+  ]
+}

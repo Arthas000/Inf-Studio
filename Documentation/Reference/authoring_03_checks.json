@@ -1,0 +1,652 @@
+{
+  "scope": "Independent rational/decimal oracles and static integration; NOT execution of C# or Unity",
+  "passed": 158,
+  "failed": 0,
+  "unchanged_baseline_sha256": {
+    "Runtime/Core/CameraCalibration.cs": "add7005bf6d63a903e839ca1e765b5c192dbb54397aec1136c18a1138d895bc4",
+    "Runtime/StudioProfile.cs": "e4e8e02edb4ec3c624c3f080bf022676afafac94d4b8ac6f0969927cab6ce8ef",
+    "Runtime/Rendering/StageSpace.cs": "1ed37906b794ce0f1014ef2d61ee8ada0cbbefe63100e4709a03f3dd9a332852",
+    "Runtime/Rendering/StageRenderer.cs": "71bbcd3d50d57e9948b8a31e30f9c1fa0b2e9c27e9e0f8cd6c71e7cca720582b",
+    "Runtime/Rendering/FlickGeometry.cs": "ef24bb86aff2e9e40984b5193f384a8df8fd8fcf6030c19101bbf00ebeab49ce",
+    "Scenes/InFalsusStudio_Demo.unity": "0a659c110300a66f41c5379e6023f723fe1c61bbb95d551fb850d003993acbcf",
+    "Resources/InFalsusStudio/CalibratedProfile.asset": "2692349775b5821c6822a9e39e906aedece8a316f4fcc26d574a219251eb0fbc",
+    "Resources/InFalsusStudio/LightsOut.spc.txt": "166a8abf158c8e2ccdebac0b2ee897b371f569b0ae4cdbcc7bbd6709ea41aa7e",
+    "Resources/InFalsusStudio/VertexOpaque.shader": "7d4e46d7d34012dc9170138eeaed3a63e0da917640aaf09ef633769fda5f8aa1",
+    "Resources/InFalsusStudio/VertexTransparent.shader": "f0cdbdd04f519e1b902545c657c75799547233264ca3bc52acd6fe7e8208724a",
+    "Resources/InFalsusStudio/VertexGlow.shader": "61a2ff9d99e5bb43aad7dc1780d30b8cedc718bf5d3d9070298fe8f16ad9d9b7"
+  },
+  "checks": [
+    {
+      "name": "130 BPM exact fourth beat is 1846 rounded ms",
+      "passed": true
+    },
+    {
+      "name": "Millionth subdivision has no period-rounding drift",
+      "passed": true
+    },
+    {
+      "name": "4096 divisions differ by at most one ms from exact rational",
+      "passed": true
+    },
+    {
+      "name": "Distinct increasing authoring lines at 130 BPM",
+      "passed": true
+    },
+    {
+      "name": "Every enumerated integer line is an exact snapping target",
+      "passed": true
+    },
+    {
+      "name": "Group drag re-snaps each translated head independently",
+      "passed": true
+    },
+    {
+      "name": "Group duration follows absolute snapped endpoints",
+      "passed": true
+    },
+    {
+      "name": "Different interval lengths are retained rather than accumulated 115ms",
+      "passed": true
+    },
+    {
+      "name": "Two seconds contains 18 lines at 130 BPM subdivision 4",
+      "passed": true
+    },
+    {
+      "name": "Rational oracle long timeline BPM=73, subdivision=1",
+      "passed": true
+    },
+    {
+      "name": "Rational oracle long timeline BPM=73, subdivision=3",
+      "passed": true
+    },
+    {
+      "name": "Rational oracle long timeline BPM=73, subdivision=4",
+      "passed": true
+    },
+    {
+      "name": "Rational oracle long timeline BPM=73, subdivision=7",
+      "passed": true
+    },
+    {
+      "name": "Rational oracle long timeline BPM=73, subdivision=16",
+      "passed": true
+    },
+    {
+      "name": "Rational oracle long timeline BPM=73, subdivision=32",
+      "passed": true
+    },
+    {
+      "name": "Rational oracle long timeline BPM=127, subdivision=1",
+      "passed": true
+    },
+    {
+      "name": "Rational oracle long timeline BPM=127, subdivision=3",
+      "passed": true
+    },
+    {
+      "name": "Rational oracle long timeline BPM=127, subdivision=4",
+      "passed": true
+    },
+    {
+      "name": "Rational oracle long timeline BPM=127, subdivision=7",
+      "passed": true
+    },
+    {
+      "name": "Rational oracle long timeline BPM=127, subdivision=16",
+      "passed": true
+    },
+    {
+      "name": "Rational oracle long timeline BPM=127, subdivision=32",
+      "passed": true
+    },
+    {
+      "name": "Rational oracle long timeline BPM=130, subdivision=1",
+      "passed": true
+    },
+    {
+      "name": "Rational oracle long timeline BPM=130, subdivision=3",
+      "passed": true
+    },
+    {
+      "name": "Rational oracle long timeline BPM=130, subdivision=4",
+      "passed": true
+    },
+    {
+      "name": "Rational oracle long timeline BPM=130, subdivision=7",
+      "passed": true
+    },
+    {
+      "name": "Rational oracle long timeline BPM=130, subdivision=16",
+      "passed": true
+    },
+    {
+      "name": "Rational oracle long timeline BPM=130, subdivision=32",
+      "passed": true
+    },
+    {
+      "name": "Rational oracle long timeline BPM=175, subdivision=1",
+      "passed": true
+    },
+    {
+      "name": "Rational oracle long timeline BPM=175, subdivision=3",
+      "passed": true
+    },
+    {
+      "name": "Rational oracle long timeline BPM=175, subdivision=4",
+      "passed": true
+    },
+    {
+      "name": "Rational oracle long timeline BPM=175, subdivision=7",
+      "passed": true
+    },
+    {
+      "name": "Rational oracle long timeline BPM=175, subdivision=16",
+      "passed": true
+    },
+    {
+      "name": "Rational oracle long timeline BPM=175, subdivision=32",
+      "passed": true
+    },
+    {
+      "name": "Rational oracle long timeline BPM=241, subdivision=1",
+      "passed": true
+    },
+    {
+      "name": "Rational oracle long timeline BPM=241, subdivision=3",
+      "passed": true
+    },
+    {
+      "name": "Rational oracle long timeline BPM=241, subdivision=4",
+      "passed": true
+    },
+    {
+      "name": "Rational oracle long timeline BPM=241, subdivision=7",
+      "passed": true
+    },
+    {
+      "name": "Rational oracle long timeline BPM=241, subdivision=16",
+      "passed": true
+    },
+    {
+      "name": "Rational oracle long timeline BPM=241, subdivision=32",
+      "passed": true
+    },
+    {
+      "name": "4-beat bars at 120 BPM",
+      "passed": true
+    },
+    {
+      "name": "3-beat bars at 120 BPM",
+      "passed": true
+    },
+    {
+      "name": "Timing origin 1123ms at 150 BPM uses local grid",
+      "passed": true
+    },
+    {
+      "name": "X ruler defaults to 5-percent steps",
+      "passed": true
+    },
+    {
+      "name": "X midpoint has deterministic tie handling",
+      "passed": true
+    },
+    {
+      "name": "Non-dividing steps include right boundary",
+      "passed": true
+    },
+    {
+      "name": "Decimal edge edit keeps opposing boundary and split=2",
+      "passed": true
+    },
+    {
+      "name": "Decimal edge edit keeps opposing boundary and split=24",
+      "passed": true
+    },
+    {
+      "name": "Decimal edge edit keeps opposing boundary and split=32",
+      "passed": true
+    },
+    {
+      "name": "Decimal edge edit keeps opposing boundary and split=100",
+      "passed": true
+    },
+    {
+      "name": "Decimal edge edit keeps opposing boundary and split=200",
+      "passed": true
+    },
+    {
+      "name": "No independent Snap toggle remains",
+      "passed": true
+    },
+    {
+      "name": "Mandatory time snap ignores legacy bypass argument",
+      "passed": true
+    },
+    {
+      "name": "Renderer uses SAME AuthoringGrid and same subdivision",
+      "passed": true
+    },
+    {
+      "name": "No hard-coded four-beat major-line condition",
+      "passed": true
+    },
+    {
+      "name": "X ruler derives ticks from configured AirAuthoringGrid",
+      "passed": true
+    },
+    {
+      "name": "Typed source Apply really updates the document",
+      "passed": true
+    },
+    {
+      "name": "Raw typed text does not use generated formatter",
+      "passed": true
+    },
+    {
+      "name": "Gesture writer uses clean decimal edge arithmetic",
+      "passed": true
+    },
+    {
+      "name": "Explicit LEFT Ctrl key, not merged modifier",
+      "passed": true
+    },
+    {
+      "name": "Bodies gated by left Ctrl",
+      "passed": true
+    },
+    {
+      "name": "Handles built only under left Ctrl",
+      "passed": true
+    },
+    {
+      "name": "Scene drag releases only on LEFT mouse-up",
+      "passed": true
+    },
+    {
+      "name": "Timeline bodies also gated",
+      "passed": true
+    },
+    {
+      "name": "Release left Ctrl stops edit immediately",
+      "passed": true
+    },
+    {
+      "name": "No left-activatable GUI buttons in radial view",
+      "passed": true
+    },
+    {
+      "name": "Menu commits only on RIGHT mouse-up",
+      "passed": true
+    },
+    {
+      "name": "Submenu opens at parent button center",
+      "passed": true
+    },
+    {
+      "name": "Submenu dwell is exactly 0.5 seconds",
+      "passed": true
+    },
+    {
+      "name": "Blank radial release invalidates choice",
+      "passed": true
+    },
+    {
+      "name": "Tap/Hold independent defaults",
+      "passed": true
+    },
+    {
+      "name": "Side widths override both defaults",
+      "passed": true
+    },
+    {
+      "name": "Sky defaults 10 percent and split100",
+      "passed": true
+    },
+    {
+      "name": "Click flow replaces drag-to-place",
+      "passed": true
+    },
+    {
+      "name": "Four Sky stages explicitly retained",
+      "passed": true
+    },
+    {
+      "name": "Pending clicks never open a history transaction",
+      "passed": true
+    },
+    {
+      "name": "Existing pre-gesture document remains preview source",
+      "passed": true
+    },
+    {
+      "name": "All new C# tests wired into Unity self-test",
+      "passed": true
+    },
+    {
+      "name": "No Packages or ProjectSettings replacements",
+      "passed": true
+    },
+    {
+      "name": "Asset metadata: Scenes/InFalsusStudio_Demo.unity",
+      "passed": true
+    },
+    {
+      "name": "Asset metadata: Editor/StudioSetup.cs",
+      "passed": true
+    },
+    {
+      "name": "Asset metadata: Runtime/StudioProfile.cs",
+      "passed": true
+    },
+    {
+      "name": "Asset metadata: Runtime/StudioBootstrap.Editing.cs",
+      "passed": true
+    },
+    {
+      "name": "Asset metadata: Runtime/StudioTransport.cs",
+      "passed": true
+    },
+    {
+      "name": "Asset metadata: Runtime/StudioBootstrap.EaseHandles.cs",
+      "passed": true
+    },
+    {
+      "name": "Asset metadata: Runtime/StudioBootstrap.Radial.cs",
+      "passed": true
+    },
+    {
+      "name": "Asset metadata: Runtime/StudioBootstrap.PointPlacement.cs",
+      "passed": true
+    },
+    {
+      "name": "Asset metadata: Runtime/LeftControlGate.cs",
+      "passed": true
+    },
+    {
+      "name": "Asset metadata: Runtime/StudioBootstrap.Timeline.cs",
+      "passed": true
+    },
+    {
+      "name": "Asset metadata: Runtime/StudioBootstrap.cs",
+      "passed": true
+    },
+    {
+      "name": "Asset metadata: Runtime/StudioBootstrap.Navigation.cs",
+      "passed": true
+    },
+    {
+      "name": "Asset metadata: Runtime/StudioBootstrap.GuiFrame.cs",
+      "passed": true
+    },
+    {
+      "name": "Asset metadata: Resources/InFalsusStudio/VertexOpaque.shader",
+      "passed": true
+    },
+    {
+      "name": "Asset metadata: Resources/InFalsusStudio/LightsOut.spc.txt",
+      "passed": true
+    },
+    {
+      "name": "Asset metadata: Resources/InFalsusStudio/VertexGlow.shader",
+      "passed": true
+    },
+    {
+      "name": "Asset metadata: Resources/InFalsusStudio/VertexTransparent.shader",
+      "passed": true
+    },
+    {
+      "name": "Asset metadata: Resources/InFalsusStudio/CalibratedProfile.asset",
+      "passed": true
+    },
+    {
+      "name": "Asset metadata: Runtime/Rendering/BeatGuideGeometry.cs",
+      "passed": true
+    },
+    {
+      "name": "Asset metadata: Runtime/Rendering/StageSpace.cs",
+      "passed": true
+    },
+    {
+      "name": "Asset metadata: Runtime/Rendering/StageRenderer.cs",
+      "passed": true
+    },
+    {
+      "name": "Asset metadata: Runtime/Rendering/MeshBatch.cs",
+      "passed": true
+    },
+    {
+      "name": "Asset metadata: Runtime/Rendering/FlickGeometry.cs",
+      "passed": true
+    },
+    {
+      "name": "Asset metadata: Runtime/Rendering/NoteRenderer.cs",
+      "passed": true
+    },
+    {
+      "name": "Asset metadata: Runtime/Core/NavigationAndHandles.cs",
+      "passed": true
+    },
+    {
+      "name": "Asset metadata: Runtime/Core/ChartMath.cs",
+      "passed": true
+    },
+    {
+      "name": "Asset metadata: Runtime/Core/SpcDocument.cs",
+      "passed": true
+    },
+    {
+      "name": "Asset metadata: Runtime/Core/NavigationSelfTests.cs",
+      "passed": true
+    },
+    {
+      "name": "Asset metadata: Runtime/Core/AuthoringSelfTests.cs",
+      "passed": true
+    },
+    {
+      "name": "Asset metadata: Runtime/Core/PointPlacement.cs",
+      "passed": true
+    },
+    {
+      "name": "Asset metadata: Runtime/Core/AuthoringGrid.cs",
+      "passed": true
+    },
+    {
+      "name": "Asset metadata: Runtime/Core/CoreSelfTests.cs",
+      "passed": true
+    },
+    {
+      "name": "Asset metadata: Runtime/Core/CameraCalibration.cs",
+      "passed": true
+    },
+    {
+      "name": "Asset metadata: Runtime/Core/WaveReader.cs",
+      "passed": true
+    },
+    {
+      "name": "Asset metadata: Runtime/Core/EditOperations.cs",
+      "passed": true
+    },
+    {
+      "name": "Asset metadata: Runtime/Core/EditingSelfTests.cs",
+      "passed": true
+    },
+    {
+      "name": "Asset metadata: Runtime/Core/RadialMenuState.cs",
+      "passed": true
+    },
+    {
+      "name": "No duplicate asset GUIDs",
+      "passed": true
+    },
+    {
+      "name": "Locked 0.2 baseline: Runtime/Core/CameraCalibration.cs",
+      "passed": true
+    },
+    {
+      "name": "Locked 0.2 baseline: Runtime/StudioProfile.cs",
+      "passed": true
+    },
+    {
+      "name": "Locked 0.2 baseline: Runtime/Rendering/StageSpace.cs",
+      "passed": true
+    },
+    {
+      "name": "Locked 0.2 baseline: Runtime/Rendering/StageRenderer.cs",
+      "passed": true
+    },
+    {
+      "name": "Locked 0.2 baseline: Runtime/Rendering/FlickGeometry.cs",
+      "passed": true
+    },
+    {
+      "name": "Locked 0.2 baseline: Scenes/InFalsusStudio_Demo.unity",
+      "passed": true
+    },
+    {
+      "name": "Locked 0.2 baseline: Resources/InFalsusStudio/CalibratedProfile.asset",
+      "passed": true
+    },
+    {
+      "name": "Locked 0.2 baseline: Resources/InFalsusStudio/LightsOut.spc.txt",
+      "passed": true
+    },
+    {
+      "name": "Locked 0.2 baseline: Resources/InFalsusStudio/VertexOpaque.shader",
+      "passed": true
+    },
+    {
+      "name": "Locked 0.2 baseline: Resources/InFalsusStudio/VertexTransparent.shader",
+      "passed": true
+    },
+    {
+      "name": "Locked 0.2 baseline: Resources/InFalsusStudio/VertexGlow.shader",
+      "passed": true
+    },
+    {
+      "name": "Existing GUID metadata unchanged: Editor.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing GUID metadata unchanged: Resources.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing GUID metadata unchanged: Runtime.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing GUID metadata unchanged: Scenes.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing GUID metadata unchanged: Scenes/InFalsusStudio_Demo.unity.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing GUID metadata unchanged: Editor/StudioSetup.cs.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing GUID metadata unchanged: Runtime/StudioBootstrap.Editing.cs.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing GUID metadata unchanged: Runtime/StudioBootstrap.cs.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing GUID metadata unchanged: Runtime/StudioBootstrap.Timeline.cs.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing GUID metadata unchanged: Runtime/StudioProfile.cs.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing GUID metadata unchanged: Runtime/Core.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing GUID metadata unchanged: Runtime/StudioTransport.cs.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing GUID metadata unchanged: Runtime/Rendering.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing GUID metadata unchanged: Resources/InFalsusStudio.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing GUID metadata unchanged: Resources/InFalsusStudio/VertexTransparent.shader.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing GUID metadata unchanged: Resources/InFalsusStudio/LightsOut.spc.txt.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing GUID metadata unchanged: Resources/InFalsusStudio/VertexGlow.shader.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing GUID metadata unchanged: Resources/InFalsusStudio/VertexOpaque.shader.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing GUID metadata unchanged: Resources/InFalsusStudio/CalibratedProfile.asset.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing GUID metadata unchanged: Runtime/Rendering/StageSpace.cs.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing GUID metadata unchanged: Runtime/Rendering/FlickGeometry.cs.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing GUID metadata unchanged: Runtime/Rendering/NoteRenderer.cs.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing GUID metadata unchanged: Runtime/Rendering/StageRenderer.cs.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing GUID metadata unchanged: Runtime/Rendering/MeshBatch.cs.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing GUID metadata unchanged: Runtime/Core/CameraCalibration.cs.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing GUID metadata unchanged: Runtime/Core/WaveReader.cs.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing GUID metadata unchanged: Runtime/Core/CoreSelfTests.cs.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing GUID metadata unchanged: Runtime/Core/EditOperations.cs.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing GUID metadata unchanged: Runtime/Core/EditingSelfTests.cs.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing GUID metadata unchanged: Runtime/Core/ChartMath.cs.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing GUID metadata unchanged: Runtime/Core/SpcDocument.cs.meta",
+      "passed": true
+    }
+  ]
+}

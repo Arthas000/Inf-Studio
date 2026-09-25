@@ -1,0 +1,33 @@
+0.3 update asset files, including original matching .meta for changed source:
+Assets/InFalsusStudio/Runtime/Core/AuthoringGrid.cs
+Assets/InFalsusStudio/Runtime/Core/AuthoringGrid.cs.meta
+Assets/InFalsusStudio/Runtime/Core/AuthoringSelfTests.cs
+Assets/InFalsusStudio/Runtime/Core/AuthoringSelfTests.cs.meta
+Assets/InFalsusStudio/Runtime/Core/ChartMath.cs
+Assets/InFalsusStudio/Runtime/Core/ChartMath.cs.meta
+Assets/InFalsusStudio/Runtime/Core/CoreSelfTests.cs
+Assets/InFalsusStudio/Runtime/Core/CoreSelfTests.cs.meta
+Assets/InFalsusStudio/Runtime/Core/EditOperations.cs
+Assets/InFalsusStudio/Runtime/Core/EditOperations.cs.meta
+Assets/InFalsusStudio/Runtime/Core/PointPlacement.cs
+Assets/InFalsusStudio/Runtime/Core/PointPlacement.cs.meta
+Assets/InFalsusStudio/Runtime/Core/RadialMenuState.cs
+Assets/InFalsusStudio/Runtime/Core/RadialMenuState.cs.meta
+Assets/InFalsusStudio/Runtime/Core/SpcDocument.cs
+Assets/InFalsusStudio/Runtime/Core/SpcDocument.cs.meta
+Assets/InFalsusStudio/Runtime/LeftControlGate.cs
+Assets/InFalsusStudio/Runtime/LeftControlGate.cs.meta
+Assets/InFalsusStudio/Runtime/Rendering/NoteRenderer.cs
+Assets/InFalsusStudio/Runtime/Rendering/NoteRenderer.cs.meta
+Assets/InFalsusStudio/Runtime/StudioBootstrap.Editing.cs
+Assets/InFalsusStudio/Runtime/StudioBootstrap.Editing.cs.meta
+Assets/InFalsusStudio/Runtime/StudioBootstrap.PointPlacement.cs
+Assets/InFalsusStudio/Runtime/StudioBootstrap.PointPlacement.cs.meta
+Assets/InFalsusStudio/Runtime/StudioBootstrap.Radial.cs
+Assets/InFalsusStudio/Runtime/StudioBootstrap.Radial.cs.meta
+Assets/InFalsusStudio/Runtime/StudioBootstrap.Timeline.cs
+Assets/InFalsusStudio/Runtime/StudioBootstrap.Timeline.cs.meta
+Assets/InFalsusStudio/Runtime/StudioBootstrap.cs
+Assets/InFalsusStudio/Runtime/StudioBootstrap.cs.meta
+
+No deletions; merge over 0.2. Existing GUIDs and calibrated geometry remain unchanged.

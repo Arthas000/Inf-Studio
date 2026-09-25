@@ -1,0 +1,62 @@
+[
+  {
+    "resource": "FloorHit",
+    "source": "59_note_hit_3_draft2.wav.ogg",
+    "sha256": "8776df87ed2b21a89558c090a280308fb7d410a802a4a9e754883dfd01b481d1",
+    "size": 18647,
+    "codec_name": "vorbis",
+    "sample_rate": "48000",
+    "channels": 2,
+    "duration": "0.919937"
+  },
+  {
+    "resource": "SideHit",
+    "source": "59_note_side_hit_draft2.wav.ogg",
+    "sha256": "73374c706454badea38b4ffcc2d340057a5bbf2d0b472482b5c5b3e1dda18c2a",
+    "size": 20287,
+    "codec_name": "vorbis",
+    "sample_rate": "48000",
+    "channels": 2,
+    "duration": "0.821104"
+  },
+  {
+    "resource": "SkyHit",
+    "source": "58_note_hit_skylane_draft1.wav.ogg",
+    "sha256": "7e95e0402abdc3f2fb8ec6c7e480f2db48f04e7a0e0771d8f9dcb2011f9ddfc3",
+    "size": 61240,
+    "codec_name": "vorbis",
+    "sample_rate": "48000",
+    "channels": 2,
+    "duration": "3.563875"
+  },
+  {
+    "resource": "Flick",
+    "source": "60_note_flick_5_draft2.wav.ogg",
+    "sha256": "08883bdefcec9085323925bf24b24f582be8acdb25670f139249e620c2847cc5",
+    "size": 22580,
+    "codec_name": "vorbis",
+    "sample_rate": "48000",
+    "channels": 2,
+    "duration": "0.883167"
+  },
+  {
+    "resource": "FloorHold",
+    "source": "58_note_hold_floor+sides_draft1.wav.ogg",
+    "sha256": "4b290361a09e1681f379e2d1e74b5aa85790023116c84428730a6970c455d4d3",
+    "size": 123078,
+    "codec_name": "vorbis",
+    "sample_rate": "48000",
+    "channels": 2,
+    "duration": "6.075271"
+  },
+  {
+    "resource": "SkyHold",
+    "source": "58_note_hold_skylane_5.wav.ogg",
+    "sha256": "8ed247e287dabd26a6c69ad34d52e6ae3529b818a9269438a6068e4d494890bf",
+    "size": 114180,
+    "codec_name": "vorbis",
+    "sample_rate": "48000",
+    "channels": 2,
+    "duration": "6.004479"
+  }
+]

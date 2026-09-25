@@ -1,0 +1,13 @@
+chart(130,4)
+// Candidate interval=231ms; 15 each, 30 Hold ticks total, despite visual scroll changes.
+hold(22154,0,1,3231)
+hold(22154,5,1,3231)
+track(0,1)
+track(22154,0.3)
+track(22769,0.4)
+track(23231,0.5)
+track(23692,0.6)
+track(24154,0.7)
+track(24615,0.8)
+track(25077,0.9)
+track(25385,1)

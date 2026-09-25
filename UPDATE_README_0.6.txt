@@ -1,0 +1,1 @@
+从0.5.1升级：保存谱面，停止Play、关闭Unity并备份。将本包Assets合并到工程根，同名替换，保留.meta。不要删除旧目录。打开Demo进入Play，左侧v0.6。先跑Core Checks与Key Sound Assets；详见Documentation/EDITING_GUIDE_0.6.md。新增C#/Unity尚未在交付环境执行。

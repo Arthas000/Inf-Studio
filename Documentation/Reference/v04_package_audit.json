@@ -1,0 +1,111 @@
+{
+  "version": "0.4",
+  "base": "0.3.1",
+  "scope": "Byte/hash and patch application verification; NOT Unity import or compilation",
+  "changed": [
+    "Assets/InFalsusStudio/Runtime/StudioBootstrap.cs",
+    "Assets/InFalsusStudio/Runtime/StudioBootstrap.Timeline.cs",
+    "Assets/InFalsusStudio/Runtime/StudioBootstrap.GuiFrame.cs",
+    "Assets/InFalsusStudio/Runtime/StudioBootstrap.Editing.cs",
+    "Assets/InFalsusStudio/Runtime/Rendering/NoteRenderer.cs",
+    "Assets/InFalsusStudio/Runtime/Core/CoreSelfTests.cs"
+  ],
+  "new": [
+    "Assets/InFalsusStudio/Runtime/StudioBootstrap.SongProject.cs.meta",
+    "Assets/InFalsusStudio/Runtime/StudioBootstrap.SongProject.cs",
+    "Assets/InFalsusStudio/Runtime/StudioBootstrap.SongHud.cs",
+    "Assets/InFalsusStudio/Runtime/StudioBootstrap.SongHud.cs.meta",
+    "Assets/InFalsusStudio/Resources/InFalsusStudio/Hud.meta",
+    "Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/Difficulty1.png.meta",
+    "Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/Difficulty2.png",
+    "Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/ScoreFrame.png",
+    "Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/Difficulty1.png",
+    "Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/Difficulty0.png",
+    "Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/Difficulty3.png",
+    "Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/Difficulty2.png.meta",
+    "Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/Difficulty0.png.meta",
+    "Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/ScoreFrame.png.meta",
+    "Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/Difficulty3.png.meta",
+    "Assets/InFalsusStudio/Runtime/Core/SongProjectSelfTests.cs",
+    "Assets/InFalsusStudio/Runtime/Core/AutoplayCursor.cs",
+    "Assets/InFalsusStudio/Runtime/Core/ScoreEvidence.cs",
+    "Assets/InFalsusStudio/Runtime/Core/IcpJsonImport.cs.meta",
+    "Assets/InFalsusStudio/Runtime/Core/ProjectJson.cs.meta",
+    "Assets/InFalsusStudio/Runtime/Core/AutoplayCursor.cs.meta",
+    "Assets/InFalsusStudio/Runtime/Core/SongFolderProject.cs",
+    "Assets/InFalsusStudio/Runtime/Core/IcpJsonImport.cs",
+    "Assets/InFalsusStudio/Runtime/Core/ProjectJson.cs",
+    "Assets/InFalsusStudio/Runtime/Core/SongFolderProject.cs.meta",
+    "Assets/InFalsusStudio/Runtime/Core/SongProjectSelfTests.cs.meta",
+    "Assets/InFalsusStudio/Runtime/Core/ScoreEvidence.cs.meta"
+  ],
+  "locked_baseline": [
+    {
+      "path": "Runtime/Core/CameraCalibration.cs",
+      "sha256": "add7005bf6d63a903e839ca1e765b5c192dbb54397aec1136c18a1138d895bc4",
+      "unchanged": true
+    },
+    {
+      "path": "Runtime/StudioProfile.cs",
+      "sha256": "e4e8e02edb4ec3c624c3f080bf022676afafac94d4b8ac6f0969927cab6ce8ef",
+      "unchanged": true
+    },
+    {
+      "path": "Runtime/Rendering/StageSpace.cs",
+      "sha256": "1ed37906b794ce0f1014ef2d61ee8ada0cbbefe63100e4709a03f3dd9a332852",
+      "unchanged": true
+    },
+    {
+      "path": "Runtime/Rendering/StageRenderer.cs",
+      "sha256": "71bbcd3d50d57e9948b8a31e30f9c1fa0b2e9c27e9e0f8cd6c71e7cca720582b",
+      "unchanged": true
+    },
+    {
+      "path": "Runtime/Rendering/FlickGeometry.cs",
+      "sha256": "ef24bb86aff2e9e40984b5193f384a8df8fd8fcf6030c19101bbf00ebeab49ce",
+      "unchanged": true
+    },
+    {
+      "path": "Resources/InFalsusStudio/CalibratedProfile.asset",
+      "sha256": "2692349775b5821c6822a9e39e906aedece8a316f4fcc26d574a219251eb0fbc",
+      "unchanged": true
+    },
+    {
+      "path": "Scenes/InFalsusStudio_Demo.unity",
+      "sha256": "0a659c110300a66f41c5379e6023f723fe1c61bbb95d551fb850d003993acbcf",
+      "unchanged": true
+    },
+    {
+      "path": "Runtime/StudioTransport.cs",
+      "sha256": "1a7233555ad049c977d5ce7603156a2537b6bda83a855c6e271bbacb7ed76bf3",
+      "unchanged": true
+    },
+    {
+      "path": "Runtime/LeftControlGate.cs",
+      "sha256": "10340c4327e048c57397b77ac2704d4e10663495c27affbe277913f9fba7c4b8",
+      "unchanged": true
+    },
+    {
+      "path": "Resources/InFalsusStudio/LightsOut.spc.txt",
+      "sha256": "166a8abf158c8e2ccdebac0b2ee897b371f569b0ae4cdbcc7bbd6709ea41aa7e",
+      "unchanged": true
+    },
+    {
+      "path": "Resources/InFalsusStudio/VertexOpaque.shader",
+      "sha256": "7d4e46d7d34012dc9170138eeaed3a63e0da917640aaf09ef633769fda5f8aa1",
+      "unchanged": true
+    },
+    {
+      "path": "Resources/InFalsusStudio/VertexGlow.shader",
+      "sha256": "61a2ff9d99e5bb43aad7dc1780d30b8cedc718bf5d3d9070298fe8f16ad9d9b7",
+      "unchanged": true
+    },
+    {
+      "path": "Resources/InFalsusStudio/VertexTransparent.shader",
+      "sha256": "f0cdbdd04f519e1b902545c657c75799547233264ca3bc52acd6fe7e8208724a",
+      "unchanged": true
+    }
+  ],
+  "asset_files": 109,
+  "patch_application_matches_full": true
+}

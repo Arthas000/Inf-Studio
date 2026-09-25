@@ -1,0 +1,86 @@
+{
+  "format": "InFalsusMeasuredComboReferences",
+  "version": 1,
+  "references": [
+    {
+      "name": "Forbidden_lightsout3",
+      "signature": "76822eb8e18646969c6c0ec81ea62bbd8b3fa10b076c2a50fba4f0d3b842da64",
+      "sourceSha256": "166a8abf158c8e2ccdebac0b2ee897b371f569b0ae4cdbcc7bbd6709ea41aa7e",
+      "tap": 600,
+      "hold": 176,
+      "skyarea": 254,
+      "flick": 304,
+      "total": 1334,
+      "alternativeAlsoFits": {
+        "tap": 600,
+        "hold": 176,
+        "skyarea": 254,
+        "flick": 304
+      }
+    },
+    {
+      "name": "Minimal_enigma0",
+      "signature": "9827557d4f201c41c2babb1f1d8465875a940ce83ec94eb9bf6ce9b020269d45",
+      "sourceSha256": "cce3a073b2e4f2dff124b7d96192e1fd77a93a8760b596c4418c36f388cd3aef",
+      "tap": 108,
+      "hold": 213,
+      "skyarea": 222,
+      "flick": 74,
+      "total": 617,
+      "alternativeAlsoFits": {
+        "tap": 108,
+        "hold": 213,
+        "skyarea": 222,
+        "flick": 74
+      }
+    },
+    {
+      "name": "Forbidden_enigma3",
+      "signature": "3d7236a3b315b298f483d5f00e43a164f96b39b4255da4607f8b01af95a9f3f0",
+      "sourceSha256": "9c7bb9dc3cb0b7c81db5b1dfa3cf40a204dbdf6fb3858eaa6d7b50a219600e03",
+      "tap": 583,
+      "hold": 434,
+      "skyarea": 827,
+      "flick": 325,
+      "total": 2169,
+      "alternativeAlsoFits": {
+        "tap": 583,
+        "hold": 434,
+        "skyarea": 827,
+        "flick": 325
+      }
+    },
+    {
+      "name": "Forbidden_tokonagi3",
+      "signature": "82a6c40c77c724e3d999bbca220ed019c3d2c46e4d21348c297f86c53d28c945",
+      "sourceSha256": "4efbdd187dd9086f32441cbaed72ece4ae765dec63dc6a105283bddf28fd4ff5",
+      "tap": 535,
+      "hold": 1399,
+      "skyarea": 631,
+      "flick": 543,
+      "total": 3108,
+      "alternativeAlsoFits": {
+        "tap": 535,
+        "hold": 1399,
+        "skyarea": 631,
+        "flick": 543
+      }
+    },
+    {
+      "name": "Forbidden_cyaegha3",
+      "signature": "48e46b2b7d0cbc426a326e1bf8721053056099b19ebd521de5b1b38c2b6f3915",
+      "sourceSha256": "8074b18ed3baa0be729f9a969ff351bc96d7426bec803d58ab52cf0ebd2a416e",
+      "tap": 489,
+      "hold": 494,
+      "skyarea": 375,
+      "flick": 340,
+      "total": 1698,
+      "alternativeAlsoFits": {
+        "tap": 489,
+        "hold": 494,
+        "skyarea": 375,
+        "flick": 340
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "width": 2048,
+  "height": 1152,
+  "referenceCenterX": 1025.0,
+  "chosenFovDeg": 50,
+  "horizonY": 35.0,
+  "groundJudgeY": 1029.0,
+  "groundLeftX": 435.0,
+  "groundRightX": 1615.0,
+  "airJudgeY": 734.0,
+  "sideOuterLeftX": 125.0,
+  "sideOuterY": 840.0,
+  "cameraPitchDeg": 23.652120355066778,
+  "cameraHeight": 3.086448051709601,
+  "cameraBack": 3.2194516716812327,
+  "airHeight": 1.1564937199990935,
+  "sideOuterX": 2.8252872813276695,
+  "sideRise": 0.7716634291177947,
+  "sideRun": 0.8252872813276695,
+  "estimatedUnitsPerSecond": 14.906620296652882,
+  "estimatedScreenshot2TimeMs": 3608.1961703349357,
+  "focalPixels": 1235.2359862135058
+}

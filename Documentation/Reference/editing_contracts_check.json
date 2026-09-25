@@ -1,0 +1,442 @@
+{
+  "scope": "Independent mathematical and static-structure audits, not C# or Unity execution",
+  "passed": 106,
+  "failed": 0,
+  "baseline_compared": true,
+  "baseline_sha256": {
+    "Runtime/Rendering/StageSpace.cs": "1ed37906b794ce0f1014ef2d61ee8ada0cbbefe63100e4709a03f3dd9a332852",
+    "Runtime/Rendering/StageRenderer.cs": "71bbcd3d50d57e9948b8a31e30f9c1fa0b2e9c27e9e0f8cd6c71e7cca720582b",
+    "Runtime/Core/CameraCalibration.cs": "add7005bf6d63a903e839ca1e765b5c192dbb54397aec1136c18a1138d895bc4",
+    "Scenes/InFalsusStudio_Demo.unity": "0a659c110300a66f41c5379e6023f723fe1c61bbb95d551fb850d003993acbcf",
+    "Resources/InFalsusStudio/LightsOut.spc.txt": "166a8abf158c8e2ccdebac0b2ee897b371f569b0ae4cdbcc7bbd6709ea41aa7e",
+    "Resources/InFalsusStudio/VertexOpaque.shader": "7d4e46d7d34012dc9170138eeaed3a63e0da917640aaf09ef633769fda5f8aa1",
+    "Resources/InFalsusStudio/VertexTransparent.shader": "f0cdbdd04f519e1b902545c657c75799547233264ca3bc52acd6fe7e8208724a",
+    "Resources/InFalsusStudio/VertexGlow.shader": "61a2ff9d99e5bb43aad7dc1780d30b8cedc718bf5d3d9070298fe8f16ad9d9b7"
+  },
+  "results": [
+    {
+      "name": "Mirror both boundaries + swap eases 0/0",
+      "passed": true
+    },
+    {
+      "name": "Continuous width minimum vs dense samples 0/0",
+      "passed": true
+    },
+    {
+      "name": "Mirror both boundaries + swap eases 0/1",
+      "passed": true
+    },
+    {
+      "name": "Continuous width minimum vs dense samples 0/1",
+      "passed": true
+    },
+    {
+      "name": "Mirror both boundaries + swap eases 0/2",
+      "passed": true
+    },
+    {
+      "name": "Continuous width minimum vs dense samples 0/2",
+      "passed": true
+    },
+    {
+      "name": "Mirror both boundaries + swap eases 1/0",
+      "passed": true
+    },
+    {
+      "name": "Continuous width minimum vs dense samples 1/0",
+      "passed": true
+    },
+    {
+      "name": "Mirror both boundaries + swap eases 1/1",
+      "passed": true
+    },
+    {
+      "name": "Continuous width minimum vs dense samples 1/1",
+      "passed": true
+    },
+    {
+      "name": "Mirror both boundaries + swap eases 1/2",
+      "passed": true
+    },
+    {
+      "name": "Continuous width minimum vs dense samples 1/2",
+      "passed": true
+    },
+    {
+      "name": "Mirror both boundaries + swap eases 2/0",
+      "passed": true
+    },
+    {
+      "name": "Continuous width minimum vs dense samples 2/0",
+      "passed": true
+    },
+    {
+      "name": "Mirror both boundaries + swap eases 2/1",
+      "passed": true
+    },
+    {
+      "name": "Continuous width minimum vs dense samples 2/1",
+      "passed": true
+    },
+    {
+      "name": "Mirror both boundaries + swap eases 2/2",
+      "passed": true
+    },
+    {
+      "name": "Continuous width minimum vs dense samples 2/2",
+      "passed": true
+    },
+    {
+      "name": "Interior negative width despite positive endpoints",
+      "passed": true
+    },
+    {
+      "name": "Mixed-divisor translation retains shared chain boundary",
+      "passed": true
+    },
+    {
+      "name": "Inverse preserves selected temporal branch 480",
+      "passed": true
+    },
+    {
+      "name": "Inverse preserves selected temporal branch 1510",
+      "passed": true
+    },
+    {
+      "name": "Inverse preserves selected temporal branch 2510",
+      "passed": true
+    },
+    {
+      "name": "Every asset has metadata Scenes/InFalsusStudio_Demo.unity",
+      "passed": true
+    },
+    {
+      "name": "Every asset has metadata Editor/StudioSetup.cs",
+      "passed": true
+    },
+    {
+      "name": "Every asset has metadata Runtime/StudioProfile.cs",
+      "passed": true
+    },
+    {
+      "name": "Every asset has metadata Runtime/StudioBootstrap.Editing.cs",
+      "passed": true
+    },
+    {
+      "name": "Every asset has metadata Runtime/StudioTransport.cs",
+      "passed": true
+    },
+    {
+      "name": "Every asset has metadata Runtime/StudioBootstrap.EaseHandles.cs",
+      "passed": true
+    },
+    {
+      "name": "Every asset has metadata Runtime/StudioBootstrap.Radial.cs",
+      "passed": true
+    },
+    {
+      "name": "Every asset has metadata Runtime/StudioBootstrap.PointPlacement.cs",
+      "passed": true
+    },
+    {
+      "name": "Every asset has metadata Runtime/LeftControlGate.cs",
+      "passed": true
+    },
+    {
+      "name": "Every asset has metadata Runtime/StudioBootstrap.Timeline.cs",
+      "passed": true
+    },
+    {
+      "name": "Every asset has metadata Runtime/StudioBootstrap.cs",
+      "passed": true
+    },
+    {
+      "name": "Every asset has metadata Runtime/StudioBootstrap.Navigation.cs",
+      "passed": true
+    },
+    {
+      "name": "Every asset has metadata Runtime/StudioBootstrap.GuiFrame.cs",
+      "passed": true
+    },
+    {
+      "name": "Every asset has metadata Resources/InFalsusStudio/VertexOpaque.shader",
+      "passed": true
+    },
+    {
+      "name": "Every asset has metadata Resources/InFalsusStudio/LightsOut.spc.txt",
+      "passed": true
+    },
+    {
+      "name": "Every asset has metadata Resources/InFalsusStudio/VertexGlow.shader",
+      "passed": true
+    },
+    {
+      "name": "Every asset has metadata Resources/InFalsusStudio/VertexTransparent.shader",
+      "passed": true
+    },
+    {
+      "name": "Every asset has metadata Resources/InFalsusStudio/CalibratedProfile.asset",
+      "passed": true
+    },
+    {
+      "name": "Every asset has metadata Runtime/Rendering/BeatGuideGeometry.cs",
+      "passed": true
+    },
+    {
+      "name": "Every asset has metadata Runtime/Rendering/StageSpace.cs",
+      "passed": true
+    },
+    {
+      "name": "Every asset has metadata Runtime/Rendering/StageRenderer.cs",
+      "passed": true
+    },
+    {
+      "name": "Every asset has metadata Runtime/Rendering/MeshBatch.cs",
+      "passed": true
+    },
+    {
+      "name": "Every asset has metadata Runtime/Rendering/FlickGeometry.cs",
+      "passed": true
+    },
+    {
+      "name": "Every asset has metadata Runtime/Rendering/NoteRenderer.cs",
+      "passed": true
+    },
+    {
+      "name": "Every asset has metadata Runtime/Core/NavigationAndHandles.cs",
+      "passed": true
+    },
+    {
+      "name": "Every asset has metadata Runtime/Core/ChartMath.cs",
+      "passed": true
+    },
+    {
+      "name": "Every asset has metadata Runtime/Core/SpcDocument.cs",
+      "passed": true
+    },
+    {
+      "name": "Every asset has metadata Runtime/Core/NavigationSelfTests.cs",
+      "passed": true
+    },
+    {
+      "name": "Every asset has metadata Runtime/Core/AuthoringSelfTests.cs",
+      "passed": true
+    },
+    {
+      "name": "Every asset has metadata Runtime/Core/PointPlacement.cs",
+      "passed": true
+    },
+    {
+      "name": "Every asset has metadata Runtime/Core/AuthoringGrid.cs",
+      "passed": true
+    },
+    {
+      "name": "Every asset has metadata Runtime/Core/CoreSelfTests.cs",
+      "passed": true
+    },
+    {
+      "name": "Every asset has metadata Runtime/Core/CameraCalibration.cs",
+      "passed": true
+    },
+    {
+      "name": "Every asset has metadata Runtime/Core/WaveReader.cs",
+      "passed": true
+    },
+    {
+      "name": "Every asset has metadata Runtime/Core/EditOperations.cs",
+      "passed": true
+    },
+    {
+      "name": "Every asset has metadata Runtime/Core/EditingSelfTests.cs",
+      "passed": true
+    },
+    {
+      "name": "Every asset has metadata Runtime/Core/RadialMenuState.cs",
+      "passed": true
+    },
+    {
+      "name": "No unintended external networking import",
+      "passed": true
+    },
+    {
+      "name": "Editor tests hooked into main self-test",
+      "passed": true
+    },
+    {
+      "name": "No value-based height dependency in Flick source",
+      "passed": true
+    },
+    {
+      "name": "Preview clones pre-gesture snapshot",
+      "passed": true
+    },
+    {
+      "name": "Source IDs are stored on lines",
+      "passed": true
+    },
+    {
+      "name": "No full project settings added",
+      "passed": true
+    },
+    {
+      "name": "At least six original synthetic editing fixtures",
+      "passed": true
+    },
+    {
+      "name": "Baseline unchanged Runtime/Rendering/StageSpace.cs",
+      "passed": true
+    },
+    {
+      "name": "Baseline unchanged Runtime/Rendering/StageRenderer.cs",
+      "passed": true
+    },
+    {
+      "name": "Baseline unchanged Runtime/Core/CameraCalibration.cs",
+      "passed": true
+    },
+    {
+      "name": "Baseline unchanged Scenes/InFalsusStudio_Demo.unity",
+      "passed": true
+    },
+    {
+      "name": "Baseline unchanged Resources/InFalsusStudio/LightsOut.spc.txt",
+      "passed": true
+    },
+    {
+      "name": "Baseline unchanged Resources/InFalsusStudio/VertexOpaque.shader",
+      "passed": true
+    },
+    {
+      "name": "Baseline unchanged Resources/InFalsusStudio/VertexTransparent.shader",
+      "passed": true
+    },
+    {
+      "name": "Baseline unchanged Resources/InFalsusStudio/VertexGlow.shader",
+      "passed": true
+    },
+    {
+      "name": "Existing metadata unchanged Assets/InFalsusStudio/Editor.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing metadata unchanged Assets/InFalsusStudio/Resources.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing metadata unchanged Assets/InFalsusStudio/Runtime.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing metadata unchanged Assets/InFalsusStudio/Scenes.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing metadata unchanged Assets/InFalsusStudio/Scenes/InFalsusStudio_Demo.unity.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing metadata unchanged Assets/InFalsusStudio/Editor/StudioSetup.cs.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing metadata unchanged Assets/InFalsusStudio/Runtime/StudioBootstrap.Editing.cs.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing metadata unchanged Assets/InFalsusStudio/Runtime/StudioBootstrap.cs.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing metadata unchanged Assets/InFalsusStudio/Runtime/StudioBootstrap.Timeline.cs.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing metadata unchanged Assets/InFalsusStudio/Runtime/StudioProfile.cs.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing metadata unchanged Assets/InFalsusStudio/Runtime/Core.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing metadata unchanged Assets/InFalsusStudio/Runtime/StudioTransport.cs.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing metadata unchanged Assets/InFalsusStudio/Runtime/Rendering.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing metadata unchanged Assets/InFalsusStudio/Resources/InFalsusStudio.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing metadata unchanged Assets/InFalsusStudio/Resources/InFalsusStudio/VertexTransparent.shader.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing metadata unchanged Assets/InFalsusStudio/Resources/InFalsusStudio/LightsOut.spc.txt.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing metadata unchanged Assets/InFalsusStudio/Resources/InFalsusStudio/VertexGlow.shader.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing metadata unchanged Assets/InFalsusStudio/Resources/InFalsusStudio/VertexOpaque.shader.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing metadata unchanged Assets/InFalsusStudio/Resources/InFalsusStudio/CalibratedProfile.asset.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing metadata unchanged Assets/InFalsusStudio/Runtime/Rendering/StageSpace.cs.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing metadata unchanged Assets/InFalsusStudio/Runtime/Rendering/FlickGeometry.cs.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing metadata unchanged Assets/InFalsusStudio/Runtime/Rendering/NoteRenderer.cs.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing metadata unchanged Assets/InFalsusStudio/Runtime/Rendering/StageRenderer.cs.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing metadata unchanged Assets/InFalsusStudio/Runtime/Rendering/MeshBatch.cs.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing metadata unchanged Assets/InFalsusStudio/Runtime/Core/CameraCalibration.cs.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing metadata unchanged Assets/InFalsusStudio/Runtime/Core/WaveReader.cs.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing metadata unchanged Assets/InFalsusStudio/Runtime/Core/CoreSelfTests.cs.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing metadata unchanged Assets/InFalsusStudio/Runtime/Core/EditOperations.cs.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing metadata unchanged Assets/InFalsusStudio/Runtime/Core/EditingSelfTests.cs.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing metadata unchanged Assets/InFalsusStudio/Runtime/Core/ChartMath.cs.meta",
+      "passed": true
+    },
+    {
+      "name": "Existing metadata unchanged Assets/InFalsusStudio/Runtime/Core/SpcDocument.cs.meta",
+      "passed": true
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+Relative asset files changed or added compared with v0.1.1:
+Assets/InFalsusStudio/Editor/StudioSetup.cs
+Assets/InFalsusStudio/Resources/InFalsusStudio/CalibratedProfile.asset
+Assets/InFalsusStudio/Runtime/Core/ChartMath.cs
+Assets/InFalsusStudio/Runtime/Core/CoreSelfTests.cs
+Assets/InFalsusStudio/Runtime/Core/EditOperations.cs
+Assets/InFalsusStudio/Runtime/Core/EditOperations.cs.meta
+Assets/InFalsusStudio/Runtime/Core/EditingSelfTests.cs
+Assets/InFalsusStudio/Runtime/Core/EditingSelfTests.cs.meta
+Assets/InFalsusStudio/Runtime/Core/SpcDocument.cs
+Assets/InFalsusStudio/Runtime/Core/WaveReader.cs
+Assets/InFalsusStudio/Runtime/Core/WaveReader.cs.meta
+Assets/InFalsusStudio/Runtime/Rendering/FlickGeometry.cs
+Assets/InFalsusStudio/Runtime/Rendering/NoteRenderer.cs
+Assets/InFalsusStudio/Runtime/StudioBootstrap.Editing.cs
+Assets/InFalsusStudio/Runtime/StudioBootstrap.Editing.cs.meta
+Assets/InFalsusStudio/Runtime/StudioBootstrap.Timeline.cs
+Assets/InFalsusStudio/Runtime/StudioBootstrap.Timeline.cs.meta
+Assets/InFalsusStudio/Runtime/StudioBootstrap.cs
+Assets/InFalsusStudio/Runtime/StudioProfile.cs

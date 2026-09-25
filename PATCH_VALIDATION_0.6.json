@@ -1,0 +1,169 @@
+{
+  "version": "0.6",
+  "base": "0.5.1",
+  "assets_before": 133,
+  "assets_after": 160,
+  "changed_or_new_assets": 39,
+  "baseline_plus_patch_matches_full_assets": true,
+  "removed_assets": [],
+  "all_prior_metas_unchanged": true,
+  "changed_files": [
+    {
+      "path": "Assets/InFalsusStudio/Editor/StudioSetup.cs",
+      "sha256": "95913fcf869fa7d0a6f8600d8a85fdcb39cad7a44cd0e6a14e4efd3eb83b814e"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Resources/InFalsusStudio/KeySounds.meta",
+      "sha256": "ab5e2aea161b6e7c086b56b66925d8253bafa8be887c9c5378fa3a2a92e19eaa"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Resources/InFalsusStudio/KeySounds/Flick.ogg",
+      "sha256": "08883bdefcec9085323925bf24b24f582be8acdb25670f139249e620c2847cc5"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Resources/InFalsusStudio/KeySounds/Flick.ogg.meta",
+      "sha256": "7074cb195de51250ef51b0fe3c57c980bc08b9f9ca8c7554ad8c156e9c467453"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Resources/InFalsusStudio/KeySounds/FloorHit.ogg",
+      "sha256": "8776df87ed2b21a89558c090a280308fb7d410a802a4a9e754883dfd01b481d1"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Resources/InFalsusStudio/KeySounds/FloorHit.ogg.meta",
+      "sha256": "6029c181fce8e3f15d558d6a8b937b555fa02fa6df7ee1bbdf21bdc635450f2e"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Resources/InFalsusStudio/KeySounds/FloorHold.ogg",
+      "sha256": "4b290361a09e1681f379e2d1e74b5aa85790023116c84428730a6970c455d4d3"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Resources/InFalsusStudio/KeySounds/FloorHold.ogg.meta",
+      "sha256": "e340320168df2c1b836491abe7cff84b13b41e16b7f5a068c7ccab29fc636f78"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Resources/InFalsusStudio/KeySounds/SideHit.ogg",
+      "sha256": "73374c706454badea38b4ffcc2d340057a5bbf2d0b472482b5c5b3e1dda18c2a"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Resources/InFalsusStudio/KeySounds/SideHit.ogg.meta",
+      "sha256": "48bf928146f303c8517512fda8bd2d7b25a4221c2ecaf72acc2557b96c1327ee"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Resources/InFalsusStudio/KeySounds/SkyHit.ogg",
+      "sha256": "7e95e0402abdc3f2fb8ec6c7e480f2db48f04e7a0e0771d8f9dcb2011f9ddfc3"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Resources/InFalsusStudio/KeySounds/SkyHit.ogg.meta",
+      "sha256": "52052a0499c12963628a619b2ff6b966e9ac1208b80717e2c4080a5b09661d4b"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Resources/InFalsusStudio/KeySounds/SkyHold.ogg",
+      "sha256": "8ed247e287dabd26a6c69ad34d52e6ae3529b818a9269438a6068e4d494890bf"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Resources/InFalsusStudio/KeySounds/SkyHold.ogg.meta",
+      "sha256": "d7c4beff0517770a9fe678464964340514d5861d68f14af92276116ba169239e"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Runtime/Core/AuthoringGrid.cs",
+      "sha256": "62619b0759317647373bf7a3cc698840d5380d281647a8972fb6be9e06ff7f12"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Runtime/Core/AutoplayCursor.cs",
+      "sha256": "9adf8076b5cfd27d7c3bbc12c24f974ed937936a7b3e22925aa3f3ecdb2a3842"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Runtime/Core/CoreSelfTests.cs",
+      "sha256": "6970be636cd2372b7440d8e0757bf022e3016b39365c4f6da01bf137555fa446"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Runtime/Core/HitSoundPlan.cs",
+      "sha256": "9e21b91be41fe7026cd84a05a67a638185434706198a58c879a138722f33e1eb"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Runtime/Core/HitSoundPlan.cs.meta",
+      "sha256": "a0c9372993bf75462660eae726390c477aaa556072ff3789d8c125a8ffcd8bc5"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Runtime/Core/NoteProperties.cs",
+      "sha256": "8d3d5e49d463949b280838b0f42882d698394e150e61fd34cd4941286e911562"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Runtime/Core/NoteProperties.cs.meta",
+      "sha256": "07d52e770f785ffda76a859809487843177f614ec1af12b59ff7fcdfec38c884"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Runtime/Core/PreviewScore.cs",
+      "sha256": "ee2466ba5a889dbffb1bd74e4df32cd08a7e31995c3940a7ce76bd066d3b4479"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Runtime/Core/PreviewScore.cs.meta",
+      "sha256": "997f104065044037a7311af202761e7803687d9c13fd8f80a724adb8779633df"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Runtime/Core/Release06SelfTests.cs",
+      "sha256": "5c19a05158281d2221c5089d92fbd1aae5583260ea9d0b1cd2edc8974259f448"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Runtime/Core/Release06SelfTests.cs.meta",
+      "sha256": "ee48888c39bb5ec764f6e7b4c5bfa9bdcde2adda432b5c5620270b6acedfa369"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Runtime/Rendering/NoteRenderer.cs",
+      "sha256": "d5fd71748ea70f55d1357c93f96607ffaf37e0edb8498221606633ad31d85936"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Runtime/StudioBootstrap.EaseHandles.cs",
+      "sha256": "648944cee749404ea0c13e738bb2f8214a77e341fbe687ce7512367203e40dc7"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Runtime/StudioBootstrap.Editing.cs",
+      "sha256": "f72fb9f4ed2c2dae23277db9d407c8656ba2339212d17b6af8bcdb24635abecc"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Runtime/StudioBootstrap.GuiFrame.cs",
+      "sha256": "95bd27a46fe1a750bfb1548e920d0872eec1f681f0d360c4c8b980d41475cd65"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Runtime/StudioBootstrap.NotePanel.cs",
+      "sha256": "f38797687d3706540eb269874a718fa18237c10e13bc2a8f901eeaa9e304381b"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Runtime/StudioBootstrap.NotePanel.cs.meta",
+      "sha256": "cd946ef9bb18984c0a981281efef1caf3f74ae594a65ff83ec8db224864ecbac"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Runtime/StudioBootstrap.Panels.cs",
+      "sha256": "d13a95e51b89a23f8cd5e2cfb737a5dd146965c64fb5b4cd723c20c579ee320e"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Runtime/StudioBootstrap.Panels.cs.meta",
+      "sha256": "b356cce8762053cf7b882ef3a5529d337934737cd64a2ff9519a8f6d896c0830"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Runtime/StudioBootstrap.PointPlacement.cs",
+      "sha256": "b289a32ba3a68493620b3921455c473818ed8cc5078ed915344625f2f87064f6"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Runtime/StudioBootstrap.SongHud.cs",
+      "sha256": "901ff785ab2fdcf3efaeb698a5b5ed509fb8180d324610bc273649c096c7ce12"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Runtime/StudioBootstrap.cs",
+      "sha256": "24e6913061d043682f744b324501fff5751994cd19236dbb28e3f447cfbd8166"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Runtime/StudioKeySounds.cs",
+      "sha256": "c6837c6ecfdfe5900f5a7b5dfb138c4c5ce01af0c3d7fda8cb49c7f5a8aad3db"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Runtime/StudioKeySounds.cs.meta",
+      "sha256": "dbbf6050d5ec8bfc131218d1d4692ffbb9e85adbf92b9ab543b8b08478840700"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Runtime/StudioTransport.cs",
+      "sha256": "8e2754e55f3c67e38a094491982244ab5383331f4c66e7910bee55fd4189c358"
+    }
+  ],
+  "executed": "Python filesystem extraction + SHA256 comparison; NOT C# or Unity execution"
+}

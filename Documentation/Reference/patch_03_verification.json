@@ -1,0 +1,51 @@
+{
+  "baseline": "InFalsusStudio_Unity_Prototype_v0.2.zip",
+  "baseline_sha256": "eb76eda651ed3c4865c6dac48305d76311b2a191dcb95208c0474bab0cf384b7",
+  "baseline_asset_files_including_meta": 56,
+  "target_asset_files_including_meta": 70,
+  "new_asset_paths": [
+    "Assets/InFalsusStudio/Runtime/Core/AuthoringGrid.cs",
+    "Assets/InFalsusStudio/Runtime/Core/AuthoringGrid.cs.meta",
+    "Assets/InFalsusStudio/Runtime/Core/AuthoringSelfTests.cs",
+    "Assets/InFalsusStudio/Runtime/Core/AuthoringSelfTests.cs.meta",
+    "Assets/InFalsusStudio/Runtime/Core/PointPlacement.cs",
+    "Assets/InFalsusStudio/Runtime/Core/PointPlacement.cs.meta",
+    "Assets/InFalsusStudio/Runtime/Core/RadialMenuState.cs",
+    "Assets/InFalsusStudio/Runtime/Core/RadialMenuState.cs.meta",
+    "Assets/InFalsusStudio/Runtime/LeftControlGate.cs",
+    "Assets/InFalsusStudio/Runtime/LeftControlGate.cs.meta",
+    "Assets/InFalsusStudio/Runtime/StudioBootstrap.PointPlacement.cs",
+    "Assets/InFalsusStudio/Runtime/StudioBootstrap.PointPlacement.cs.meta",
+    "Assets/InFalsusStudio/Runtime/StudioBootstrap.Radial.cs",
+    "Assets/InFalsusStudio/Runtime/StudioBootstrap.Radial.cs.meta"
+  ],
+  "modified_existing_asset_paths": [
+    "Assets/InFalsusStudio/Runtime/Core/ChartMath.cs",
+    "Assets/InFalsusStudio/Runtime/Core/CoreSelfTests.cs",
+    "Assets/InFalsusStudio/Runtime/Core/EditOperations.cs",
+    "Assets/InFalsusStudio/Runtime/Core/SpcDocument.cs",
+    "Assets/InFalsusStudio/Runtime/Rendering/NoteRenderer.cs",
+    "Assets/InFalsusStudio/Runtime/StudioBootstrap.Editing.cs",
+    "Assets/InFalsusStudio/Runtime/StudioBootstrap.Timeline.cs",
+    "Assets/InFalsusStudio/Runtime/StudioBootstrap.cs"
+  ],
+  "removed_asset_paths": [],
+  "patch_asset_files_including_matching_meta": 30,
+  "disk_merge_byte_equal": true,
+  "locked_geometry_shader_sample_files": {
+    "Runtime/Core/CameraCalibration.cs": "add7005bf6d63a903e839ca1e765b5c192dbb54397aec1136c18a1138d895bc4",
+    "Runtime/StudioProfile.cs": "e4e8e02edb4ec3c624c3f080bf022676afafac94d4b8ac6f0969927cab6ce8ef",
+    "Runtime/Rendering/StageSpace.cs": "1ed37906b794ce0f1014ef2d61ee8ada0cbbefe63100e4709a03f3dd9a332852",
+    "Runtime/Rendering/StageRenderer.cs": "71bbcd3d50d57e9948b8a31e30f9c1fa0b2e9c27e9e0f8cd6c71e7cca720582b",
+    "Runtime/Rendering/FlickGeometry.cs": "ef24bb86aff2e9e40984b5193f384a8df8fd8fcf6030c19101bbf00ebeab49ce",
+    "Scenes/InFalsusStudio_Demo.unity": "0a659c110300a66f41c5379e6023f723fe1c61bbb95d551fb850d003993acbcf",
+    "Resources/InFalsusStudio/CalibratedProfile.asset": "2692349775b5821c6822a9e39e906aedece8a316f4fcc26d574a219251eb0fbc",
+    "Resources/InFalsusStudio/LightsOut.spc.txt": "166a8abf158c8e2ccdebac0b2ee897b371f569b0ae4cdbcc7bbd6709ea41aa7e",
+    "Resources/InFalsusStudio/VertexOpaque.shader": "7d4e46d7d34012dc9170138eeaed3a63e0da917640aaf09ef633769fda5f8aa1",
+    "Resources/InFalsusStudio/VertexTransparent.shader": "f0cdbdd04f519e1b902545c657c75799547233264ca3bc52acd6fe7e8208724a",
+    "Resources/InFalsusStudio/VertexGlow.shader": "61a2ff9d99e5bb43aad7dc1780d30b8cedc718bf5d3d9070298fe8f16ad9d9b7"
+  },
+  "unity_import_executed": false,
+  "csharp_compilation_executed": false,
+  "note": "On-disk application of update Assets to the supplied 0.2 Assets exactly reproduces full 0.3 Assets. No Unity process executed."
+}

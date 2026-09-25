@@ -1,0 +1,2396 @@
+{
+  "release": "0.5.1",
+  "scope": "Independent Python Fraction arithmetic + original-data + finite static/resource checks. NO C# or Unity execution.",
+  "passed": 406,
+  "categories": {
+    "source data": 16,
+    "independent math": 82,
+    "static wiring": 21,
+    "asset structure": 205,
+    "baseline comparison": 82
+  },
+  "csharp_compiled": false,
+  "unity_run": false,
+  "referenceCounts": [
+    {
+      "name": "Forbidden_lightsout3",
+      "counts": {
+        "skyarea": 254,
+        "tap": 600,
+        "flick": 304,
+        "hold": 176
+      },
+      "total": 1334,
+      "checkpointCountsProvisional": {
+        "0": {
+          "skyarea": 0,
+          "tap": 0,
+          "flick": 0,
+          "hold": 0
+        },
+        "1395": {
+          "skyarea": 0,
+          "tap": 0,
+          "flick": 0,
+          "hold": 0
+        },
+        "22154": {
+          "skyarea": 26,
+          "tap": 72,
+          "flick": 39,
+          "hold": 2
+        },
+        "22400": {
+          "skyarea": 26,
+          "tap": 72,
+          "flick": 39,
+          "hold": 4
+        },
+        "22769": {
+          "skyarea": 26,
+          "tap": 73,
+          "flick": 40,
+          "hold": 6
+        },
+        "23600": {
+          "skyarea": 26,
+          "tap": 74,
+          "flick": 45,
+          "hold": 14
+        },
+        "24070": {
+          "skyarea": 26,
+          "tap": 75,
+          "flick": 48,
+          "hold": 18
+        },
+        "25385": {
+          "skyarea": 26,
+          "tap": 78,
+          "flick": 58,
+          "hold": 30
+        },
+        "36000": {
+          "skyarea": 60,
+          "tap": 122,
+          "flick": 82,
+          "hold": 51
+        }
+      }
+    },
+    {
+      "name": "Minimal_enigma0",
+      "counts": {
+        "skyarea": 222,
+        "flick": 74,
+        "tap": 108,
+        "hold": 213
+      },
+      "total": 617,
+      "checkpointCountsProvisional": {
+        "0": {
+          "skyarea": 0,
+          "flick": 0,
+          "tap": 0,
+          "hold": 0
+        },
+        "1395": {
+          "skyarea": 1,
+          "flick": 0,
+          "tap": 0,
+          "hold": 0
+        },
+        "22154": {
+          "skyarea": 112,
+          "flick": 0,
+          "tap": 0,
+          "hold": 0
+        },
+        "22400": {
+          "skyarea": 112,
+          "flick": 1,
+          "tap": 0,
+          "hold": 0
+        },
+        "22769": {
+          "skyarea": 113,
+          "flick": 1,
+          "tap": 0,
+          "hold": 0
+        },
+        "23600": {
+          "skyarea": 116,
+          "flick": 1,
+          "tap": 0,
+          "hold": 0
+        },
+        "24070": {
+          "skyarea": 116,
+          "flick": 1,
+          "tap": 2,
+          "hold": 0
+        },
+        "25385": {
+          "skyarea": 116,
+          "flick": 1,
+          "tap": 4,
+          "hold": 0
+        },
+        "36000": {
+          "skyarea": 119,
+          "flick": 3,
+          "tap": 22,
+          "hold": 6
+        }
+      }
+    },
+    {
+      "name": "Forbidden_enigma3",
+      "counts": {
+        "skyarea": 827,
+        "tap": 583,
+        "hold": 434,
+        "flick": 325
+      },
+      "total": 2169,
+      "checkpointCountsProvisional": {
+        "0": {
+          "skyarea": 0,
+          "tap": 0,
+          "hold": 0,
+          "flick": 0
+        },
+        "1395": {
+          "skyarea": 5,
+          "tap": 0,
+          "hold": 0,
+          "flick": 0
+        },
+        "22154": {
+          "skyarea": 124,
+          "tap": 34,
+          "hold": 0,
+          "flick": 0
+        },
+        "22400": {
+          "skyarea": 125,
+          "tap": 34,
+          "hold": 2,
+          "flick": 0
+        },
+        "22769": {
+          "skyarea": 128,
+          "tap": 34,
+          "hold": 7,
+          "flick": 0
+        },
+        "23600": {
+          "skyarea": 134,
+          "tap": 34,
+          "hold": 12,
+          "flick": 0
+        },
+        "24070": {
+          "skyarea": 136,
+          "tap": 34,
+          "hold": 15,
+          "flick": 4
+        },
+        "25385": {
+          "skyarea": 144,
+          "tap": 35,
+          "hold": 22,
+          "flick": 10
+        },
+        "36000": {
+          "skyarea": 194,
+          "tap": 55,
+          "hold": 74,
+          "flick": 68
+        }
+      }
+    },
+    {
+      "name": "Forbidden_tokonagi3",
+      "counts": {
+        "tap": 535,
+        "hold": 1399,
+        "flick": 543,
+        "skyarea": 631
+      },
+      "total": 3108,
+      "checkpointCountsProvisional": {
+        "0": {
+          "tap": 0,
+          "hold": 0,
+          "flick": 0,
+          "skyarea": 0
+        },
+        "1395": {
+          "tap": 0,
+          "hold": 0,
+          "flick": 0,
+          "skyarea": 0
+        },
+        "22154": {
+          "tap": 22,
+          "hold": 277,
+          "flick": 73,
+          "skyarea": 83
+        },
+        "22400": {
+          "tap": 22,
+          "hold": 279,
+          "flick": 73,
+          "skyarea": 83
+        },
+        "22769": {
+          "tap": 23,
+          "hold": 283,
+          "flick": 73,
+          "skyarea": 84
+        },
+        "23600": {
+          "tap": 25,
+          "hold": 294,
+          "flick": 73,
+          "skyarea": 87
+        },
+        "24070": {
+          "tap": 25,
+          "hold": 302,
+          "flick": 74,
+          "skyarea": 91
+        },
+        "25385": {
+          "tap": 25,
+          "hold": 309,
+          "flick": 74,
+          "skyarea": 106
+        },
+        "36000": {
+          "tap": 70,
+          "hold": 338,
+          "flick": 89,
+          "skyarea": 169
+        }
+      }
+    },
+    {
+      "name": "Forbidden_cyaegha3",
+      "counts": {
+        "skyarea": 375,
+        "tap": 489,
+        "flick": 340,
+        "hold": 494
+      },
+      "total": 1698,
+      "checkpointCountsProvisional": {
+        "0": {
+          "skyarea": 0,
+          "tap": 0,
+          "flick": 0,
+          "hold": 0
+        },
+        "1395": {
+          "skyarea": 4,
+          "tap": 1,
+          "flick": 0,
+          "hold": 0
+        },
+        "22154": {
+          "skyarea": 53,
+          "tap": 57,
+          "flick": 33,
+          "hold": 44
+        },
+        "22400": {
+          "skyarea": 53,
+          "tap": 58,
+          "flick": 34,
+          "hold": 45
+        },
+        "22769": {
+          "skyarea": 53,
+          "tap": 59,
+          "flick": 34,
+          "hold": 48
+        },
+        "23600": {
+          "skyarea": 53,
+          "tap": 62,
+          "flick": 36,
+          "hold": 53
+        },
+        "24070": {
+          "skyarea": 53,
+          "tap": 64,
+          "flick": 37,
+          "hold": 56
+        },
+        "25385": {
+          "skyarea": 59,
+          "tap": 64,
+          "flick": 39,
+          "hold": 66
+        },
+        "36000": {
+          "skyarea": 87,
+          "tap": 94,
+          "flick": 53,
+          "hold": 107
+        }
+      }
+    }
+  ],
+  "frozenFiles": [
+    "Assets/InFalsusStudio/Runtime/Core/CameraCalibration.cs",
+    "Assets/InFalsusStudio/Runtime/StudioProfile.cs",
+    "Assets/InFalsusStudio/Runtime/StudioTransport.cs",
+    "Assets/InFalsusStudio/Runtime/LeftControlGate.cs",
+    "Assets/InFalsusStudio/Runtime/Rendering/StageSpace.cs",
+    "Assets/InFalsusStudio/Runtime/Rendering/StageRenderer.cs",
+    "Assets/InFalsusStudio/Runtime/Rendering/FlickGeometry.cs",
+    "Assets/InFalsusStudio/Runtime/Core/AutoplayCursor.cs",
+    "Assets/InFalsusStudio/Runtime/Rendering/NoteRenderer.cs",
+    "Assets/InFalsusStudio/Runtime/Rendering/MeshBatch.cs",
+    "Assets/InFalsusStudio/Scenes/InFalsusStudio_Demo.unity",
+    "Assets/InFalsusStudio/Resources/InFalsusStudio/VertexOpaque.shader",
+    "Assets/InFalsusStudio/Resources/InFalsusStudio/VertexGlow.shader",
+    "Assets/InFalsusStudio/Resources/InFalsusStudio/VertexTransparent.shader",
+    "Assets/InFalsusStudio/Resources/InFalsusStudio/LightsOut.spc.txt",
+    "Assets/InFalsusStudio/Resources/InFalsusStudio/CalibratedProfile.asset"
+  ],
+  "checks": [
+    {
+      "name": "Forbidden_lightsout3 bundled original SHA256",
+      "category": "source data",
+      "passed": true
+    },
+    {
+      "name": "Forbidden_lightsout3 is byte-identical to a Notes.zip member",
+      "category": "source data",
+      "passed": true
+    },
+    {
+      "name": "Forbidden_lightsout3 candidate total tap",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "Forbidden_lightsout3 candidate total hold",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "Forbidden_lightsout3 candidate total skyarea",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "Forbidden_lightsout3 candidate total flick",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "Forbidden_lightsout3 final total",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "Forbidden_lightsout3 explicit tick list count",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "Forbidden_lightsout3 every candidate timestamp inside original duration",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "Forbidden_lightsout3 random-access matches explicit schedule at 33 seek points",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "Forbidden_lightsout3 monotone candidate accumulated combo",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "Forbidden_lightsout3 final schedule matches per-kind reference",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "Forbidden_lightsout3 supplied sample has constant numeric BPM",
+      "category": "source data",
+      "passed": true
+    },
+    {
+      "name": "Minimal_enigma0 bundled original SHA256",
+      "category": "source data",
+      "passed": true
+    },
+    {
+      "name": "Minimal_enigma0 is byte-identical to a Notes.zip member",
+      "category": "source data",
+      "passed": true
+    },
+    {
+      "name": "Minimal_enigma0 candidate total tap",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "Minimal_enigma0 candidate total hold",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "Minimal_enigma0 candidate total skyarea",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "Minimal_enigma0 candidate total flick",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "Minimal_enigma0 final total",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "Minimal_enigma0 explicit tick list count",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "Minimal_enigma0 every candidate timestamp inside original duration",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "Minimal_enigma0 random-access matches explicit schedule at 33 seek points",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "Minimal_enigma0 monotone candidate accumulated combo",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "Minimal_enigma0 final schedule matches per-kind reference",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "Minimal_enigma0 supplied sample has constant numeric BPM",
+      "category": "source data",
+      "passed": true
+    },
+    {
+      "name": "Forbidden_enigma3 bundled original SHA256",
+      "category": "source data",
+      "passed": true
+    },
+    {
+      "name": "Forbidden_enigma3 is byte-identical to a Notes.zip member",
+      "category": "source data",
+      "passed": true
+    },
+    {
+      "name": "Forbidden_enigma3 candidate total tap",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "Forbidden_enigma3 candidate total hold",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "Forbidden_enigma3 candidate total skyarea",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "Forbidden_enigma3 candidate total flick",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "Forbidden_enigma3 final total",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "Forbidden_enigma3 explicit tick list count",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "Forbidden_enigma3 every candidate timestamp inside original duration",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "Forbidden_enigma3 random-access matches explicit schedule at 33 seek points",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "Forbidden_enigma3 monotone candidate accumulated combo",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "Forbidden_enigma3 final schedule matches per-kind reference",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "Forbidden_enigma3 supplied sample has constant numeric BPM",
+      "category": "source data",
+      "passed": true
+    },
+    {
+      "name": "Forbidden_tokonagi3 bundled original SHA256",
+      "category": "source data",
+      "passed": true
+    },
+    {
+      "name": "Forbidden_tokonagi3 is byte-identical to a Notes.zip member",
+      "category": "source data",
+      "passed": true
+    },
+    {
+      "name": "Forbidden_tokonagi3 candidate total tap",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "Forbidden_tokonagi3 candidate total hold",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "Forbidden_tokonagi3 candidate total skyarea",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "Forbidden_tokonagi3 candidate total flick",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "Forbidden_tokonagi3 final total",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "Forbidden_tokonagi3 explicit tick list count",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "Forbidden_tokonagi3 every candidate timestamp inside original duration",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "Forbidden_tokonagi3 random-access matches explicit schedule at 33 seek points",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "Forbidden_tokonagi3 monotone candidate accumulated combo",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "Forbidden_tokonagi3 final schedule matches per-kind reference",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "Forbidden_tokonagi3 supplied sample has constant numeric BPM",
+      "category": "source data",
+      "passed": true
+    },
+    {
+      "name": "Forbidden_cyaegha3 bundled original SHA256",
+      "category": "source data",
+      "passed": true
+    },
+    {
+      "name": "Forbidden_cyaegha3 is byte-identical to a Notes.zip member",
+      "category": "source data",
+      "passed": true
+    },
+    {
+      "name": "Forbidden_cyaegha3 candidate total tap",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "Forbidden_cyaegha3 candidate total hold",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "Forbidden_cyaegha3 candidate total skyarea",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "Forbidden_cyaegha3 candidate total flick",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "Forbidden_cyaegha3 final total",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "Forbidden_cyaegha3 explicit tick list count",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "Forbidden_cyaegha3 every candidate timestamp inside original duration",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "Forbidden_cyaegha3 random-access matches explicit schedule at 33 seek points",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "Forbidden_cyaegha3 monotone candidate accumulated combo",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "Forbidden_cyaegha3 final schedule matches per-kind reference",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "Forbidden_cyaegha3 supplied sample has constant numeric BPM",
+      "category": "source data",
+      "passed": true
+    },
+    {
+      "name": "LightsOut original holds are 3231ms and BPM130",
+      "category": "source data",
+      "passed": true
+    },
+    {
+      "name": "LightsOut changes track not the count input, 231ms and 15 each",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "LightsOut hold 0 candidate head and tail present",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "LightsOut hold 1 candidate head and tail present",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "BPM crossing fixture onset assumption 13 then 9",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "BPM crossing fixture onset periods 250 then 125",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "left/0.2/0.8 left/right drags move visible midpoint same direction",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "left/0.2/0.8 all current codes stable at zero drag",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "left/0.2/0.8 mathematical identity Out-linear=0.20710678*delta",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "left/0.8/0.2 left/right drags move visible midpoint same direction",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "left/0.8/0.2 all current codes stable at zero drag",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "left/0.8/0.2 mathematical identity Out-linear=0.20710678*delta",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "left/0.1/0.1001 left/right drags move visible midpoint same direction",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "left/0.1/0.1001 all current codes stable at zero drag",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "left/0.1/0.1001 mathematical identity Out-linear=0.20710678*delta",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "left/0.9/0.8999 left/right drags move visible midpoint same direction",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "left/0.9/0.8999 all current codes stable at zero drag",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "left/0.9/0.8999 mathematical identity Out-linear=0.20710678*delta",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "right/0.2/0.8 left/right drags move visible midpoint same direction",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "right/0.2/0.8 all current codes stable at zero drag",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "right/0.2/0.8 mathematical identity Out-linear=0.20710678*delta",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "right/0.8/0.2 left/right drags move visible midpoint same direction",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "right/0.8/0.2 all current codes stable at zero drag",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "right/0.8/0.2 mathematical identity Out-linear=0.20710678*delta",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "right/0.1/0.1001 left/right drags move visible midpoint same direction",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "right/0.1/0.1001 all current codes stable at zero drag",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "right/0.1/0.1001 mathematical identity Out-linear=0.20710678*delta",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "right/0.9/0.8999 left/right drags move visible midpoint same direction",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "right/0.9/0.8999 all current codes stable at zero drag",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "right/0.9/0.8999 mathematical identity Out-linear=0.20710678*delta",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "wall edge independent from a moving opposite edge",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "moving ONE endpoint frees a pinned side",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "whole translation of equal-X edge no longer wall but still straight",
+      "category": "independent math",
+      "passed": true
+    },
+    {
+      "name": "metadata Stage contains no file-writing calls",
+      "category": "static wiring",
+      "passed": true
+    },
+    {
+      "name": "difficulty switch stores memory only, no Save or manifest write",
+      "category": "static wiring",
+      "passed": true
+    },
+    {
+      "name": "difficulty switch restores baseline independently of reset helper",
+      "category": "static wiring",
+      "passed": true
+    },
+    {
+      "name": "HUD uses Stage, never immediate metadata Apply",
+      "category": "static wiring",
+      "passed": true
+    },
+    {
+      "name": "explicit project Save invokes ManualSongSession.Save",
+      "category": "static wiring",
+      "passed": true
+    },
+    {
+      "name": "TickEditing contains no automatic save/recovery writes",
+      "category": "static wiring",
+      "passed": true
+    },
+    {
+      "name": "OnDestroy contains no automatic save/recovery writes",
+      "category": "static wiring",
+      "passed": true
+    },
+    {
+      "name": "TickSession contains no automatic save/recovery writes",
+      "category": "static wiring",
+      "passed": true
+    },
+    {
+      "name": "CtrlS remains before text focus early return",
+      "category": "static wiring",
+      "passed": true
+    },
+    {
+      "name": "project export does not clear project saved baseline",
+      "category": "static wiring",
+      "passed": true
+    },
+    {
+      "name": "on-leave confirmation contains Save Cancel Discard",
+      "category": "static wiring",
+      "passed": true
+    },
+    {
+      "name": "normal no-save quit has no lifecycle recovery path",
+      "category": "static wiring",
+      "passed": true
+    },
+    {
+      "name": "save snapshots capture original bytes on open",
+      "category": "static wiring",
+      "passed": true
+    },
+    {
+      "name": "save performs preflight before backup and replacing files",
+      "category": "static wiring",
+      "passed": true
+    },
+    {
+      "name": "failed save has conditional rollback without overwriting external edits",
+      "category": "static wiring",
+      "passed": true
+    },
+    {
+      "name": "per-edge wall logic is recomputed, no persistent flag",
+      "category": "static wiring",
+      "passed": true
+    },
+    {
+      "name": "new count UI includes playhead and per-note report",
+      "category": "static wiring",
+      "passed": true
+    },
+    {
+      "name": "HUD shows EST COMBO rather than inferred score",
+      "category": "static wiring",
+      "passed": true
+    },
+    {
+      "name": "count uses original timestamps not visualContactTime",
+      "category": "static wiring",
+      "passed": true
+    },
+    {
+      "name": "candidate count CSharp tests are actually hooked",
+      "category": "static wiring",
+      "passed": true
+    },
+    {
+      "name": "toolbar displays actual new version",
+      "category": "static wiring",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Editor/StudioSetup.cs",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Editor/StudioSetup.cs.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID 18f50c9a34b653c28808fa21cf9bb3ef",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Editor.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID 37e22cff068e52028d2e080ddfbe4edf",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Resources/InFalsusStudio/CalibratedProfile.asset",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Resources/InFalsusStudio/CalibratedProfile.asset.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID 3e256aaacf845158a283c18673592ff3",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Resources/InFalsusStudio/ComboReferences.json",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Resources/InFalsusStudio/ComboReferences.json.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID 2fc5ae77182d59fbb98c52fd1453f476",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/Difficulty0.png",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/Difficulty0.png.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID 6cf2a9de333d5df59be1d6ae35222463",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/Difficulty1.png",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/Difficulty1.png.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID 07204372a6ef54b19150183ce9b994f1",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/Difficulty2.png",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/Difficulty2.png.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID 55bbeaab5dde5099bd48bff4050c56f3",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/Difficulty3.png",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/Difficulty3.png.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID 5b946bc0b1b2504997d80ad43b363603",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/ScoreFrame.png",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/ScoreFrame.png.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID 8f08bdc9a70d5d4fbb7fd15dd55293be",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Resources/InFalsusStudio/Hud.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID ad945daf25795946bc575dc427851238",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Resources/InFalsusStudio/LightsOut.spc.txt",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Resources/InFalsusStudio/LightsOut.spc.txt.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID 316b378ad4f0564a96f6c3aee906a95a",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Resources/InFalsusStudio/VertexGlow.shader",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Resources/InFalsusStudio/VertexGlow.shader.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID a88146ca2770500aae280dd230c22d50",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Resources/InFalsusStudio/VertexOpaque.shader",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Resources/InFalsusStudio/VertexOpaque.shader.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID 85ee8dfdf76757579c7137e87407d1ca",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Resources/InFalsusStudio/VertexTransparent.shader",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Resources/InFalsusStudio/VertexTransparent.shader.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID c339ee3fd06a58bebdefe442c203fd36",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Resources/InFalsusStudio.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID 7436175c4531561182cd85a34300001b",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Resources.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID c8aac70f6d59550897b2342424eb6c51",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Runtime/Core/AirReachBounds.cs",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Runtime/Core/AirReachBounds.cs.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID 748766faaa6e50359c8e40081c9f0450",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Runtime/Core/AuthoringGrid.cs",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Runtime/Core/AuthoringGrid.cs.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID 49a6f635c64c57c8ba87498c7450481d",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Runtime/Core/AuthoringSelfTests.cs",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Runtime/Core/AuthoringSelfTests.cs.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID 04e8ea57fc275994a3c58c852eef2241",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Runtime/Core/AutoplayCursor.cs",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Runtime/Core/AutoplayCursor.cs.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID 2ce066d7e1e650a4a179fed211dbf329",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Runtime/Core/CameraCalibration.cs",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Runtime/Core/CameraCalibration.cs.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID 6ba6adb438b15d409a09e9a382b41a8f",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Runtime/Core/ChartMath.cs",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Runtime/Core/ChartMath.cs.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID 5c5c5c01c82957969cbe5c7ad004d23e",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Runtime/Core/CoreSelfTests.cs",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Runtime/Core/CoreSelfTests.cs.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID 48b0bc0ea22b5d1fb960a213b605bca4",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Runtime/Core/EditOperations.cs",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Runtime/Core/EditOperations.cs.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID a19d02bf4e625e34bf78df743e8771f2",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Runtime/Core/EditingSelfTests.cs",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Runtime/Core/EditingSelfTests.cs.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID f8509e827958537d9dd4454f5509454b",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Runtime/Core/GeometricSkyEase.cs",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Runtime/Core/GeometricSkyEase.cs.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID 5756acea79b35f188e0776b77e178d37",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Runtime/Core/IcpJsonImport.cs",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Runtime/Core/IcpJsonImport.cs.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID 7905301f9af55dc5ba8d7f0e8782f14d",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Runtime/Core/LosslessJsonPatch.cs",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Runtime/Core/LosslessJsonPatch.cs.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID 556d7a5739d8512fa33877586b06b131",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Runtime/Core/ManualSongSession.cs",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Runtime/Core/ManualSongSession.cs.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID b61966a85d6a5cd782492542b71a383a",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Runtime/Core/NavigationAndHandles.cs",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Runtime/Core/NavigationAndHandles.cs.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID c7b07ed99bb653d4a542ca108af2cbbc",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Runtime/Core/NavigationSelfTests.cs",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Runtime/Core/NavigationSelfTests.cs.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID ba8cc1e6602d56a1ae7c29d1d133b96a",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Runtime/Core/PointPlacement.cs",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Runtime/Core/PointPlacement.cs.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID b55a6a1fe8585a94b0bef021f1dbbf83",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Runtime/Core/ProjectJson.cs",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Runtime/Core/ProjectJson.cs.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID a9e4badce3f35caeb5f1ba581a5b0f41",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Runtime/Core/ProvisionalComboTimeline.cs",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Runtime/Core/ProvisionalComboTimeline.cs.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID 5d4f3f802df65d229bf78c11f9a36c3e",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Runtime/Core/RadialMenuState.cs",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Runtime/Core/RadialMenuState.cs.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID 727759ad6a475271aa51cfc0f9cd09a5",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Runtime/Core/Release051SelfTests.cs",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Runtime/Core/Release051SelfTests.cs.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID 8390d7c86cff5745a97f829483ad3970",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Runtime/Core/Release05SelfTests.cs",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Runtime/Core/Release05SelfTests.cs.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID db4080f9000754fb998046dfd4954c1c",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Runtime/Core/ScoreEvidence.cs",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Runtime/Core/ScoreEvidence.cs.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID ae7c442bc6b15edda91b99881e4211a1",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Runtime/Core/ScoreHudLayout.cs",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Runtime/Core/ScoreHudLayout.cs.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID d025942699ea52e1bb2c27e79c24247f",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Runtime/Core/SongFolderProject.cs",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Runtime/Core/SongFolderProject.cs.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID f1779e24aac9591d8dc4c89bb2bf9691",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Runtime/Core/SongMetadataEdit.cs",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Runtime/Core/SongMetadataEdit.cs.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID 4dbf5c72cb46588488c450a2bc789169",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Runtime/Core/SongProjectSelfTests.cs",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Runtime/Core/SongProjectSelfTests.cs.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID 47373819b2a75216adf115b79f7ffa39",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Runtime/Core/SpcDocument.cs",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Runtime/Core/SpcDocument.cs.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID b762167b42355be9976d1b63ba6643f8",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Runtime/Core/TickCountResearch.cs",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Runtime/Core/TickCountResearch.cs.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID 53f3453c16b25ad49166d3bd7b2f1b96",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Runtime/Core/WaveReader.cs",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Runtime/Core/WaveReader.cs.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID 53b6ec3df22c5c08aa2a0b244db10bec",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Runtime/Core.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID 1ab94bc817a154df88bd95a310b55f1b",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Runtime/LeftControlGate.cs",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Runtime/LeftControlGate.cs.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID 34adbb918aa35a3fa445b8f1a973fabf",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Runtime/Rendering/BeatGuideGeometry.cs",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Runtime/Rendering/BeatGuideGeometry.cs.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID a5cdcdd8d72d5f93a9c995d99926e612",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Runtime/Rendering/FlickGeometry.cs",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Runtime/Rendering/FlickGeometry.cs.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID 5eee281d99aa5dbeae949e9d10941989",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Runtime/Rendering/MeshBatch.cs",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Runtime/Rendering/MeshBatch.cs.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID 0b6312257ffd55d0ad83cef014fb3ffb",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Runtime/Rendering/NoteRenderer.cs",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Runtime/Rendering/NoteRenderer.cs.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID 42238dfd837351a9a6db00bdb1ece621",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Runtime/Rendering/StageRenderer.cs",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Runtime/Rendering/StageRenderer.cs.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID 18432748a1a251c2abd802a6c0a47a62",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Runtime/Rendering/StageSpace.cs",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Runtime/Rendering/StageSpace.cs.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID a8256af4ed4b5ad6bcb57c260bda154a",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Runtime/Rendering.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID 6ab0984e6a985988a19eda06f4844bba",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Runtime/StudioBootstrap.EaseHandles.cs",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Runtime/StudioBootstrap.EaseHandles.cs.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID 2945f447346a5c3e98fedf216213c494",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Runtime/StudioBootstrap.Editing.cs",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Runtime/StudioBootstrap.Editing.cs.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID ec4ecaaccc535541885b7745c58df883",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Runtime/StudioBootstrap.GuiFrame.cs",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Runtime/StudioBootstrap.GuiFrame.cs.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID 58b8691648fb5ca6bcf5aa4d166f5d41",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Runtime/StudioBootstrap.ManualSave.cs",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Runtime/StudioBootstrap.ManualSave.cs.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID 0f7ad2be03465de09a5b4f873a9f0f3c",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Runtime/StudioBootstrap.Navigation.cs",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Runtime/StudioBootstrap.Navigation.cs.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID b21dec4efc8855a6a57647d0ef95fb22",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Runtime/StudioBootstrap.PointPlacement.cs",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Runtime/StudioBootstrap.PointPlacement.cs.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID eb2adbf8f7fd526d812ec61075e236af",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Runtime/StudioBootstrap.Radial.cs",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Runtime/StudioBootstrap.Radial.cs.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID b598a78349ab588eb43c42f4b574a2f7",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Runtime/StudioBootstrap.SongHud.cs",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Runtime/StudioBootstrap.SongHud.cs.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID 580f412f9412593da8da9378042ee886",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Runtime/StudioBootstrap.SongProject.cs",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Runtime/StudioBootstrap.SongProject.cs.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID fe2bbda33adc5608b1c13b83ff161353",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Runtime/StudioBootstrap.Timeline.cs",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Runtime/StudioBootstrap.Timeline.cs.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID e89b25002bc05dedb5290e892eb220d8",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Runtime/StudioBootstrap.cs",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Runtime/StudioBootstrap.cs.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID 5b8f64b410665303b80628027b259938",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Runtime/StudioProfile.cs",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Runtime/StudioProfile.cs.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID 1cc77dde6a6253fab54aba4940869f25",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Runtime/StudioTransport.cs",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Runtime/StudioTransport.cs.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID 9f703058c3505aeb84d596d368882afa",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Runtime.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID 4ffc460be0f35471b52c793b19646805",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "Unity meta Assets/InFalsusStudio/Scenes/InFalsusStudio_Demo.unity",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Scenes/InFalsusStudio_Demo.unity.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID 9f004561350855569feb9a7cd33272e0",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio/Scenes.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID 5f3f3d94f79957d09bfaedb255deb8d6",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "valid meta GUID Assets/InFalsusStudio.meta",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "unique GUID 65839be7e38f5c9fad7d8f32befa5ee0",
+      "category": "asset structure",
+      "passed": true
+    },
+    {
+      "name": "frozen Assets/InFalsusStudio/Runtime/Core/CameraCalibration.cs",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "frozen Assets/InFalsusStudio/Runtime/StudioProfile.cs",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "frozen Assets/InFalsusStudio/Runtime/StudioTransport.cs",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "frozen Assets/InFalsusStudio/Runtime/LeftControlGate.cs",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "frozen Assets/InFalsusStudio/Runtime/Rendering/StageSpace.cs",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "frozen Assets/InFalsusStudio/Runtime/Rendering/StageRenderer.cs",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "frozen Assets/InFalsusStudio/Runtime/Rendering/FlickGeometry.cs",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "frozen Assets/InFalsusStudio/Runtime/Core/AutoplayCursor.cs",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "frozen Assets/InFalsusStudio/Runtime/Rendering/NoteRenderer.cs",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "frozen Assets/InFalsusStudio/Runtime/Rendering/MeshBatch.cs",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "frozen Assets/InFalsusStudio/Scenes/InFalsusStudio_Demo.unity",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "frozen Assets/InFalsusStudio/Resources/InFalsusStudio/VertexOpaque.shader",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "frozen Assets/InFalsusStudio/Resources/InFalsusStudio/VertexGlow.shader",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "frozen Assets/InFalsusStudio/Resources/InFalsusStudio/VertexTransparent.shader",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "frozen Assets/InFalsusStudio/Resources/InFalsusStudio/LightsOut.spc.txt",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "frozen Assets/InFalsusStudio/Resources/InFalsusStudio/CalibratedProfile.asset",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Runtime.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Editor.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Scenes.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Resources.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Scenes/InFalsusStudio_Demo.unity.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Runtime/StudioBootstrap.PointPlacement.cs.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Runtime/StudioBootstrap.GuiFrame.cs.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Runtime/StudioBootstrap.cs.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Runtime/StudioBootstrap.Timeline.cs.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Runtime/StudioBootstrap.Radial.cs.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Runtime/StudioBootstrap.EaseHandles.cs.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Runtime/StudioBootstrap.Editing.cs.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Runtime/StudioBootstrap.SongProject.cs.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Runtime/Rendering.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Runtime/StudioBootstrap.Navigation.cs.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Runtime/StudioProfile.cs.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Runtime/Core.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Runtime/StudioTransport.cs.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Runtime/StudioBootstrap.SongHud.cs.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Runtime/LeftControlGate.cs.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Editor/StudioSetup.cs.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Resources/InFalsusStudio.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Resources/InFalsusStudio/VertexOpaque.shader.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Resources/InFalsusStudio/LightsOut.spc.txt.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Resources/InFalsusStudio/CalibratedProfile.asset.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Resources/InFalsusStudio/ComboReferences.json.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Resources/InFalsusStudio/Hud.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Resources/InFalsusStudio/VertexTransparent.shader.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Resources/InFalsusStudio/VertexGlow.shader.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/Difficulty3.png.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/ScoreFrame.png.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/Difficulty1.png.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/Difficulty0.png.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/Difficulty2.png.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Runtime/Core/ProjectJson.cs.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Runtime/Core/RadialMenuState.cs.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Runtime/Core/SongMetadataEdit.cs.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Runtime/Core/NavigationSelfTests.cs.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Runtime/Core/Release05SelfTests.cs.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Runtime/Core/AuthoringSelfTests.cs.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Runtime/Core/AuthoringGrid.cs.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Runtime/Core/PointPlacement.cs.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Runtime/Core/SongProjectSelfTests.cs.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Runtime/Core/LosslessJsonPatch.cs.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Runtime/Core/WaveReader.cs.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Runtime/Core/EditingSelfTests.cs.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Runtime/Core/IcpJsonImport.cs.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Runtime/Core/ScoreHudLayout.cs.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Runtime/Core/SpcDocument.cs.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Runtime/Core/ChartMath.cs.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Runtime/Core/TickCountResearch.cs.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Runtime/Core/CoreSelfTests.cs.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Runtime/Core/ScoreEvidence.cs.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Runtime/Core/SongFolderProject.cs.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Runtime/Core/EditOperations.cs.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Runtime/Core/CameraCalibration.cs.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Runtime/Core/NavigationAndHandles.cs.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Runtime/Core/AutoplayCursor.cs.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Runtime/Core/AirReachBounds.cs.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Runtime/Rendering/MeshBatch.cs.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Runtime/Rendering/StageSpace.cs.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Runtime/Rendering/StageRenderer.cs.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Runtime/Rendering/FlickGeometry.cs.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Runtime/Rendering/BeatGuideGeometry.cs.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "existing meta unchanged Assets/InFalsusStudio/Runtime/Rendering/NoteRenderer.cs.meta",
+      "category": "baseline comparison",
+      "passed": true
+    },
+    {
+      "name": "no font files in delivered Assets",
+      "category": "asset structure",
+      "passed": true
+    }
+  ]
+}

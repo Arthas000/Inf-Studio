@@ -1,0 +1,35 @@
+{
+  "file": "Forbidden_coldsea3.spc",
+  "sha256": "09b9dc3a3c0d2d6356d7ffa8a76d46349c0ac12f00079bdb23c3bfe500f0ff01",
+  "bytes": 36490,
+  "physical_lines": 1479,
+  "counts": {
+    "chart": 1,
+    "skyarea": 412,
+    "hold": 180,
+    "tap": 633,
+    "flick": 250,
+    "bpm": 3
+  },
+  "last_three": [
+    {
+      "line": 1477,
+      "text": "bpm(137931,174.0,99.0)"
+    },
+    {
+      "line": 1478,
+      "text": "bpm(140000,174.0,4.0)"
+    },
+    {
+      "line": 1479,
+      "text": "bpm(140690,174.0,4.0)"
+    }
+  ],
+  "computed_icp_work_line_numbers": [
+    2954,
+    2955,
+    2956
+  ],
+  "working_file_observed": false,
+  "inference": "Line-number match suggests opaque JSON importer events; actual .ifstudio working file was NOT supplied."
+}

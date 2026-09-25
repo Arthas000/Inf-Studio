@@ -1,0 +1,2714 @@
+{
+  "version": "0.9",
+  "execution": "Python independent math/data/finite static checks only. Not C#/Unity/Windows/audio/Shader execution.",
+  "passed": 534,
+  "categories": {
+    "group reference": 51,
+    "attachment data": 7,
+    "grid reference": 4,
+    "audio reference": 60,
+    "static connection": 31,
+    "background reference": 21,
+    "layout reference": 20,
+    "resource audit": 221,
+    "baseline audit": 119
+  },
+  "asset_files": 219,
+  "checks": [
+    {
+      "name": "fixture group7 member order",
+      "category": "group reference",
+      "passed": true
+    },
+    {
+      "name": "group 7 time 0 direction -1",
+      "category": "group reference",
+      "passed": true
+    },
+    {
+      "name": "group 7 time 0 direction 1",
+      "category": "group reference",
+      "passed": true
+    },
+    {
+      "name": "group 7 time 1846 direction -1",
+      "category": "group reference",
+      "passed": true
+    },
+    {
+      "name": "group 7 time 1846 direction 1",
+      "category": "group reference",
+      "passed": true
+    },
+    {
+      "name": "group 7 time 7385/4 direction -1",
+      "category": "group reference",
+      "passed": true
+    },
+    {
+      "name": "group 7 time 7385/4 direction 1",
+      "category": "group reference",
+      "passed": true
+    },
+    {
+      "name": "group 7 time 2500 direction -1",
+      "category": "group reference",
+      "passed": true
+    },
+    {
+      "name": "group 7 time 2500 direction 1",
+      "category": "group reference",
+      "passed": true
+    },
+    {
+      "name": "group 7 time 3692 direction -1",
+      "category": "group reference",
+      "passed": true
+    },
+    {
+      "name": "group 7 time 3692 direction 1",
+      "category": "group reference",
+      "passed": true
+    },
+    {
+      "name": "group 7 time 6000 direction -1",
+      "category": "group reference",
+      "passed": true
+    },
+    {
+      "name": "group 7 time 6000 direction 1",
+      "category": "group reference",
+      "passed": true
+    },
+    {
+      "name": "group 8 time 0 direction -1",
+      "category": "group reference",
+      "passed": true
+    },
+    {
+      "name": "group 8 time 0 direction 1",
+      "category": "group reference",
+      "passed": true
+    },
+    {
+      "name": "group 8 time 1846 direction -1",
+      "category": "group reference",
+      "passed": true
+    },
+    {
+      "name": "group 8 time 1846 direction 1",
+      "category": "group reference",
+      "passed": true
+    },
+    {
+      "name": "group 8 time 7385/4 direction -1",
+      "category": "group reference",
+      "passed": true
+    },
+    {
+      "name": "group 8 time 7385/4 direction 1",
+      "category": "group reference",
+      "passed": true
+    },
+    {
+      "name": "group 8 time 2500 direction -1",
+      "category": "group reference",
+      "passed": true
+    },
+    {
+      "name": "group 8 time 2500 direction 1",
+      "category": "group reference",
+      "passed": true
+    },
+    {
+      "name": "group 8 time 3692 direction -1",
+      "category": "group reference",
+      "passed": true
+    },
+    {
+      "name": "group 8 time 3692 direction 1",
+      "category": "group reference",
+      "passed": true
+    },
+    {
+      "name": "group 8 time 6000 direction -1",
+      "category": "group reference",
+      "passed": true
+    },
+    {
+      "name": "group 8 time 6000 direction 1",
+      "category": "group reference",
+      "passed": true
+    },
+    {
+      "name": "group 99 time 0 direction -1",
+      "category": "group reference",
+      "passed": true
+    },
+    {
+      "name": "group 99 time 0 direction 1",
+      "category": "group reference",
+      "passed": true
+    },
+    {
+      "name": "group 99 time 1846 direction -1",
+      "category": "group reference",
+      "passed": true
+    },
+    {
+      "name": "group 99 time 1846 direction 1",
+      "category": "group reference",
+      "passed": true
+    },
+    {
+      "name": "group 99 time 7385/4 direction -1",
+      "category": "group reference",
+      "passed": true
+    },
+    {
+      "name": "group 99 time 7385/4 direction 1",
+      "category": "group reference",
+      "passed": true
+    },
+    {
+      "name": "group 99 time 2500 direction -1",
+      "category": "group reference",
+      "passed": true
+    },
+    {
+      "name": "group 99 time 2500 direction 1",
+      "category": "group reference",
+      "passed": true
+    },
+    {
+      "name": "group 99 time 3692 direction -1",
+      "category": "group reference",
+      "passed": true
+    },
+    {
+      "name": "group 99 time 3692 direction 1",
+      "category": "group reference",
+      "passed": true
+    },
+    {
+      "name": "group 99 time 6000 direction -1",
+      "category": "group reference",
+      "passed": true
+    },
+    {
+      "name": "group 99 time 6000 direction 1",
+      "category": "group reference",
+      "passed": true
+    },
+    {
+      "name": "group -1 time 0 direction -1",
+      "category": "group reference",
+      "passed": true
+    },
+    {
+      "name": "group -1 time 0 direction 1",
+      "category": "group reference",
+      "passed": true
+    },
+    {
+      "name": "group -1 time 1846 direction -1",
+      "category": "group reference",
+      "passed": true
+    },
+    {
+      "name": "group -1 time 1846 direction 1",
+      "category": "group reference",
+      "passed": true
+    },
+    {
+      "name": "group -1 time 7385/4 direction -1",
+      "category": "group reference",
+      "passed": true
+    },
+    {
+      "name": "group -1 time 7385/4 direction 1",
+      "category": "group reference",
+      "passed": true
+    },
+    {
+      "name": "group -1 time 2500 direction -1",
+      "category": "group reference",
+      "passed": true
+    },
+    {
+      "name": "group -1 time 2500 direction 1",
+      "category": "group reference",
+      "passed": true
+    },
+    {
+      "name": "group -1 time 3692 direction -1",
+      "category": "group reference",
+      "passed": true
+    },
+    {
+      "name": "group -1 time 3692 direction 1",
+      "category": "group reference",
+      "passed": true
+    },
+    {
+      "name": "group -1 time 6000 direction -1",
+      "category": "group reference",
+      "passed": true
+    },
+    {
+      "name": "group -1 time 6000 direction 1",
+      "category": "group reference",
+      "passed": true
+    },
+    {
+      "name": "strict next, no revisit same timestamp",
+      "category": "group reference",
+      "passed": true
+    },
+    {
+      "name": "no implicit wrap",
+      "category": "group reference",
+      "passed": true
+    },
+    {
+      "name": "Coldsea exact type counts",
+      "category": "attachment data",
+      "passed": true
+    },
+    {
+      "name": "Coldsea physical line count",
+      "category": "attachment data",
+      "passed": true
+    },
+    {
+      "name": "Coldsea bytes preserved",
+      "category": "attachment data",
+      "passed": true
+    },
+    {
+      "name": "Coldsea actual BPM statements",
+      "category": "attachment data",
+      "passed": true
+    },
+    {
+      "name": "work-line explanation arithmetic only",
+      "category": "attachment data",
+      "passed": true
+    },
+    {
+      "name": "new timing origin 137931 is a bar",
+      "category": "grid reference",
+      "passed": true
+    },
+    {
+      "name": "new timing origin 140000 is a bar",
+      "category": "grid reference",
+      "passed": true
+    },
+    {
+      "name": "new timing origin 140690 is a bar",
+      "category": "grid reference",
+      "passed": true
+    },
+    {
+      "name": "99 meter does not fabricate extra bars before next timing",
+      "category": "grid reference",
+      "passed": true
+    },
+    {
+      "name": "key normal-speed loop phase at 1, 0",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "attack sample length fixed at 1, 0",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "key normal-speed loop phase at 1, 10",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "attack sample length fixed at 1, 10",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "key normal-speed loop phase at 1, 175",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "attack sample length fixed at 1, 175",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "key normal-speed loop phase at 1, 1000",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "attack sample length fixed at 1, 1000",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "key normal-speed loop phase at 1, 1500",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "attack sample length fixed at 1, 1500",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "key normal-speed loop phase at 1, 5300",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "attack sample length fixed at 1, 5300",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "key normal-speed loop phase at 1, 10000",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "attack sample length fixed at 1, 10000",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "slow chart hold occupies at least normal real length 1",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "key normal-speed loop phase at 3/4, 0",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "attack sample length fixed at 3/4, 0",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "key normal-speed loop phase at 3/4, 10",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "attack sample length fixed at 3/4, 10",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "key normal-speed loop phase at 3/4, 175",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "attack sample length fixed at 3/4, 175",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "key normal-speed loop phase at 3/4, 1000",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "attack sample length fixed at 3/4, 1000",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "key normal-speed loop phase at 3/4, 1500",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "attack sample length fixed at 3/4, 1500",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "key normal-speed loop phase at 3/4, 5300",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "attack sample length fixed at 3/4, 5300",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "key normal-speed loop phase at 3/4, 10000",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "attack sample length fixed at 3/4, 10000",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "slow chart hold occupies at least normal real length 3/4",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "key normal-speed loop phase at 1/2, 0",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "attack sample length fixed at 1/2, 0",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "key normal-speed loop phase at 1/2, 10",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "attack sample length fixed at 1/2, 10",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "key normal-speed loop phase at 1/2, 175",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "attack sample length fixed at 1/2, 175",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "key normal-speed loop phase at 1/2, 1000",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "attack sample length fixed at 1/2, 1000",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "key normal-speed loop phase at 1/2, 1500",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "attack sample length fixed at 1/2, 1500",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "key normal-speed loop phase at 1/2, 5300",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "attack sample length fixed at 1/2, 5300",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "key normal-speed loop phase at 1/2, 10000",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "attack sample length fixed at 1/2, 10000",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "slow chart hold occupies at least normal real length 1/2",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "key normal-speed loop phase at 1/4, 0",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "attack sample length fixed at 1/4, 0",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "key normal-speed loop phase at 1/4, 10",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "attack sample length fixed at 1/4, 10",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "key normal-speed loop phase at 1/4, 175",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "attack sample length fixed at 1/4, 175",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "key normal-speed loop phase at 1/4, 1000",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "attack sample length fixed at 1/4, 1000",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "key normal-speed loop phase at 1/4, 1500",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "attack sample length fixed at 1/4, 1500",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "key normal-speed loop phase at 1/4, 5300",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "attack sample length fixed at 1/4, 5300",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "key normal-speed loop phase at 1/4, 10000",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "attack sample length fixed at 1/4, 10000",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "slow chart hold occupies at least normal real length 1/4",
+      "category": "audio reference",
+      "passed": true
+    },
+    {
+      "name": "key code not scaled by chart rate",
+      "category": "static connection",
+      "passed": true
+    },
+    {
+      "name": "music retains rate path",
+      "category": "static connection",
+      "passed": true
+    },
+    {
+      "name": "supplied background dimensions actually 2:1",
+      "category": "attachment data",
+      "passed": true
+    },
+    {
+      "name": "background original byte hash",
+      "category": "attachment data",
+      "passed": true
+    },
+    {
+      "name": "cover aspect/UV bounds 1/16/9",
+      "category": "background reference",
+      "passed": true
+    },
+    {
+      "name": "cover aspect/UV bounds 1/4/3",
+      "category": "background reference",
+      "passed": true
+    },
+    {
+      "name": "cover aspect/UV bounds 1/7/3",
+      "category": "background reference",
+      "passed": true
+    },
+    {
+      "name": "cover aspect/UV bounds 1/9/16",
+      "category": "background reference",
+      "passed": true
+    },
+    {
+      "name": "cover aspect/UV bounds 2/16/9",
+      "category": "background reference",
+      "passed": true
+    },
+    {
+      "name": "cover aspect/UV bounds 2/4/3",
+      "category": "background reference",
+      "passed": true
+    },
+    {
+      "name": "cover aspect/UV bounds 2/7/3",
+      "category": "background reference",
+      "passed": true
+    },
+    {
+      "name": "cover aspect/UV bounds 2/9/16",
+      "category": "background reference",
+      "passed": true
+    },
+    {
+      "name": "cover aspect/UV bounds 16/9/16/9",
+      "category": "background reference",
+      "passed": true
+    },
+    {
+      "name": "cover aspect/UV bounds 16/9/4/3",
+      "category": "background reference",
+      "passed": true
+    },
+    {
+      "name": "cover aspect/UV bounds 16/9/7/3",
+      "category": "background reference",
+      "passed": true
+    },
+    {
+      "name": "cover aspect/UV bounds 16/9/9/16",
+      "category": "background reference",
+      "passed": true
+    },
+    {
+      "name": "cover aspect/UV bounds 7/3/16/9",
+      "category": "background reference",
+      "passed": true
+    },
+    {
+      "name": "cover aspect/UV bounds 7/3/4/3",
+      "category": "background reference",
+      "passed": true
+    },
+    {
+      "name": "cover aspect/UV bounds 7/3/7/3",
+      "category": "background reference",
+      "passed": true
+    },
+    {
+      "name": "cover aspect/UV bounds 7/3/9/16",
+      "category": "background reference",
+      "passed": true
+    },
+    {
+      "name": "cover aspect/UV bounds 9/16/16/9",
+      "category": "background reference",
+      "passed": true
+    },
+    {
+      "name": "cover aspect/UV bounds 9/16/4/3",
+      "category": "background reference",
+      "passed": true
+    },
+    {
+      "name": "cover aspect/UV bounds 9/16/7/3",
+      "category": "background reference",
+      "passed": true
+    },
+    {
+      "name": "cover aspect/UV bounds 9/16/9/16",
+      "category": "background reference",
+      "passed": true
+    },
+    {
+      "name": "background horizontal margin 1/18",
+      "category": "background reference",
+      "passed": true
+    },
+    {
+      "name": "top controls separate at 1280x720 #0",
+      "category": "layout reference",
+      "passed": true
+    },
+    {
+      "name": "top controls separate at 1280x720 #1",
+      "category": "layout reference",
+      "passed": true
+    },
+    {
+      "name": "top controls separate at 1280x720 #2",
+      "category": "layout reference",
+      "passed": true
+    },
+    {
+      "name": "top controls separate at 1280x720 #3",
+      "category": "layout reference",
+      "passed": true
+    },
+    {
+      "name": "top fields before song HUD 1280",
+      "category": "layout reference",
+      "passed": true
+    },
+    {
+      "name": "top controls separate at 1920x1080 #0",
+      "category": "layout reference",
+      "passed": true
+    },
+    {
+      "name": "top controls separate at 1920x1080 #1",
+      "category": "layout reference",
+      "passed": true
+    },
+    {
+      "name": "top controls separate at 1920x1080 #2",
+      "category": "layout reference",
+      "passed": true
+    },
+    {
+      "name": "top controls separate at 1920x1080 #3",
+      "category": "layout reference",
+      "passed": true
+    },
+    {
+      "name": "top fields before song HUD 1920",
+      "category": "layout reference",
+      "passed": true
+    },
+    {
+      "name": "top controls separate at 2560x1440 #0",
+      "category": "layout reference",
+      "passed": true
+    },
+    {
+      "name": "top controls separate at 2560x1440 #1",
+      "category": "layout reference",
+      "passed": true
+    },
+    {
+      "name": "top controls separate at 2560x1440 #2",
+      "category": "layout reference",
+      "passed": true
+    },
+    {
+      "name": "top controls separate at 2560x1440 #3",
+      "category": "layout reference",
+      "passed": true
+    },
+    {
+      "name": "top fields before song HUD 2560",
+      "category": "layout reference",
+      "passed": true
+    },
+    {
+      "name": "top controls separate at 3840x2160 #0",
+      "category": "layout reference",
+      "passed": true
+    },
+    {
+      "name": "top controls separate at 3840x2160 #1",
+      "category": "layout reference",
+      "passed": true
+    },
+    {
+      "name": "top controls separate at 3840x2160 #2",
+      "category": "layout reference",
+      "passed": true
+    },
+    {
+      "name": "top controls separate at 3840x2160 #3",
+      "category": "layout reference",
+      "passed": true
+    },
+    {
+      "name": "top fields before song HUD 3840",
+      "category": "layout reference",
+      "passed": true
+    },
+    {
+      "name": "play expanded 109x63 hit box",
+      "category": "static connection",
+      "passed": true
+    },
+    {
+      "name": "play icon size unchanged",
+      "category": "static connection",
+      "passed": true
+    },
+    {
+      "name": "exact group jump guard",
+      "category": "static connection",
+      "passed": true
+    },
+    {
+      "name": "manual group not assigning note",
+      "category": "static connection",
+      "passed": true
+    },
+    {
+      "name": "foreground selection follows Sky",
+      "category": "static connection",
+      "passed": true
+    },
+    {
+      "name": "group follows source edits",
+      "category": "static connection",
+      "passed": true
+    },
+    {
+      "name": "timeline selection follows group",
+      "category": "static connection",
+      "passed": true
+    },
+    {
+      "name": "all current timings verified before merge",
+      "category": "static connection",
+      "passed": true
+    },
+    {
+      "name": "mismatch reference refused",
+      "category": "static connection",
+      "passed": true
+    },
+    {
+      "name": "existing time conflict refused",
+      "category": "static connection",
+      "passed": true
+    },
+    {
+      "name": "opaque retention message",
+      "category": "static connection",
+      "passed": true
+    },
+    {
+      "name": "explicit named JSON BPM",
+      "category": "static connection",
+      "passed": true
+    },
+    {
+      "name": "native own process only",
+      "category": "static connection",
+      "passed": true
+    },
+    {
+      "name": "native own class only",
+      "category": "static connection",
+      "passed": true
+    },
+    {
+      "name": "native signed monitor coordinates",
+      "category": "static connection",
+      "passed": true
+    },
+    {
+      "name": "native callback chain ownership check",
+      "category": "static connection",
+      "passed": true
+    },
+    {
+      "name": "native editor guard",
+      "category": "static connection",
+      "passed": true
+    },
+    {
+      "name": "unity endframe mode application",
+      "category": "static connection",
+      "passed": true
+    },
+    {
+      "name": "explicit four display modes",
+      "category": "static connection",
+      "passed": true
+    },
+    {
+      "name": "F11 recovery",
+      "category": "static connection",
+      "passed": true
+    },
+    {
+      "name": "background decode preflight",
+      "category": "static connection",
+      "passed": true
+    },
+    {
+      "name": "background no collider",
+      "category": "static connection",
+      "passed": true
+    },
+    {
+      "name": "background file not shader code",
+      "category": "static connection",
+      "passed": true
+    },
+    {
+      "name": "C#09 suite connected",
+      "category": "static connection",
+      "passed": true
+    },
+    {
+      "name": "background ordering not GUI overlay",
+      "category": "static connection",
+      "passed": true
+    },
+    {
+      "name": "no periodic/exit presentation save",
+      "category": "static connection",
+      "passed": true
+    },
+    {
+      "name": "presentation saved only via successful project save",
+      "category": "static connection",
+      "passed": true
+    },
+    {
+      "name": "no font files redistributed",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "standalone build allows window resizing",
+      "category": "static connection",
+      "passed": true
+    },
+    {
+      "name": "runtime actual diagnostics wired",
+      "category": "static connection",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Resources.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Scenes.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Editor.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/StudioBootstrap.TimingReference.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/StudioBootstrap.SongProject.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/StudioWindow.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/StudioBootstrap.GuiFrame.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/StudioBootstrap.EaseHandles.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/StudioBootstrap.Timeline.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/StudioBootstrap.Chrome.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/StudioBootstrap.Presentation.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/StudioBootstrap.Editing.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/StudioKeySounds.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/StudioFileDialogs.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/EditModifierGate.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/StudioFileDialogs.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/StudioBootstrap.Radial.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/StudioBootstrap.ManualSave.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/StudioBootstrap.PlayerAudio.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/StudioBootstrap.Presentation.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/LeftControlGate.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/StudioBootstrap.InputFields.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/StudioKeySounds.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/Rendering.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/StudioBootstrap.PointPlacement.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/StudioBootstrap.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/NativeBorderlessWindow.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/StudioBootstrap.GuiFrame.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/StudioBootstrap.SelectionWorkflow.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/StudioBootstrap.Groups.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/StudioBootstrap.Timeline.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/StudioBootstrap.TimingReference.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/StudioBootstrap.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/StudioBootstrap.SongHud.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/StudioBootstrap.Chrome.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/StudioTransport.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/EditModifierGate.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/StudioBootstrap.InputFields.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/StudioTransport.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/LeftControlGate.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/StudioBootstrap.PointPlacement.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/Core.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/StudioBootstrap.Panels.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/StudioProfile.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/StudioBootstrap.Radial.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/StudioBootstrap.Panels.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/StudioBootstrap.NotePanel.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/StudioBootstrap.Groups.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/NativeBorderlessWindow.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/StudioBootstrap.SelectionWorkflow.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/StudioBootstrap.Navigation.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/StudioBootstrap.SongHud.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/StudioBootstrap.NotePanel.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/StudioBootstrap.Editing.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/StudioProfile.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/StudioBootstrap.ManualSave.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/StudioBootstrap.Navigation.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/StudioWindow.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/StudioBootstrap.PlayerAudio.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/StudioBootstrap.SongProject.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/StudioBootstrap.EaseHandles.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Scenes/InFalsusStudio_Demo.unity",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Scenes/InFalsusStudio_Demo.unity.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Resources/InFalsusStudio.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Editor/StudioSetup.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Editor/StudioBuild08.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Editor/StudioBuild08.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Editor/StudioSetup.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Resources/InFalsusStudio/LightsOut.spc.txt.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Resources/InFalsusStudio/CalibratedProfile.asset.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Resources/InFalsusStudio/KeySounds.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Resources/InFalsusStudio/Background.shader.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Resources/InFalsusStudio/CalibratedProfile.asset",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Resources/InFalsusStudio/ComboReferences.json",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Resources/InFalsusStudio/Hud.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Resources/InFalsusStudio/VertexTransparent.shader.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Resources/InFalsusStudio/VertexGlow.shader",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Resources/InFalsusStudio/Backgrounds.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Resources/InFalsusStudio/ComboReferences.json.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Resources/InFalsusStudio/VertexGlow.shader.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Resources/InFalsusStudio/VertexOpaque.shader",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Resources/InFalsusStudio/LightsOut.spc.txt",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Resources/InFalsusStudio/Background.shader",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Resources/InFalsusStudio/VertexOpaque.shader.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Resources/InFalsusStudio/VertexTransparent.shader",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Resources/InFalsusStudio/Backgrounds/Corridor.png.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Resources/InFalsusStudio/Backgrounds/Corridor.png",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/Difficulty2.png",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/SideDifficulty3.png",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/ScoreFrame.png",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/SideDifficulty1.png.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/Difficulty3.png.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/Difficulty0.png",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/ScoreFrame.png.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/Difficulty3.png",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/SideDifficulty1.png",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/Difficulty0.png.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/SideDifficulty2.png",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/SideDifficulty0.png.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/SideDifficulty0.png",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/Difficulty1.png.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/SideDifficulty3.png.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/Difficulty2.png.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/SideDifficulty2.png.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/Difficulty1.png",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Resources/InFalsusStudio/KeySounds/Flick.ogg",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Resources/InFalsusStudio/KeySounds/FloorHit.ogg",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Resources/InFalsusStudio/KeySounds/FloorHold.ogg.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Resources/InFalsusStudio/KeySounds/SkyHold.ogg",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Resources/InFalsusStudio/KeySounds/SkyHold.ogg.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Resources/InFalsusStudio/KeySounds/Flick.ogg.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Resources/InFalsusStudio/KeySounds/SideHit.ogg",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Resources/InFalsusStudio/KeySounds/SkyHit.ogg.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Resources/InFalsusStudio/KeySounds/SkyHit.ogg",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Resources/InFalsusStudio/KeySounds/FloorHit.ogg.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Resources/InFalsusStudio/KeySounds/FloorHold.ogg",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Resources/InFalsusStudio/KeySounds/SideHit.ogg.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/Core/EditingSelfTests.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/Core/NoteProperties.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/Core/SkyGroups.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/Core/ScoreHudLayout.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/Core/WaveReader.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/Core/SongFolderProject.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/Core/RationalAirCoordinates.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/Core/ManualSongSession.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/Core/SongMetadataEdit.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/Core/AutoplayCursor.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/Core/AirReachBounds.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/Core/NavigationAndHandles.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/Core/SelectionAuthoring.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/Core/CameraCalibration.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/Core/GeometricSkyEase.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/Core/Release06SelfTests.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/Core/Release07SelfTests.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/Core/PointPlacement.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/Core/NavigationAndHandles.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/Core/AuthoringGrid.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/Core/CoreSelfTests.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/Core/ProjectJson.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/Core/SongProjectSelfTests.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/Core/RadialMenuState.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/Core/PreviewScore.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/Core/EditingSelfTests.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/Core/ProvisionalComboTimeline.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/Core/PointPlacement.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/Core/NavigationSelfTests.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/Core/ChartMath.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/Core/SelectionAuthoring.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/Core/SpcDocument.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/Core/AutoplayCursor.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/Core/EditOperations.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/Core/SkyConnections.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/Core/GeometricSkyEase.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/Core/TimingReferenceMerge.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/Core/ReviewNavigation.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/Core/Release08SelfTests.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/Core/SongFolderProject.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/Core/ProjectJson.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/Core/IcpJsonImport.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/Core/ScoreEvidence.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/Core/EditOperations.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/Core/AuthoringSelfTests.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/Core/ProvisionalComboTimeline.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/Core/SkyGroups.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/Core/Release07SelfTests.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/Core/NavigationSelfTests.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/Core/HitSoundPlan.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/Core/TickCountResearch.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/Core/PreviewScore.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/Core/Release09SelfTests.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/Core/Release051SelfTests.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/Core/SongMetadataEdit.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/Core/AuthoringGrid.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/Core/Release051SelfTests.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/Core/NoteProperties.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/Core/CameraCalibration.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/Core/HitSoundPlan.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/Core/Release05SelfTests.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/Core/Release08SelfTests.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/Core/WaveReader.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/Core/ScoreEvidence.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/Core/Release09SelfTests.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/Core/CoreSelfTests.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/Core/ReviewNavigation.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/Core/Release06SelfTests.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/Core/Release05SelfTests.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/Core/TimingReferenceMerge.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/Core/ChartMath.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/Core/ScoreHudLayout.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/Core/AuthoringSelfTests.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/Core/SongProjectSelfTests.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/Core/ManualSongSession.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/Core/IcpJsonImport.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/Core/SpcDocument.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/Core/RationalAirCoordinates.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/Core/LosslessJsonPatch.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/Core/TickCountResearch.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/Core/SkyConnections.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/Core/RadialMenuState.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/Core/AirReachBounds.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/Core/LosslessJsonPatch.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/Rendering/FlickGeometry.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/Rendering/NoteRenderer.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/Rendering/StageRenderer.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/Rendering/MeshBatch.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/Rendering/StageSpace.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/Rendering/BeatGuideGeometry.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/Rendering/BeatGuideGeometry.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/Rendering/FlickGeometry.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/Rendering/HitFeedbackRenderer.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/Rendering/StageRenderer.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/Rendering/MeshBatch.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/Rendering/StudioBackground.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/Rendering/HitFeedbackRenderer.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/Rendering/StageSpace.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "asset has meta Assets/InFalsusStudio/Runtime/Rendering/NoteRenderer.cs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "valid meta Assets/InFalsusStudio/Runtime/Rendering/StudioBackground.cs.meta",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "unique meta GUIDs",
+      "category": "resource audit",
+      "passed": true
+    },
+    {
+      "name": "frozen Runtime/Core/CameraCalibration.cs",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "frozen Runtime/StudioProfile.cs",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "frozen Runtime/Rendering/StageSpace.cs",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "frozen Runtime/Rendering/StageRenderer.cs",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "frozen Runtime/Rendering/FlickGeometry.cs",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "frozen Runtime/Core/ManualSongSession.cs",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "frozen Runtime/Core/SongMetadataEdit.cs",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "frozen Runtime/Core/AutoplayCursor.cs",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "frozen Runtime/Core/PreviewScore.cs",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "frozen Runtime/Core/TickCountResearch.cs",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "frozen Runtime/Core/ProvisionalComboTimeline.cs",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "frozen Runtime/Core/SkyGroups.cs",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "frozen Runtime/Core/RadialMenuState.cs",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "frozen Runtime/Core/PointPlacement.cs",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "frozen Runtime/StudioTransport.cs",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "frozen Runtime/Rendering/NoteRenderer.cs",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Resources.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Scenes.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Editor.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/StudioBootstrap.SongProject.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/StudioBootstrap.GuiFrame.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/StudioBootstrap.EaseHandles.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/StudioBootstrap.Timeline.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/StudioBootstrap.Chrome.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/StudioBootstrap.Editing.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/StudioFileDialogs.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/EditModifierGate.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/StudioBootstrap.ManualSave.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/StudioBootstrap.PlayerAudio.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/LeftControlGate.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/StudioKeySounds.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/Rendering.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/StudioBootstrap.PointPlacement.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/StudioBootstrap.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/StudioBootstrap.SongHud.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/StudioTransport.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/StudioBootstrap.InputFields.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/Core.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/StudioBootstrap.Panels.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/StudioBootstrap.Radial.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/StudioBootstrap.NotePanel.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/StudioBootstrap.SelectionWorkflow.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/StudioBootstrap.Navigation.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/StudioProfile.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Scenes/InFalsusStudio_Demo.unity.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Resources/InFalsusStudio.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Editor/StudioSetup.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Editor/StudioBuild08.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Resources/InFalsusStudio/LightsOut.spc.txt.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Resources/InFalsusStudio/CalibratedProfile.asset.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Resources/InFalsusStudio/KeySounds.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Resources/InFalsusStudio/Hud.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Resources/InFalsusStudio/VertexTransparent.shader.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Resources/InFalsusStudio/ComboReferences.json.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Resources/InFalsusStudio/VertexGlow.shader.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Resources/InFalsusStudio/VertexOpaque.shader.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/SideDifficulty1.png.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/Difficulty3.png.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/ScoreFrame.png.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/Difficulty0.png.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/SideDifficulty0.png.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/Difficulty1.png.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/SideDifficulty3.png.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/Difficulty2.png.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/SideDifficulty2.png.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Resources/InFalsusStudio/KeySounds/FloorHold.ogg.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Resources/InFalsusStudio/KeySounds/SkyHold.ogg.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Resources/InFalsusStudio/KeySounds/Flick.ogg.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Resources/InFalsusStudio/KeySounds/SkyHit.ogg.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Resources/InFalsusStudio/KeySounds/FloorHit.ogg.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Resources/InFalsusStudio/KeySounds/SideHit.ogg.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/Core/EditingSelfTests.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/Core/NoteProperties.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/Core/WaveReader.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/Core/RationalAirCoordinates.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/Core/AutoplayCursor.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/Core/AirReachBounds.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/Core/SelectionAuthoring.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/Core/GeometricSkyEase.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/Core/Release06SelfTests.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/Core/NavigationAndHandles.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/Core/AuthoringGrid.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/Core/ProjectJson.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/Core/RadialMenuState.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/Core/ProvisionalComboTimeline.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/Core/PointPlacement.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/Core/EditOperations.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/Core/SongFolderProject.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/Core/AuthoringSelfTests.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/Core/SkyGroups.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/Core/Release07SelfTests.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/Core/NavigationSelfTests.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/Core/HitSoundPlan.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/Core/PreviewScore.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/Core/SongMetadataEdit.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/Core/Release051SelfTests.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/Core/CameraCalibration.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/Core/Release05SelfTests.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/Core/Release08SelfTests.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/Core/ScoreEvidence.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/Core/CoreSelfTests.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/Core/ChartMath.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/Core/ScoreHudLayout.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/Core/SongProjectSelfTests.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/Core/ManualSongSession.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/Core/IcpJsonImport.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/Core/SpcDocument.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/Core/LosslessJsonPatch.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/Core/TickCountResearch.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/Core/SkyConnections.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/Rendering/FlickGeometry.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/Rendering/NoteRenderer.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/Rendering/StageSpace.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/Rendering/BeatGuideGeometry.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/Rendering/StageRenderer.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/Rendering/MeshBatch.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    },
+    {
+      "name": "old GUID file unchanged Assets/InFalsusStudio/Runtime/Rendering/HitFeedbackRenderer.cs.meta",
+      "category": "baseline audit",
+      "passed": true
+    }
+  ],
+  "frozen_hashes": {
+    "Runtime/Core/CameraCalibration.cs": "add7005bf6d63a903e839ca1e765b5c192dbb54397aec1136c18a1138d895bc4",
+    "Runtime/StudioProfile.cs": "e4e8e02edb4ec3c624c3f080bf022676afafac94d4b8ac6f0969927cab6ce8ef",
+    "Runtime/Rendering/StageSpace.cs": "1ed37906b794ce0f1014ef2d61ee8ada0cbbefe63100e4709a03f3dd9a332852",
+    "Runtime/Rendering/StageRenderer.cs": "71bbcd3d50d57e9948b8a31e30f9c1fa0b2e9c27e9e0f8cd6c71e7cca720582b",
+    "Runtime/Rendering/FlickGeometry.cs": "ef24bb86aff2e9e40984b5193f384a8df8fd8fcf6030c19101bbf00ebeab49ce",
+    "Runtime/Core/ManualSongSession.cs": "fadc9ab46fd6a009b7dff587873b8f6ec47fec550406e63c062408bb1584a622",
+    "Runtime/Core/SongMetadataEdit.cs": "723dada01da744c34c314614991bfeababbfba65db67e4314c02ffc350589042",
+    "Runtime/Core/AutoplayCursor.cs": "9adf8076b5cfd27d7c3bbc12c24f974ed937936a7b3e22925aa3f3ecdb2a3842",
+    "Runtime/Core/PreviewScore.cs": "ee2466ba5a889dbffb1bd74e4df32cd08a7e31995c3940a7ce76bd066d3b4479",
+    "Runtime/Core/TickCountResearch.cs": "b26d7d4f85f378b40b4fb8e03d63882c83f1960fef3ae6f04f3cb83f7dc5b406",
+    "Runtime/Core/ProvisionalComboTimeline.cs": "e7ddb4e93c46a431611dce073731d9a9af16190e50e647f6f65394ca008f8deb",
+    "Runtime/Core/SkyGroups.cs": "4392f3abfe3a250af743ea2c2816fa3fa4d8c94a02c8c157b4dccf202b2676da",
+    "Runtime/Core/RadialMenuState.cs": "1752f5eaab02607e5856d9f8c121508b52c097e757b1a3050b9e7d1cdc38cabc",
+    "Runtime/Core/PointPlacement.cs": "1989a586aefdb885c1df6b39e39eb70bf700e46e72e9399823b2a3ae81370897",
+    "Runtime/StudioTransport.cs": "0089523a073ca0f8fd2ea43cf0fb75d7943a7076186428a77b40fb97e8947579",
+    "Runtime/Rendering/NoteRenderer.cs": "d248f732b2804d3e698cb6d6e756a1b90e2db81e8ed36255f8ccc5478db46858"
+  },
+  "not_run": [
+    "C# compiler/CoreSelfTests",
+    "Unity Editor / Player / Shader compilation",
+    "Windows window styles / resize / DPI / native dialog",
+    "actual sample audio recording / phase / music virtualization",
+    "pixel-accurate runtime screenshot comparison"
+  ]
+}

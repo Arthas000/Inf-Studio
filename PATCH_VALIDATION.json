@@ -1,0 +1,33 @@
+{
+  "release": "0.5.1",
+  "base": "0.5",
+  "validation": "Applied update assets to a real baseline directory copy, then compared all paths and SHA256s.",
+  "assetFiles": 133,
+  "changedOrNewAssetFiles": 21,
+  "allAssetBytesMatch": true,
+  "csharpCompiled": false,
+  "unityExecuted": false,
+  "updatedAssets": [
+    "Assets/InFalsusStudio/Runtime/Core/CoreSelfTests.cs",
+    "Assets/InFalsusStudio/Runtime/Core/EditOperations.cs",
+    "Assets/InFalsusStudio/Runtime/Core/GeometricSkyEase.cs",
+    "Assets/InFalsusStudio/Runtime/Core/GeometricSkyEase.cs.meta",
+    "Assets/InFalsusStudio/Runtime/Core/ManualSongSession.cs",
+    "Assets/InFalsusStudio/Runtime/Core/ManualSongSession.cs.meta",
+    "Assets/InFalsusStudio/Runtime/Core/ProvisionalComboTimeline.cs",
+    "Assets/InFalsusStudio/Runtime/Core/ProvisionalComboTimeline.cs.meta",
+    "Assets/InFalsusStudio/Runtime/Core/Release051SelfTests.cs",
+    "Assets/InFalsusStudio/Runtime/Core/Release051SelfTests.cs.meta",
+    "Assets/InFalsusStudio/Runtime/Core/ScoreEvidence.cs",
+    "Assets/InFalsusStudio/Runtime/Core/SongMetadataEdit.cs",
+    "Assets/InFalsusStudio/Runtime/StudioBootstrap.EaseHandles.cs",
+    "Assets/InFalsusStudio/Runtime/StudioBootstrap.Editing.cs",
+    "Assets/InFalsusStudio/Runtime/StudioBootstrap.ManualSave.cs",
+    "Assets/InFalsusStudio/Runtime/StudioBootstrap.ManualSave.cs.meta",
+    "Assets/InFalsusStudio/Runtime/StudioBootstrap.PointPlacement.cs",
+    "Assets/InFalsusStudio/Runtime/StudioBootstrap.SongHud.cs",
+    "Assets/InFalsusStudio/Runtime/StudioBootstrap.SongProject.cs",
+    "Assets/InFalsusStudio/Runtime/StudioBootstrap.Timeline.cs",
+    "Assets/InFalsusStudio/Runtime/StudioBootstrap.cs"
+  ]
+}

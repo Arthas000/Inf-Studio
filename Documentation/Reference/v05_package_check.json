@@ -1,0 +1,178 @@
+{
+  "target": "v0.4 -> v0.5",
+  "assets_deleted": 0,
+  "asset_file_count": 123,
+  "updated_asset_files": 30,
+  "existing_meta_preserved": 59,
+  "unique_guids": 66,
+  "all_assets_have_meta": true,
+  "actual_overlay_equals_full_assets": true,
+  "no_font_files": true,
+  "does_not_touch": [
+    "Packages",
+    "ProjectSettings",
+    "Assets/InFalsusStudioUser"
+  ],
+  "changed_assets": [
+    {
+      "path": "Assets/InFalsusStudio/Editor/StudioSetup.cs",
+      "new": false,
+      "sha256": "0e6584b45816b22d6df6453e8ee287cbadde209668f51ee9b2027a1243d0a779"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Resources/InFalsusStudio/ComboReferences.json",
+      "new": true,
+      "sha256": "3235f535b259317b9ef75ecfaddfe4e850b0339e16dde82d77fb670209529a35"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Resources/InFalsusStudio/ComboReferences.json.meta",
+      "new": true,
+      "sha256": "9e174b3bb39f29fff84f0c7597840cb6bb9a2af86c161f2b20e47c218f1b7e95"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Runtime/Core/AirReachBounds.cs",
+      "new": true,
+      "sha256": "3eb3d8910519a507117ebd4cb6decbb14dea42da5ad5878d7b6bb9d4a940856e"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Runtime/Core/AirReachBounds.cs.meta",
+      "new": true,
+      "sha256": "d2aab97535a6a033cc42987bc3a252d144a28bdc938d1b97227531ed71968987"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Runtime/Core/AutoplayCursor.cs",
+      "new": false,
+      "sha256": "0bd2b3d2053321f79d7fd745cbe6fa84bdafd070e1caf995486665510f507f96"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Runtime/Core/CoreSelfTests.cs",
+      "new": false,
+      "sha256": "a958e90d1eb1cc5126fc8d9ebe67d2534ffc9a27057da77be99ccb48063ae8bc"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Runtime/Core/EditOperations.cs",
+      "new": false,
+      "sha256": "d270314a6096bb324fdee2fc325c4bd8d909d8475b4fef0a7a9d5d01263de26e"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Runtime/Core/EditingSelfTests.cs",
+      "new": false,
+      "sha256": "147f7a52809da21d0d0a49f4582d115d8e2b9ea494ba2330597beaa211b68813"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Runtime/Core/IcpJsonImport.cs",
+      "new": false,
+      "sha256": "e68388d481de6a12da0e38e260159bdc86305cee281d099a0339aa74f057cfff"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Runtime/Core/LosslessJsonPatch.cs",
+      "new": true,
+      "sha256": "8dd9b7c53baaa432f6bbdfd3529310d7371efaf6c46ca462f7759e9bfcf60ead"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Runtime/Core/LosslessJsonPatch.cs.meta",
+      "new": true,
+      "sha256": "c12de161fc448c025870fdc7dba49d8671873cfc6390d09cae9de333feec743d"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Runtime/Core/Release05SelfTests.cs",
+      "new": true,
+      "sha256": "8d67057255ec566b4c0d09d1f46d7e21c81a5de8a5bb956b4d7e07ebc665765e"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Runtime/Core/Release05SelfTests.cs.meta",
+      "new": true,
+      "sha256": "e001957e131689fb0dad210bae1ad49e9c1cd4d28efca2c4572f573bc1006671"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Runtime/Core/ScoreHudLayout.cs",
+      "new": true,
+      "sha256": "99aecfbfe915d04e5e75704c5af83b046dff02a237c998a9e553bc7732207ddf"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Runtime/Core/ScoreHudLayout.cs.meta",
+      "new": true,
+      "sha256": "bafe0a25dd663c68d90d1b13b48ba6ac92c27d53c14336624a8039b691311fdc"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Runtime/Core/SongFolderProject.cs",
+      "new": false,
+      "sha256": "93740837249456f38973e6ad1502be86d9e14c474ba6ff2ea5aedc107455d299"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Runtime/Core/SongMetadataEdit.cs",
+      "new": true,
+      "sha256": "d502f3e643baae8cfcb9b062355d2afe07261938ba76f86b91220a1ceefbefc1"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Runtime/Core/SongMetadataEdit.cs.meta",
+      "new": true,
+      "sha256": "c0467db240be2fefeaad485f9165145b022f3ee84726c1f2993a2d9bb792a739"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Runtime/Core/SongProjectSelfTests.cs",
+      "new": false,
+      "sha256": "a815925ad4809071d5ae83092f26cfec54ee47c131445c82afbacd65b7395172"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Runtime/Core/TickCountResearch.cs",
+      "new": true,
+      "sha256": "b26d7d4f85f378b40b4fb8e03d63882c83f1960fef3ae6f04f3cb83f7dc5b406"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Runtime/Core/TickCountResearch.cs.meta",
+      "new": true,
+      "sha256": "626b8e5e338563354cac74d8305678a568fe468acbbd5d31df136d8627ee274c"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Runtime/Rendering/MeshBatch.cs",
+      "new": false,
+      "sha256": "00f9da21187665a5e9814f474dabef5a0e8abe8eb5a78416a1f75756966e0c80"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Runtime/Rendering/NoteRenderer.cs",
+      "new": false,
+      "sha256": "252215b8a7744424ea22aeffb261562be64616d0aa88e2e64fa325367073016c"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Runtime/StudioBootstrap.Editing.cs",
+      "new": false,
+      "sha256": "9a5b44f69945e0549582f97cc3af22e169b2cb0d5ba5f0739d3a62bd943b875f"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Runtime/StudioBootstrap.GuiFrame.cs",
+      "new": false,
+      "sha256": "4fdee08ecbd8dcaedb8f975c0cc3a361ec03a12a56740176bc25f5b7f0842889"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Runtime/StudioBootstrap.PointPlacement.cs",
+      "new": false,
+      "sha256": "6ce467bf23c0e8180cd57cb084152440b4f8c1f38b76112de3be23a45e4029f8"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Runtime/StudioBootstrap.SongHud.cs",
+      "new": false,
+      "sha256": "83581abf5402b7fa2c561517c4b4958f039143dfdeb2c321073ce98bc82e4640"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Runtime/StudioBootstrap.SongProject.cs",
+      "new": false,
+      "sha256": "d9ee998a71eb2b10fb3e1bddb17135a9a27c674a76187779cccb2957a57321a3"
+    },
+    {
+      "path": "Assets/InFalsusStudio/Runtime/StudioBootstrap.cs",
+      "new": false,
+      "sha256": "62ac7119e917e34ae9a78c03517a4e4352b46fe75cb859cdcc798e4e6a712d47"
+    }
+  ],
+  "input_archives": {
+    "Notes.zip": "f739194a57f5c3119d694d54d88fa0cd768114947fde1b86e989347c97002ebc",
+    "014_enigma.zip": "a31369087da1d776b345289dc7c4b4f08519ac4c76a193ff07382c1a891a057b",
+    "Enigma Minimal 36秒.mp4": "9077b88c9d104abc0ef041e3790dca5f6ef081632df70949614fd00360046e27"
+  },
+  "not_verified": [
+    "Unity compilation/runtime",
+    "C# execution",
+    "Windows filesystem/UI/audio"
+  ]
+}

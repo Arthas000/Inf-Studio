@@ -1,0 +1,50 @@
+[
+  {
+    "source": "274_songdiff-frame-easy.png",
+    "index": 0,
+    "difficulty": "Minimal",
+    "destination": "Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/SideDifficulty0.png",
+    "sha256": "1f5f53fdf17adf9fd15ceea8c4a4747c6ab4e80c7a635c0219068f9aa3598ca1",
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "source": "266_songdiff-frame-medium.png",
+    "index": 1,
+    "difficulty": "Evolved",
+    "destination": "Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/SideDifficulty1.png",
+    "sha256": "68b3f830c7a7c8ec84ae2e0756f57992a24d02a1a218223c768a573375697bd3",
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "source": "279_songdiff-frame-hard.png",
+    "index": 2,
+    "difficulty": "Ultimate",
+    "destination": "Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/SideDifficulty2.png",
+    "sha256": "8aadaaf6b7f2f49f78f3217e5b56cf0bddea7ca3ab56acea387afce05e54dd8a",
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "source": "277_songdiff-frame-xtreme.png",
+    "index": 3,
+    "difficulty": "Forbidden",
+    "destination": "Assets/InFalsusStudio/Resources/InFalsusStudio/Hud/SideDifficulty3.png",
+    "sha256": "d346d9919bd77615c1f5659a479ad88f06237eab7968a98d81cc26924478bb2f",
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA"
+  }
+]

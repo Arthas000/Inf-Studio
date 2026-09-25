@@ -1,0 +1,750 @@
+{
+  "scope": "Executed independent Python math, input-file hash and LIMITED source contracts. NOT C# compilation, Unity rendering, actual mouse UI or audible playback.",
+  "checks": 137,
+  "passed": 137,
+  "results": [
+    {
+      "name": "reported passage has all eight supplied Sky segments",
+      "passed": true,
+      "category": "supplied chart audit"
+    },
+    {
+      "name": "Sky 73846.0: both endpoint centers equal 0.5",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "Sky 73846.0: symmetric throughout",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "Sky 73846.0: old Flick predates completed Sky",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "Sky 74308.0: both endpoint centers equal 0.5",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "Sky 74308.0: symmetric throughout",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "Sky 74308.0: old Flick predates completed Sky",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "Sky 74769.0: both endpoint centers equal 0.5",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "Sky 74769.0: symmetric throughout",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "Sky 74769.0: old Flick predates completed Sky",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "Sky 75231.0: both endpoint centers equal 0.5",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "Sky 75231.0: symmetric throughout",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "Sky 75231.0: old Flick predates completed Sky",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "Sky 75692.0: both endpoint centers equal 0.5",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "Sky 75692.0: symmetric throughout",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "Sky 75692.0: old Flick predates completed Sky",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "Sky 76154.0: both endpoint centers equal 0.5",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "Sky 76154.0: symmetric throughout",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "Sky 76154.0: old Flick predates completed Sky",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "Sky 76615.0: both endpoint centers equal 0.5",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "Sky 76615.0: symmetric throughout",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "Sky 76615.0: old Flick predates completed Sky",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "Sky 77077.0: both endpoint centers equal 0.5",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "Sky 77077.0: symmetric throughout",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "Sky 77077.0: old Flick predates completed Sky",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "fix uses most recently completed Sky, half-open active ranges remain",
+      "passed": true,
+      "category": "source contract"
+    },
+    {
+      "name": "exit during post-flick return evaluates the actual return value at Sky end",
+      "passed": true,
+      "category": "source contract"
+    },
+    {
+      "name": "center is .5 immediately before/at/after symmetric tail under hold-exit policy",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "future timing roots & local meter enumeration",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "no old timing phase retained after reset",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "fractional-meter bars",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "future timing origin visible in ahead window",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "long bar horizon has no accumulated rounding",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "bars independent of snap grid",
+      "passed": true,
+      "category": "source contract"
+    },
+    {
+      "name": "six tracks share one Z per guide",
+      "passed": true,
+      "category": "source contract"
+    },
+    {
+      "name": "pale gray pixel-width persistent lines",
+      "passed": true,
+      "category": "source contract"
+    },
+    {
+      "name": "future scroll segments enumerated (not current timing only)",
+      "passed": true,
+      "category": "source contract"
+    },
+    {
+      "name": "score 1: zero and final ceiling",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "score 1: monotone direct rational lookup",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "score 2: zero and final ceiling",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "score 2: monotone direct rational lookup",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "score 3: zero and final ceiling",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "score 3: monotone direct rational lookup",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "score 617: zero and final ceiling",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "score 617: monotone direct rational lookup",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "score 1334: zero and final ceiling",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "score 1334: monotone direct rational lookup",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "score 1698: zero and final ceiling",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "score 1698: monotone direct rational lookup",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "score 2169: zero and final ceiling",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "score 2169: monotone direct rational lookup",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "score 3108: zero and final ceiling",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "score 3108: monotone direct rational lookup",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "integer score no repeated rounding drift",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "score empty chart remains zero",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "score explicitly provisional and not song-progress interpolation",
+      "passed": true,
+      "category": "source contract"
+    },
+    {
+      "name": "screen-centered combo present and no OS cursor movement",
+      "passed": true,
+      "category": "source contract"
+    },
+    {
+      "name": "SCORE reference anchor moved inside label compartment",
+      "passed": true,
+      "category": "source contract"
+    },
+    {
+      "name": "tool drawer defaults folded, not a full width toolbar",
+      "passed": true,
+      "category": "source contract"
+    },
+    {
+      "name": "timing panel independent of selected-note panel",
+      "passed": true,
+      "category": "source contract"
+    },
+    {
+      "name": "one friendly form per note type",
+      "passed": true,
+      "category": "source contract"
+    },
+    {
+      "name": "note-only UI has no timing or nearby-note lists",
+      "passed": true,
+      "category": "source contract"
+    },
+    {
+      "name": "no form changes during playback",
+      "passed": true,
+      "category": "source contract"
+    },
+    {
+      "name": "form snapshots frozen at Layout",
+      "passed": true,
+      "category": "source contract"
+    },
+    {
+      "name": "collapsed panels do not block scene clicks",
+      "passed": true,
+      "category": "source contract"
+    },
+    {
+      "name": "friendly note form refuses stale edits",
+      "passed": true,
+      "category": "source contract"
+    },
+    {
+      "name": "friendly form edits only changed fields and preserves splits",
+      "passed": true,
+      "category": "source contract"
+    },
+    {
+      "name": "note Apply is an undoable RAM command, not file IO",
+      "passed": true,
+      "category": "source contract"
+    },
+    {
+      "name": "raw-source form remains explicit",
+      "passed": true,
+      "category": "source contract"
+    },
+    {
+      "name": "percentage to raw preserves split 2",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "percentage to raw preserves split 24",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "percentage to raw preserves split 100",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "percentage to raw preserves split 200",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "Hold moving head does not accidentally move tail",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "rejected invalid form can be rolled back atomically",
+      "passed": true,
+      "category": "source contract"
+    },
+    {
+      "name": "all-six ground Hold voices union",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "touching Sky spans do not restart hold loop",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "5500..8000 has both independent continuous sound buses",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "no fictional SkyTap schema added",
+      "passed": true,
+      "category": "source contract"
+    },
+    {
+      "name": "per-segment Sky attack is default",
+      "passed": true,
+      "category": "source contract"
+    },
+    {
+      "name": "floor & side attacks have separate routing",
+      "passed": true,
+      "category": "source contract"
+    },
+    {
+      "name": "Flick uses source time (not visual contact or combo ticks)",
+      "passed": true,
+      "category": "source contract"
+    },
+    {
+      "name": "sound has independent AudioSources + DSP scheduling",
+      "passed": true,
+      "category": "source contract"
+    },
+    {
+      "name": "music and SFX share transport mapping",
+      "passed": true,
+      "category": "source contract"
+    },
+    {
+      "name": "epoch reset stops pending sounds on seek/rate change",
+      "passed": true,
+      "category": "source contract"
+    },
+    {
+      "name": "loop lookahead cannot fire shots after B",
+      "passed": true,
+      "category": "source contract"
+    },
+    {
+      "name": "no prior attacks replayed on plan rebuild",
+      "passed": true,
+      "category": "source contract"
+    },
+    {
+      "name": "hold resume advances sample phase, does not replay attack",
+      "passed": true,
+      "category": "source contract"
+    },
+    {
+      "name": "DSP 0.5: anchor and inverse",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "DSP 0.5: fixed chart hold duration scales in playback",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "DSP 1: anchor and inverse",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "DSP 1: fixed chart hold duration scales in playback",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "DSP 2: anchor and inverse",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "DSP 2: fixed chart hold duration scales in playback",
+      "passed": true,
+      "category": "independent reference math"
+    },
+    {
+      "name": "FloorHit raw bytes preserved",
+      "passed": true,
+      "category": "audio resource hash"
+    },
+    {
+      "name": "FloorHit genuine OGG Vorbis",
+      "passed": true,
+      "category": "audio resource audit"
+    },
+    {
+      "name": "FloorHit preload and native stereo sample rate",
+      "passed": true,
+      "category": "audio import metadata"
+    },
+    {
+      "name": "SideHit raw bytes preserved",
+      "passed": true,
+      "category": "audio resource hash"
+    },
+    {
+      "name": "SideHit genuine OGG Vorbis",
+      "passed": true,
+      "category": "audio resource audit"
+    },
+    {
+      "name": "SideHit preload and native stereo sample rate",
+      "passed": true,
+      "category": "audio import metadata"
+    },
+    {
+      "name": "SkyHit raw bytes preserved",
+      "passed": true,
+      "category": "audio resource hash"
+    },
+    {
+      "name": "SkyHit genuine OGG Vorbis",
+      "passed": true,
+      "category": "audio resource audit"
+    },
+    {
+      "name": "SkyHit preload and native stereo sample rate",
+      "passed": true,
+      "category": "audio import metadata"
+    },
+    {
+      "name": "Flick raw bytes preserved",
+      "passed": true,
+      "category": "audio resource hash"
+    },
+    {
+      "name": "Flick genuine OGG Vorbis",
+      "passed": true,
+      "category": "audio resource audit"
+    },
+    {
+      "name": "Flick preload and native stereo sample rate",
+      "passed": true,
+      "category": "audio import metadata"
+    },
+    {
+      "name": "FloorHold raw bytes preserved",
+      "passed": true,
+      "category": "audio resource hash"
+    },
+    {
+      "name": "FloorHold genuine OGG Vorbis",
+      "passed": true,
+      "category": "audio resource audit"
+    },
+    {
+      "name": "FloorHold preload and native stereo sample rate",
+      "passed": true,
+      "category": "audio import metadata"
+    },
+    {
+      "name": "SkyHold raw bytes preserved",
+      "passed": true,
+      "category": "audio resource hash"
+    },
+    {
+      "name": "SkyHold genuine OGG Vorbis",
+      "passed": true,
+      "category": "audio resource audit"
+    },
+    {
+      "name": "SkyHold preload and native stereo sample rate",
+      "passed": true,
+      "category": "audio import metadata"
+    },
+    {
+      "name": "no duplicate Unity GUIDs",
+      "passed": true,
+      "category": "resource structure"
+    },
+    {
+      "name": "all new Unity scripts have metadata",
+      "passed": true,
+      "category": "resource structure"
+    },
+    {
+      "name": "no font files bundled",
+      "passed": true,
+      "category": "resource structure"
+    },
+    {
+      "name": "new actual C# regression invoked by existing runner",
+      "passed": true,
+      "category": "source contract"
+    },
+    {
+      "name": "actual Unity audio check is present",
+      "passed": true,
+      "category": "source contract"
+    },
+    {
+      "name": "unchanged Runtime/Core/CameraCalibration.cs",
+      "passed": true,
+      "category": "baseline hash"
+    },
+    {
+      "name": "unchanged Runtime/StudioProfile.cs",
+      "passed": true,
+      "category": "baseline hash"
+    },
+    {
+      "name": "unchanged Runtime/Rendering/StageSpace.cs",
+      "passed": true,
+      "category": "baseline hash"
+    },
+    {
+      "name": "unchanged Runtime/Rendering/StageRenderer.cs",
+      "passed": true,
+      "category": "baseline hash"
+    },
+    {
+      "name": "unchanged Runtime/Rendering/FlickGeometry.cs",
+      "passed": true,
+      "category": "baseline hash"
+    },
+    {
+      "name": "unchanged Runtime/LeftControlGate.cs",
+      "passed": true,
+      "category": "baseline hash"
+    },
+    {
+      "name": "unchanged Runtime/Core/ManualSongSession.cs",
+      "passed": true,
+      "category": "baseline hash"
+    },
+    {
+      "name": "unchanged Runtime/Core/SongMetadataEdit.cs",
+      "passed": true,
+      "category": "baseline hash"
+    },
+    {
+      "name": "unchanged Runtime/StudioBootstrap.ManualSave.cs",
+      "passed": true,
+      "category": "baseline hash"
+    },
+    {
+      "name": "unchanged Runtime/StudioBootstrap.Radial.cs",
+      "passed": true,
+      "category": "baseline hash"
+    },
+    {
+      "name": "unchanged Runtime/Core/ProvisionalComboTimeline.cs",
+      "passed": true,
+      "category": "baseline hash"
+    },
+    {
+      "name": "unchanged Runtime/Core/TickCountResearch.cs",
+      "passed": true,
+      "category": "baseline hash"
+    },
+    {
+      "name": "unchanged Resources/InFalsusStudio/CalibratedProfile.asset",
+      "passed": true,
+      "category": "baseline hash"
+    },
+    {
+      "name": "unchanged Scenes/InFalsusStudio_Demo.unity",
+      "passed": true,
+      "category": "baseline hash"
+    },
+    {
+      "name": "unchanged Resources/InFalsusStudio/LightsOut.spc.txt",
+      "passed": true,
+      "category": "baseline hash"
+    },
+    {
+      "name": "unchanged Resources/InFalsusStudio/VertexOpaque.shader",
+      "passed": true,
+      "category": "baseline hash"
+    },
+    {
+      "name": "unchanged Resources/InFalsusStudio/VertexGlow.shader",
+      "passed": true,
+      "category": "baseline hash"
+    },
+    {
+      "name": "unchanged Resources/InFalsusStudio/VertexTransparent.shader",
+      "passed": true,
+      "category": "baseline hash"
+    },
+    {
+      "name": "all existing .meta GUID files unchanged",
+      "passed": true,
+      "category": "baseline hash"
+    },
+    {
+      "name": "manual save OnDestroy remains no-write",
+      "passed": true,
+      "category": "source contract"
+    }
+  ],
+  "reported_cursor_exits": [
+    {
+      "start": 73846.0,
+      "end": 74077.0,
+      "tailCenter": 0.5,
+      "priorFlickTime": 73385.0,
+      "priorFlickUnconstrainedEnd": 0.07
+    },
+    {
+      "start": 74308.0,
+      "end": 74538.0,
+      "tailCenter": 0.5,
+      "priorFlickTime": 73385.0,
+      "priorFlickUnconstrainedEnd": 0.07
+    },
+    {
+      "start": 74769.0,
+      "end": 74942.0,
+      "tailCenter": 0.5,
+      "priorFlickTime": 73385.0,
+      "priorFlickUnconstrainedEnd": 0.07
+    },
+    {
+      "start": 75231.0,
+      "end": 75404.0,
+      "tailCenter": 0.5,
+      "priorFlickTime": 73385.0,
+      "priorFlickUnconstrainedEnd": 0.07
+    },
+    {
+      "start": 75692.0,
+      "end": 75750.0,
+      "tailCenter": 0.5,
+      "priorFlickTime": 73385.0,
+      "priorFlickUnconstrainedEnd": 0.07
+    },
+    {
+      "start": 76154.0,
+      "end": 76212.0,
+      "tailCenter": 0.5,
+      "priorFlickTime": 73385.0,
+      "priorFlickUnconstrainedEnd": 0.07
+    },
+    {
+      "start": 76615.0,
+      "end": 76673.0,
+      "tailCenter": 0.5,
+      "priorFlickTime": 73385.0,
+      "priorFlickUnconstrainedEnd": 0.07
+    },
+    {
+      "start": 77077.0,
+      "end": 77135.0,
+      "tailCenter": 0.5,
+      "priorFlickTime": 73385.0,
+      "priorFlickUnconstrainedEnd": 0.07
+    }
+  ]
+}

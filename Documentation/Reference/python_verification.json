@@ -1,0 +1,1831 @@
+{
+  "scope": "Independent Python reference checks and asset-layout inspection; does NOT execute C# or Unity",
+  "passed": 363,
+  "failed": 0,
+  "sample_sha256": "166a8abf158c8e2ccdebac0b2ee897b371f569b0ae4cdbcc7bbd6709ea41aa7e",
+  "counts": {
+    "chart": 1,
+    "skyarea": 190,
+    "tap": 600,
+    "flick": 304,
+    "hold": 26,
+    "track": 17
+  },
+  "results": [
+    {
+      "name": "Supplied SPC exact SHA-256",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "UTF-8 decode/encode leaves sample bytes intact",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "1138 source lines",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Count chart",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Count tap",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Count hold",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Count flick",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Count skyarea",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Count track",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "1120 note objects",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Ease start 0",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Ease end 0",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Ease start 1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Ease end 1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Ease start 2",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Ease end 2",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "SineOut midpoint",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "SineIn midpoint",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Clamped temporal progress",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Unknown ease rejected",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Independent edge combination 0/0",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Independent edge combination 0/1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Independent edge combination 0/2",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Independent edge combination 1/0",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Independent edge combination 1/1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Independent edge combination 1/2",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Independent edge combination 2/0",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Independent edge combination 2/1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Independent edge combination 2/2",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Midpoint width is 0.042893..., not 0.25",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Opening segment 0 at 1846 width 0.01",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Opening segment 0 center at 1846",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Opening segment 0 at 2769 width 1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Opening segment 0 center at 2769",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Opening segment 1 at 2769 width 1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Opening segment 1 center at 2769",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Opening segment 1 at 3692 width 0.01",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Opening segment 1 center at 3692",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Opening shared group 0 preserved",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Opening different divisors really present",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "All 626 floor spans valid",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "First tap parameter order",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "First Flick is yellow-left direction 16",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Second Flick is green-right direction 4",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Track records are at file end",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Track at 0 = 1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Track at 22154 applied to side Hold",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "No BPM multiplication in scroll",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Three depths coincide",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Reverse inverse returns three choices",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Zero speed inverse contains interval",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Duplicate track last event wins",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Projection ground-left",
+      "passed": true,
+      "detail": "(434.0, 1029.0)"
+    },
+    {
+      "name": "Projection ground-right",
+      "passed": true,
+      "detail": "(1614.0, 1029.0)"
+    },
+    {
+      "name": "Projection air",
+      "passed": true,
+      "detail": "(1024.0, 734.0)"
+    },
+    {
+      "name": "Projection side-left",
+      "passed": true,
+      "detail": "(124.00000000000011, 840.0)"
+    },
+    {
+      "name": "Projection side-right",
+      "passed": true,
+      "detail": "(1924.0, 840.0)"
+    },
+    {
+      "name": "Horizon at approximately y=35",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Side slope approx 43.0768 degrees",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Both side seams touch ground at z=-1.5",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Mirrored side projection at z=-1.5",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Both side seams touch ground at z=0",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Mirrored side projection at z=0",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Both side seams touch ground at z=1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Mirrored side projection at z=1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Both side seams touch ground at z=10",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Mirrored side projection at z=10",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Both side seams touch ground at z=65",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Mirrored side projection at z=65",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick flat Y 4 Z=0.0 width=0.166667",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick recedes, not rises 4 Z=0.0 width=0.166667",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick width-independent height 4 Z=0.0 width=0.166667",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick inverse projection 4 Z=0.0 width=0.166667",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Narrow Flick does not double back 4 Z=0.0 width=0.166667",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick flat Y 4 Z=0.0 width=0.333333",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick recedes, not rises 4 Z=0.0 width=0.333333",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick width-independent height 4 Z=0.0 width=0.333333",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick inverse projection 4 Z=0.0 width=0.333333",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Narrow Flick does not double back 4 Z=0.0 width=0.333333",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick flat Y 4 Z=0.0 width=0.500000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick recedes, not rises 4 Z=0.0 width=0.500000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick width-independent height 4 Z=0.0 width=0.500000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick inverse projection 4 Z=0.0 width=0.500000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Narrow Flick does not double back 4 Z=0.0 width=0.500000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick flat Y 4 Z=0.0 width=1.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick recedes, not rises 4 Z=0.0 width=1.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick width-independent height 4 Z=0.0 width=1.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick inverse projection 4 Z=0.0 width=1.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Narrow Flick does not double back 4 Z=0.0 width=1.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick flat Y 4 Z=0.0 width=2.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick recedes, not rises 4 Z=0.0 width=2.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick width-independent height 4 Z=0.0 width=2.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick inverse projection 4 Z=0.0 width=2.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Narrow Flick does not double back 4 Z=0.0 width=2.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick flat Y 4 Z=0.0 width=4.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick recedes, not rises 4 Z=0.0 width=4.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick width-independent height 4 Z=0.0 width=4.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick inverse projection 4 Z=0.0 width=4.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Narrow Flick does not double back 4 Z=0.0 width=4.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick flat Y 4 Z=1.23 width=0.166667",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick recedes, not rises 4 Z=1.23 width=0.166667",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick width-independent height 4 Z=1.23 width=0.166667",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick inverse projection 4 Z=1.23 width=0.166667",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Narrow Flick does not double back 4 Z=1.23 width=0.166667",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick flat Y 4 Z=1.23 width=0.333333",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick recedes, not rises 4 Z=1.23 width=0.333333",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick width-independent height 4 Z=1.23 width=0.333333",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick inverse projection 4 Z=1.23 width=0.333333",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Narrow Flick does not double back 4 Z=1.23 width=0.333333",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick flat Y 4 Z=1.23 width=0.500000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick recedes, not rises 4 Z=1.23 width=0.500000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick width-independent height 4 Z=1.23 width=0.500000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick inverse projection 4 Z=1.23 width=0.500000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Narrow Flick does not double back 4 Z=1.23 width=0.500000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick flat Y 4 Z=1.23 width=1.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick recedes, not rises 4 Z=1.23 width=1.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick width-independent height 4 Z=1.23 width=1.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick inverse projection 4 Z=1.23 width=1.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Narrow Flick does not double back 4 Z=1.23 width=1.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick flat Y 4 Z=1.23 width=2.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick recedes, not rises 4 Z=1.23 width=2.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick width-independent height 4 Z=1.23 width=2.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick inverse projection 4 Z=1.23 width=2.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Narrow Flick does not double back 4 Z=1.23 width=2.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick flat Y 4 Z=1.23 width=4.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick recedes, not rises 4 Z=1.23 width=4.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick width-independent height 4 Z=1.23 width=4.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick inverse projection 4 Z=1.23 width=4.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Narrow Flick does not double back 4 Z=1.23 width=4.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick flat Y 4 Z=8.16 width=0.166667",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick recedes, not rises 4 Z=8.16 width=0.166667",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick width-independent height 4 Z=8.16 width=0.166667",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick inverse projection 4 Z=8.16 width=0.166667",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Narrow Flick does not double back 4 Z=8.16 width=0.166667",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick flat Y 4 Z=8.16 width=0.333333",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick recedes, not rises 4 Z=8.16 width=0.333333",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick width-independent height 4 Z=8.16 width=0.333333",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick inverse projection 4 Z=8.16 width=0.333333",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Narrow Flick does not double back 4 Z=8.16 width=0.333333",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick flat Y 4 Z=8.16 width=0.500000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick recedes, not rises 4 Z=8.16 width=0.500000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick width-independent height 4 Z=8.16 width=0.500000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick inverse projection 4 Z=8.16 width=0.500000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Narrow Flick does not double back 4 Z=8.16 width=0.500000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick flat Y 4 Z=8.16 width=1.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick recedes, not rises 4 Z=8.16 width=1.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick width-independent height 4 Z=8.16 width=1.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick inverse projection 4 Z=8.16 width=1.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Narrow Flick does not double back 4 Z=8.16 width=1.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick flat Y 4 Z=8.16 width=2.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick recedes, not rises 4 Z=8.16 width=2.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick width-independent height 4 Z=8.16 width=2.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick inverse projection 4 Z=8.16 width=2.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Narrow Flick does not double back 4 Z=8.16 width=2.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick flat Y 4 Z=8.16 width=4.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick recedes, not rises 4 Z=8.16 width=4.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick width-independent height 4 Z=8.16 width=4.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick inverse projection 4 Z=8.16 width=4.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Narrow Flick does not double back 4 Z=8.16 width=4.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick flat Y 4 Z=20.0 width=0.166667",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick recedes, not rises 4 Z=20.0 width=0.166667",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick width-independent height 4 Z=20.0 width=0.166667",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick inverse projection 4 Z=20.0 width=0.166667",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Narrow Flick does not double back 4 Z=20.0 width=0.166667",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick flat Y 4 Z=20.0 width=0.333333",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick recedes, not rises 4 Z=20.0 width=0.333333",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick width-independent height 4 Z=20.0 width=0.333333",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick inverse projection 4 Z=20.0 width=0.333333",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Narrow Flick does not double back 4 Z=20.0 width=0.333333",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick flat Y 4 Z=20.0 width=0.500000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick recedes, not rises 4 Z=20.0 width=0.500000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick width-independent height 4 Z=20.0 width=0.500000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick inverse projection 4 Z=20.0 width=0.500000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Narrow Flick does not double back 4 Z=20.0 width=0.500000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick flat Y 4 Z=20.0 width=1.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick recedes, not rises 4 Z=20.0 width=1.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick width-independent height 4 Z=20.0 width=1.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick inverse projection 4 Z=20.0 width=1.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Narrow Flick does not double back 4 Z=20.0 width=1.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick flat Y 4 Z=20.0 width=2.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick recedes, not rises 4 Z=20.0 width=2.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick width-independent height 4 Z=20.0 width=2.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick inverse projection 4 Z=20.0 width=2.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Narrow Flick does not double back 4 Z=20.0 width=2.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick flat Y 4 Z=20.0 width=4.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick recedes, not rises 4 Z=20.0 width=4.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick width-independent height 4 Z=20.0 width=4.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick inverse projection 4 Z=20.0 width=4.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Narrow Flick does not double back 4 Z=20.0 width=4.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick flat Y 16 Z=0.0 width=0.166667",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick recedes, not rises 16 Z=0.0 width=0.166667",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick width-independent height 16 Z=0.0 width=0.166667",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick inverse projection 16 Z=0.0 width=0.166667",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Narrow Flick does not double back 16 Z=0.0 width=0.166667",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick flat Y 16 Z=0.0 width=0.333333",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick recedes, not rises 16 Z=0.0 width=0.333333",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick width-independent height 16 Z=0.0 width=0.333333",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick inverse projection 16 Z=0.0 width=0.333333",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Narrow Flick does not double back 16 Z=0.0 width=0.333333",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick flat Y 16 Z=0.0 width=0.500000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick recedes, not rises 16 Z=0.0 width=0.500000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick width-independent height 16 Z=0.0 width=0.500000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick inverse projection 16 Z=0.0 width=0.500000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Narrow Flick does not double back 16 Z=0.0 width=0.500000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick flat Y 16 Z=0.0 width=1.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick recedes, not rises 16 Z=0.0 width=1.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick width-independent height 16 Z=0.0 width=1.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick inverse projection 16 Z=0.0 width=1.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Narrow Flick does not double back 16 Z=0.0 width=1.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick flat Y 16 Z=0.0 width=2.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick recedes, not rises 16 Z=0.0 width=2.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick width-independent height 16 Z=0.0 width=2.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick inverse projection 16 Z=0.0 width=2.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Narrow Flick does not double back 16 Z=0.0 width=2.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick flat Y 16 Z=0.0 width=4.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick recedes, not rises 16 Z=0.0 width=4.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick width-independent height 16 Z=0.0 width=4.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick inverse projection 16 Z=0.0 width=4.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Narrow Flick does not double back 16 Z=0.0 width=4.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick flat Y 16 Z=1.23 width=0.166667",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick recedes, not rises 16 Z=1.23 width=0.166667",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick width-independent height 16 Z=1.23 width=0.166667",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick inverse projection 16 Z=1.23 width=0.166667",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Narrow Flick does not double back 16 Z=1.23 width=0.166667",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick flat Y 16 Z=1.23 width=0.333333",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick recedes, not rises 16 Z=1.23 width=0.333333",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick width-independent height 16 Z=1.23 width=0.333333",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick inverse projection 16 Z=1.23 width=0.333333",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Narrow Flick does not double back 16 Z=1.23 width=0.333333",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick flat Y 16 Z=1.23 width=0.500000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick recedes, not rises 16 Z=1.23 width=0.500000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick width-independent height 16 Z=1.23 width=0.500000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick inverse projection 16 Z=1.23 width=0.500000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Narrow Flick does not double back 16 Z=1.23 width=0.500000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick flat Y 16 Z=1.23 width=1.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick recedes, not rises 16 Z=1.23 width=1.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick width-independent height 16 Z=1.23 width=1.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick inverse projection 16 Z=1.23 width=1.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Narrow Flick does not double back 16 Z=1.23 width=1.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick flat Y 16 Z=1.23 width=2.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick recedes, not rises 16 Z=1.23 width=2.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick width-independent height 16 Z=1.23 width=2.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick inverse projection 16 Z=1.23 width=2.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Narrow Flick does not double back 16 Z=1.23 width=2.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick flat Y 16 Z=1.23 width=4.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick recedes, not rises 16 Z=1.23 width=4.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick width-independent height 16 Z=1.23 width=4.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick inverse projection 16 Z=1.23 width=4.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Narrow Flick does not double back 16 Z=1.23 width=4.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick flat Y 16 Z=8.16 width=0.166667",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick recedes, not rises 16 Z=8.16 width=0.166667",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick width-independent height 16 Z=8.16 width=0.166667",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick inverse projection 16 Z=8.16 width=0.166667",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Narrow Flick does not double back 16 Z=8.16 width=0.166667",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick flat Y 16 Z=8.16 width=0.333333",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick recedes, not rises 16 Z=8.16 width=0.333333",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick width-independent height 16 Z=8.16 width=0.333333",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick inverse projection 16 Z=8.16 width=0.333333",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Narrow Flick does not double back 16 Z=8.16 width=0.333333",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick flat Y 16 Z=8.16 width=0.500000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick recedes, not rises 16 Z=8.16 width=0.500000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick width-independent height 16 Z=8.16 width=0.500000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick inverse projection 16 Z=8.16 width=0.500000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Narrow Flick does not double back 16 Z=8.16 width=0.500000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick flat Y 16 Z=8.16 width=1.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick recedes, not rises 16 Z=8.16 width=1.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick width-independent height 16 Z=8.16 width=1.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick inverse projection 16 Z=8.16 width=1.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Narrow Flick does not double back 16 Z=8.16 width=1.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick flat Y 16 Z=8.16 width=2.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick recedes, not rises 16 Z=8.16 width=2.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick width-independent height 16 Z=8.16 width=2.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick inverse projection 16 Z=8.16 width=2.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Narrow Flick does not double back 16 Z=8.16 width=2.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick flat Y 16 Z=8.16 width=4.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick recedes, not rises 16 Z=8.16 width=4.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick width-independent height 16 Z=8.16 width=4.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick inverse projection 16 Z=8.16 width=4.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Narrow Flick does not double back 16 Z=8.16 width=4.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick flat Y 16 Z=20.0 width=0.166667",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick recedes, not rises 16 Z=20.0 width=0.166667",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick width-independent height 16 Z=20.0 width=0.166667",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick inverse projection 16 Z=20.0 width=0.166667",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Narrow Flick does not double back 16 Z=20.0 width=0.166667",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick flat Y 16 Z=20.0 width=0.333333",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick recedes, not rises 16 Z=20.0 width=0.333333",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick width-independent height 16 Z=20.0 width=0.333333",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick inverse projection 16 Z=20.0 width=0.333333",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Narrow Flick does not double back 16 Z=20.0 width=0.333333",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick flat Y 16 Z=20.0 width=0.500000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick recedes, not rises 16 Z=20.0 width=0.500000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick width-independent height 16 Z=20.0 width=0.500000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick inverse projection 16 Z=20.0 width=0.500000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Narrow Flick does not double back 16 Z=20.0 width=0.500000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick flat Y 16 Z=20.0 width=1.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick recedes, not rises 16 Z=20.0 width=1.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick width-independent height 16 Z=20.0 width=1.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick inverse projection 16 Z=20.0 width=1.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Narrow Flick does not double back 16 Z=20.0 width=1.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick flat Y 16 Z=20.0 width=2.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick recedes, not rises 16 Z=20.0 width=2.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick width-independent height 16 Z=20.0 width=2.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick inverse projection 16 Z=20.0 width=2.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Narrow Flick does not double back 16 Z=20.0 width=2.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick flat Y 16 Z=20.0 width=4.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick recedes, not rises 16 Z=20.0 width=4.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick width-independent height 16 Z=20.0 width=4.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Flick inverse projection 16 Z=20.0 width=4.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Narrow Flick does not double back 16 Z=20.0 width=4.000000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Every width/direction same height at Z=0.0",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Every width/direction same height at Z=1.23",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Every width/direction same height at Z=8.16",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Every width/direction same height at Z=20.0",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Perspective height decreases in the distance",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "SPC opening event positions are untouched",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Visual speed scales distance independently",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "GUID uniqueness",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Scene and profile exist",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "No global project configuration replacement",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Meta reference Assets/InFalsusStudio/Editor/StudioSetup.cs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Meta reference Assets/InFalsusStudio/Editor",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Meta reference Assets/InFalsusStudio/Resources/InFalsusStudio/CalibratedProfile.asset",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Meta reference Assets/InFalsusStudio/Resources/InFalsusStudio/LightsOut.spc.txt",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Meta reference Assets/InFalsusStudio/Resources/InFalsusStudio/VertexGlow.shader",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Meta reference Assets/InFalsusStudio/Resources/InFalsusStudio/VertexOpaque.shader",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Meta reference Assets/InFalsusStudio/Resources/InFalsusStudio/VertexTransparent.shader",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Meta reference Assets/InFalsusStudio/Resources/InFalsusStudio",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Meta reference Assets/InFalsusStudio/Resources",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Meta reference Assets/InFalsusStudio/Runtime/Core/AuthoringGrid.cs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Meta reference Assets/InFalsusStudio/Runtime/Core/AuthoringSelfTests.cs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Meta reference Assets/InFalsusStudio/Runtime/Core/CameraCalibration.cs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Meta reference Assets/InFalsusStudio/Runtime/Core/ChartMath.cs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Meta reference Assets/InFalsusStudio/Runtime/Core/CoreSelfTests.cs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Meta reference Assets/InFalsusStudio/Runtime/Core/EditOperations.cs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Meta reference Assets/InFalsusStudio/Runtime/Core/EditingSelfTests.cs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Meta reference Assets/InFalsusStudio/Runtime/Core/PointPlacement.cs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Meta reference Assets/InFalsusStudio/Runtime/Core/RadialMenuState.cs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Meta reference Assets/InFalsusStudio/Runtime/Core/SpcDocument.cs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Meta reference Assets/InFalsusStudio/Runtime/Core/WaveReader.cs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Meta reference Assets/InFalsusStudio/Runtime/Core",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Meta reference Assets/InFalsusStudio/Runtime/LeftControlGate.cs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Meta reference Assets/InFalsusStudio/Runtime/Rendering/FlickGeometry.cs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Meta reference Assets/InFalsusStudio/Runtime/Rendering/MeshBatch.cs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Meta reference Assets/InFalsusStudio/Runtime/Rendering/NoteRenderer.cs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Meta reference Assets/InFalsusStudio/Runtime/Rendering/StageRenderer.cs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Meta reference Assets/InFalsusStudio/Runtime/Rendering/StageSpace.cs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Meta reference Assets/InFalsusStudio/Runtime/Rendering",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Meta reference Assets/InFalsusStudio/Runtime/StudioBootstrap.Editing.cs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Meta reference Assets/InFalsusStudio/Runtime/StudioBootstrap.PointPlacement.cs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Meta reference Assets/InFalsusStudio/Runtime/StudioBootstrap.Radial.cs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Meta reference Assets/InFalsusStudio/Runtime/StudioBootstrap.Timeline.cs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Meta reference Assets/InFalsusStudio/Runtime/StudioBootstrap.cs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Meta reference Assets/InFalsusStudio/Runtime/StudioProfile.cs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Meta reference Assets/InFalsusStudio/Runtime/StudioTransport.cs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Meta reference Assets/InFalsusStudio/Runtime",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Meta reference Assets/InFalsusStudio/Scenes/InFalsusStudio_Demo.unity",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Meta reference Assets/InFalsusStudio/Scenes",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Meta reference Assets/InFalsusStudio",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Resolved serialized GUID 5b8f64b410665303b80628027b259938",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Resolved serialized GUID 3e256aaacf845158a283c18673592ff3",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Resolved serialized GUID 316b378ad4f0564a96f6c3aee906a95a",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Resolved serialized GUID 1cc77dde6a6253fab54aba4940869f25",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "No InputSystem package API use",
+      "passed": true,
+      "detail": ""
+    }
+  ]
+}

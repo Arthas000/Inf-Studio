@@ -1,0 +1,133 @@
+{
+  "repository": "yojohanshinwataikei/Arcade-plus",
+  "commit": "d157e35cbc3af869094775333a89cf0918aac166",
+  "inspection": "source read via GitHub connector; no Arcade binary launched; no full-repository runtime/visual certification",
+  "sources": [
+    {
+      "id": "timing-editor",
+      "path": "Assets/Scripts/Compose/Editing/Editors/AdeTimingEditor.cs",
+      "read_range": "full",
+      "purpose": "时序行、增删改命令、timing group管理",
+      "url": "https://github.com/yojohanshinwataikei/Arcade-plus/blob/d157e35cbc3af869094775333a89cf0918aac166/Assets/Scripts/Compose/Editing/Editors/AdeTimingEditor.cs"
+    },
+    {
+      "id": "timing-item",
+      "path": "Assets/Scripts/Compose/Editing/Editors/AdeTimingItem.cs",
+      "read_range": "full",
+      "purpose": "onEndEdit解析提交，异常处理",
+      "url": "https://github.com/yojohanshinwataikei/Arcade-plus/blob/d157e35cbc3af869094775333a89cf0918aac166/Assets/Scripts/Compose/Editing/Editors/AdeTimingItem.cs"
+    },
+    {
+      "id": "timing-math",
+      "path": "Assets/Scripts/Gameplay/Managers/ArcTimingManager.cs",
+      "read_range": "1-245",
+      "purpose": "BPM驱动位移、timinggroup时间轴、小节线",
+      "url": "https://github.com/yojohanshinwataikei/Arcade-plus/blob/d157e35cbc3af869094775333a89cf0918aac166/Assets/Scripts/Gameplay/Managers/ArcTimingManager.cs"
+    },
+    {
+      "id": "grid",
+      "path": "Assets/Scripts/Compose/Editing/Cursor/AdeGridManager.cs",
+      "read_range": "1-580",
+      "purpose": "节拍/小节缓存、网格池、吸附、X/Y自定义语法",
+      "url": "https://github.com/yojohanshinwataikei/Arcade-plus/blob/d157e35cbc3af869094775333a89cf0918aac166/Assets/Scripts/Compose/Editing/Cursor/AdeGridManager.cs"
+    },
+    {
+      "id": "transport-ui",
+      "path": "Assets/Scripts/Compose/ArcadeComposeManager.cs",
+      "read_range": "1-250",
+      "purpose": "四边UI、双camera布局、按拍/小节浏览、偏好设置",
+      "url": "https://github.com/yojohanshinwataikei/Arcade-plus/blob/d157e35cbc3af869094775333a89cf0918aac166/Assets/Scripts/Compose/ArcadeComposeManager.cs"
+    },
+    {
+      "id": "progress",
+      "path": "Assets/Scripts/Compose/UI/Info/AdeTimingSlider.cs",
+      "read_range": "full",
+      "purpose": "Slider音频时间绑定与拖动ResetJudge",
+      "url": "https://github.com/yojohanshinwataikei/Arcade-plus/blob/d157e35cbc3af869094775333a89cf0918aac166/Assets/Scripts/Compose/UI/Info/AdeTimingSlider.cs"
+    },
+    {
+      "id": "commands",
+      "path": "Assets/Scripts/Compose/Command/AdeCommandManager.cs",
+      "read_range": "full",
+      "purpose": "ICommand、Prepare/Commit/Cancel、undo/redo",
+      "url": "https://github.com/yojohanshinwataikei/Arcade-plus/blob/d157e35cbc3af869094775333a89cf0918aac166/Assets/Scripts/Compose/Command/AdeCommandManager.cs"
+    },
+    {
+      "id": "operations",
+      "path": "Assets/Scripts/Compose/Editing/AdeOperationManager.cs",
+      "read_range": "full",
+      "purpose": "一次一个异步交互、取消token、操作分发",
+      "url": "https://github.com/yojohanshinwataikei/Arcade-plus/blob/d157e35cbc3af869094775333a89cf0918aac166/Assets/Scripts/Compose/Editing/AdeOperationManager.cs"
+    },
+    {
+      "id": "paste",
+      "path": "Assets/Scripts/Compose/Editing/Operations/AdeCopyOrCutPasteOperation.cs",
+      "read_range": "full",
+      "purpose": "预览、组合命令、相对时间、取消回滚",
+      "url": "https://github.com/yojohanshinwataikei/Arcade-plus/blob/d157e35cbc3af869094775333a89cf0918aac166/Assets/Scripts/Compose/Editing/Operations/AdeCopyOrCutPasteOperation.cs"
+    },
+    {
+      "id": "properties",
+      "path": "Assets/Scripts/Compose/Editing/Editors/AdeValueEditor.cs",
+      "read_range": "1-225",
+      "purpose": "批量混合值、类型字段、事件驱动刷新",
+      "url": "https://github.com/yojohanshinwataikei/Arcade-plus/blob/d157e35cbc3af869094775333a89cf0918aac166/Assets/Scripts/Compose/Editing/Editors/AdeValueEditor.cs"
+    },
+    {
+      "id": "project",
+      "path": "Assets/Scripts/Compose/Project/AdeProjectManager.cs",
+      "read_range": "1-245",
+      "purpose": "目录工程、五难度、FileSystemWatcher、备份/自动保存",
+      "url": "https://github.com/yojohanshinwataikei/Arcade-plus/blob/d157e35cbc3af869094775333a89cf0918aac166/Assets/Scripts/Compose/Project/AdeProjectManager.cs"
+    },
+    {
+      "id": "input",
+      "path": "Assets/Scripts/Compose/Input/AdeInputManager.cs",
+      "read_range": "1-220",
+      "purpose": "快捷键重绑定、modifier、焦点屏蔽、偏好",
+      "url": "https://github.com/yojohanshinwataikei/Arcade-plus/blob/d157e35cbc3af869094775333a89cf0918aac166/Assets/Scripts/Compose/Input/AdeInputManager.cs"
+    },
+    {
+      "id": "faults",
+      "path": "Assets/Scripts/Compose/Feature/AdeFaultDetector.cs",
+      "read_range": "full",
+      "purpose": "全谱检查及ChartFault.txt报告",
+      "url": "https://github.com/yojohanshinwataikei/Arcade-plus/blob/d157e35cbc3af869094775333a89cf0918aac166/Assets/Scripts/Compose/Feature/AdeFaultDetector.cs"
+    },
+    {
+      "id": "obs",
+      "path": "Assets/Scripts/Compose/Feature/AdeObsManager.cs",
+      "read_range": "1-240",
+      "purpose": "OBS连接与状态、线程消息派发",
+      "url": "https://github.com/yojohanshinwataikei/Arcade-plus/blob/d157e35cbc3af869094775333a89cf0918aac166/Assets/Scripts/Compose/Feature/AdeObsManager.cs"
+    },
+    {
+      "id": "skin",
+      "path": "Assets/Scripts/Compose/AdeSkinHost.cs",
+      "read_range": "1-225",
+      "purpose": "皮肤资源槽、默认值和资源来源标签",
+      "url": "https://github.com/yojohanshinwataikei/Arcade-plus/blob/d157e35cbc3af869094775333a89cf0918aac166/Assets/Scripts/Compose/AdeSkinHost.cs"
+    },
+    {
+      "id": "readme",
+      "path": "README.md",
+      "read_range": "full",
+      "purpose": "项目范围、许可例外、系统支持说明",
+      "url": "https://github.com/yojohanshinwataikei/Arcade-plus/blob/d157e35cbc3af869094775333a89cf0918aac166/README.md"
+    },
+    {
+      "id": "license",
+      "path": "LICENSE",
+      "read_range": "full",
+      "purpose": "MIT许可证正文",
+      "url": "https://github.com/yojohanshinwataikei/Arcade-plus/blob/d157e35cbc3af869094775333a89cf0918aac166/LICENSE"
+    },
+    {
+      "id": "unity",
+      "path": "ProjectSettings/ProjectVersion.txt",
+      "read_range": "full",
+      "purpose": "实际Unity版本6000.0.58f2",
+      "url": "https://github.com/yojohanshinwataikei/Arcade-plus/blob/d157e35cbc3af869094775333a89cf0918aac166/ProjectSettings/ProjectVersion.txt"
+    }
+  ]
+}

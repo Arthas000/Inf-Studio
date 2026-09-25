@@ -1,0 +1,44 @@
+﻿probe,bpm,purpose,game_version,combo_before,combo_after,score_before,score_after,note
+hold_duration_1,120,"head/tail and tick threshold sweep, compare stable combo before/after",,,,,,not measured
+hold_duration_124,120,"head/tail and tick threshold sweep, compare stable combo before/after",,,,,,not measured
+hold_duration_125,120,"head/tail and tick threshold sweep, compare stable combo before/after",,,,,,not measured
+hold_duration_126,120,"head/tail and tick threshold sweep, compare stable combo before/after",,,,,,not measured
+hold_duration_249,120,"head/tail and tick threshold sweep, compare stable combo before/after",,,,,,not measured
+hold_duration_250,120,"head/tail and tick threshold sweep, compare stable combo before/after",,,,,,not measured
+hold_duration_251,120,"head/tail and tick threshold sweep, compare stable combo before/after",,,,,,not measured
+hold_duration_499,120,"head/tail and tick threshold sweep, compare stable combo before/after",,,,,,not measured
+hold_duration_500,120,"head/tail and tick threshold sweep, compare stable combo before/after",,,,,,not measured
+hold_duration_501,120,"head/tail and tick threshold sweep, compare stable combo before/after",,,,,,not measured
+hold_duration_1000,120,"head/tail and tick threshold sweep, compare stable combo before/after",,,,,,not measured
+hold_duration_2000,120,"head/tail and tick threshold sweep, compare stable combo before/after",,,,,,not measured
+hold_bpm_60,60,"same milliseconds, different BPM",,,,,,not measured
+hold_bpm_240,240,"same milliseconds, different BPM",,,,,,not measured
+hold_phase_2037,120,onset-local versus global-grid tick phase,,,,,,not measured
+hold_phase_2123,120,onset-local versus global-grid tick phase,,,,,,not measured
+hold_bpm_change_inside,120,BPM change inside sustained note,,,,,,not measured
+skyarea_duration_1,120,"head/tail and tick threshold sweep, compare stable combo before/after",,,,,,not measured
+skyarea_duration_124,120,"head/tail and tick threshold sweep, compare stable combo before/after",,,,,,not measured
+skyarea_duration_125,120,"head/tail and tick threshold sweep, compare stable combo before/after",,,,,,not measured
+skyarea_duration_126,120,"head/tail and tick threshold sweep, compare stable combo before/after",,,,,,not measured
+skyarea_duration_249,120,"head/tail and tick threshold sweep, compare stable combo before/after",,,,,,not measured
+skyarea_duration_250,120,"head/tail and tick threshold sweep, compare stable combo before/after",,,,,,not measured
+skyarea_duration_251,120,"head/tail and tick threshold sweep, compare stable combo before/after",,,,,,not measured
+skyarea_duration_499,120,"head/tail and tick threshold sweep, compare stable combo before/after",,,,,,not measured
+skyarea_duration_500,120,"head/tail and tick threshold sweep, compare stable combo before/after",,,,,,not measured
+skyarea_duration_501,120,"head/tail and tick threshold sweep, compare stable combo before/after",,,,,,not measured
+skyarea_duration_1000,120,"head/tail and tick threshold sweep, compare stable combo before/after",,,,,,not measured
+skyarea_duration_2000,120,"head/tail and tick threshold sweep, compare stable combo before/after",,,,,,not measured
+skyarea_bpm_60,60,"same milliseconds, different BPM",,,,,,not measured
+skyarea_bpm_240,240,"same milliseconds, different BPM",,,,,,not measured
+skyarea_phase_2037,120,onset-local versus global-grid tick phase,,,,,,not measured
+skyarea_phase_2123,120,onset-local versus global-grid tick phase,,,,,,not measured
+skyarea_bpm_change_inside,120,BPM change inside sustained note,,,,,,not measured
+sky_chain_single,120,one long sky reference,,,,,,not measured
+sky_chain_same_group,120,split same group shared boundary,,,,,,not measured
+sky_chain_different_group,120,split different group shared boundary,,,,,,not measured
+hold_wide4,120,"same duration, width four",,,,,,not measured
+hold_side0,120,"same duration, side left",,,,,,not measured
+hold_side5,120,"same duration, side right",,,,,,not measured
+hold_track_change,120,"visual speed versus judgement tick domain, do not assume invariant",,,,,,not measured
+single_tap,120,single-hit scoring observation reference,,,,,,not measured
+single_flick,120,single-flick scoring reference,,,,,,not measured

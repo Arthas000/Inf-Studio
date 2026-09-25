@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1cc77dde6a6253fab54aba4940869f25, type: 3}
+  m_Name: CalibratedProfile
+  m_EditorClassIdentifier:
+  verticalFov: 50
+  cameraPitch: 23.65212
+  cameraHeight: 3.086448
+  cameraBack: 3.219452
+  lock16By9: 1
+  centralHalfWidth: 2
+  sideRun: 0.8252873
+  sideRise: 0.7716634
+  skyHeight: 1.156494
+  skyJudgeHalfWidth: 2.52
+  stageNear: -1.5
+  stageFar: 65
+  unitsPerSecondAtSpeedOne: 15
+  scrollMultiplier: 1
+  tapDepth: 0.48
+  tapWidthRatio: 0.94
+  flickDepth: 1.2
+  flickScreenHeightRatio: 0.2
+  flickHeightUnits: 0.4
+  flickCapSkew: 1.0
+  skyBorderWidth: 0.012
+  curvePixelTolerance: 0.65
+  fogStart: 32
+  fogEnd: 76
+  background: {r: 0.016, g: 0.027, b: 0.042, a: 1}
+  floorColor: {r: 0.055, g: 0.092, b: 0.125, a: 1}
+  leftSide: {r: 0.16, g: 0.13, b: 0.255, a: 1}
+  rightSide: {r: 0.25, g: 0.1, b: 0.2, a: 1}
+  tapColor: {r: 0.28, g: 0.86, b: 1, a: 1}
+  leftFlick: {r: 1, g: 0.87, b: 0.2, a: 0.94}
+  rightFlick: {r: 0.3, g: 1, b: 0.64, a: 0.94}
+  skyFill: {r: 0.55, g: 0.28, b: 1, a: 0.22}
+  skyEdge: {r: 0.83, g: 0.57, b: 1, a: 0.98}

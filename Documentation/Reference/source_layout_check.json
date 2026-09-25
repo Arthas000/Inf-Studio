@@ -1,0 +1,341 @@
+{
+  "scope": "Lexical delimiters / common declaration check only, not C# or Shader compilation",
+  "files": [
+    {
+      "file": "Assets/InFalsusStudio/Editor/StudioBuild08.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Editor/StudioSetup.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Resources/InFalsusStudio/Background.shader",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Resources/InFalsusStudio/VertexGlow.shader",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Resources/InFalsusStudio/VertexOpaque.shader",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Resources/InFalsusStudio/VertexTransparent.shader",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/Core/AirReachBounds.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/Core/AuthoringGrid.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/Core/AuthoringSelfTests.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/Core/AutoplayCursor.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/Core/CameraCalibration.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/Core/ChartMath.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/Core/CoreSelfTests.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/Core/EditOperations.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/Core/EditingSelfTests.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/Core/GeometricSkyEase.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/Core/HitSoundPlan.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/Core/IcpJsonImport.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/Core/LosslessJsonPatch.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/Core/ManualSongSession.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/Core/NavigationAndHandles.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/Core/NavigationSelfTests.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/Core/NoteProperties.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/Core/PointPlacement.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/Core/PreviewScore.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/Core/ProjectJson.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/Core/ProvisionalComboTimeline.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/Core/RadialMenuState.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/Core/RationalAirCoordinates.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/Core/Release051SelfTests.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/Core/Release05SelfTests.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/Core/Release06SelfTests.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/Core/Release07SelfTests.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/Core/Release08SelfTests.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/Core/Release09SelfTests.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/Core/ReviewNavigation.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/Core/ScoreEvidence.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/Core/ScoreHudLayout.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/Core/SelectionAuthoring.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/Core/SkyConnections.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/Core/SkyGroups.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/Core/SongFolderProject.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/Core/SongMetadataEdit.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/Core/SongProjectSelfTests.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/Core/SpcDocument.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/Core/TickCountResearch.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/Core/TimingReferenceMerge.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/Core/WaveReader.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/EditModifierGate.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/LeftControlGate.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/NativeBorderlessWindow.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/Rendering/BeatGuideGeometry.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/Rendering/FlickGeometry.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/Rendering/HitFeedbackRenderer.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/Rendering/MeshBatch.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/Rendering/NoteRenderer.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/Rendering/StageRenderer.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/Rendering/StageSpace.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/Rendering/StudioBackground.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/StudioBootstrap.Chrome.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/StudioBootstrap.EaseHandles.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/StudioBootstrap.Editing.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/StudioBootstrap.Groups.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/StudioBootstrap.GuiFrame.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/StudioBootstrap.InputFields.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/StudioBootstrap.ManualSave.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/StudioBootstrap.Navigation.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/StudioBootstrap.NotePanel.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/StudioBootstrap.Panels.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/StudioBootstrap.PlayerAudio.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/StudioBootstrap.PointPlacement.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/StudioBootstrap.Presentation.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/StudioBootstrap.Radial.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/StudioBootstrap.SelectionWorkflow.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/StudioBootstrap.SongHud.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/StudioBootstrap.SongProject.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/StudioBootstrap.Timeline.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/StudioBootstrap.TimingReference.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/StudioBootstrap.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/StudioFileDialogs.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/StudioKeySounds.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/StudioProfile.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/StudioTransport.cs",
+      "lexical_check": "passed"
+    },
+    {
+      "file": "Assets/InFalsusStudio/Runtime/StudioWindow.cs",
+      "lexical_check": "passed"
+    }
+  ]
+}
